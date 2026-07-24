@@ -31,7 +31,7 @@ Here's how the pieces typically hold up in Central Texas conditions:
 
 Notice that spread on wire. Class 1 galvanizing carries roughly a third of the zinc that Class 3 does, and in our humidity that difference shows up as rust streaks within a decade. We wrote a whole piece on [why Class 3 galvanized wire is worth the extra cost](/blog/class-3-galvanized-wire/) if you want the details.
 
-If your fence is showing its age and you'd rather have a professional eye on it, [request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184). We'll tell you straight whether it needs a repair crew or a rebuild.
+If your fence is showing its age and you'd rather have a professional eye on it, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404). We'll tell you straight whether it needs a repair crew or a rebuild.
 
 ## What Determines How Long a Barbed Wire Fence Lasts
 
@@ -77,7 +77,7 @@ One caution on the DIY side: re-tensioning old wire is the job that sends people
 
 Marcy Halbert learned the repair-versus-replace math the practical way. She and her husband bought 42 acres near West in 2024 with a fence the seller called "solid." First winter, cattle were out on the county road twice. We walked the line with her and found ground-line rot in about half the posts and Class 1 wire that was down to bare steel. Patching what she'd already spent about $900 on piecemeal was never going to end. A full rebuild of her worst three-quarter mile came to roughly $13,500, and the rest of the perimeter tested good enough to leave alone. That's the outcome you want: replace the dead sections, keep the living ones.
 
-Not sure which side of the line your fence is on? Call [(254) 555-0184](tel:+12545550184) and we'll walk it with you. The written estimate is free, and if repair is the right answer, that's what we'll tell you.
+Not sure which side of the line your fence is on? Call [(509) 351-8404](tel:+15093518404) and we'll walk it with you. The written estimate is free, and if repair is the right answer, that's what we'll tell you.
 
 ## How to Make Your Barbed Wire Fence Last Longer
 
@@ -117,4 +117,4 @@ It depends on the posts and the wire condition, not the birthday. If most posts 
 
 Walk or ride the full line at least twice a year, spring and fall, plus a quick check after any major storm or flood. You're looking for slack strands, loose staples, leaning posts, and hog activity under the bottom wire. Catching those early is the single biggest factor in pushing a fence past the 40 year mark.
 
-Your fence has a lifespan, but you get a big vote in how long it is. If you want a straight answer on what yours has left, [get a free written estimate](/#contact) or call [(254) 555-0184](tel:+12545550184). We're licensed, insured, and local to Waco, and if a cow's already on the road, the emergency line answers 24/7.
+Your fence has a lifespan, but you get a big vote in how long it is. If you want a straight answer on what yours has left, [get a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). We're licensed, insured, and local to Waco, and if a cow's already on the road, the emergency line answers 24/7.

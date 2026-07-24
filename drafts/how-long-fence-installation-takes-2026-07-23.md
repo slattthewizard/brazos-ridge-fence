@@ -24,7 +24,7 @@ Put it all together and typical ranch jobs shake out like this:
 
 Those are construction days. Add 1 to 3 weeks of lead time before a crew shows up, longer in spring when everybody in Central Texas wants a fence at once.
 
-If you're trying to hit a hard date, a cattle delivery or a closing on land, call us early. We'll walk the line, give you a free written estimate, and put a real start date on paper. Reach us at [(254) 555-0184](tel:+12545550184) or through our [contact page](/#contact).
+If you're trying to hit a hard date, a cattle delivery or a closing on land, call us early. We'll walk the line, give you a free written estimate, and put a real start date on paper. Reach us at [(509) 351-8404](tel:+15093518404) or through our [contact page](/#contact).
 
 ## What eats up the calendar before the first post goes in
 
@@ -71,7 +71,7 @@ Materials were stock items, so we scheduled him 12 days out. Construction went l
 - Day 4: Stretched and tied all five strands.
 - Day 5: Half day of cleanup, clips, and a final walk with Danny.
 
-Call to finished fence: just under three weeks. Actual construction: four and a half days. That ratio is normal, and it's why the smart move is booking the crew before the old fence fails completely. If your fence is already down and cattle are on the road, that's a different conversation. We run a 24/7 emergency line for exactly that at [(254) 555-0184](tel:+12545550184).
+Call to finished fence: just under three weeks. Actual construction: four and a half days. That ratio is normal, and it's why the smart move is booking the crew before the old fence fails completely. If your fence is already down and cattle are on the road, that's a different conversation. We run a 24/7 emergency line for exactly that at [(509) 351-8404](tel:+15093518404).
 
 ## How long does it take to fence 10 acres or a full mile?
 
@@ -105,7 +105,7 @@ There are also jobs where DIY goes wrong in expensive ways. Corner braces that a
 
 Our general advice: repairs and short runs, do them yourself and take pride in it. Full perimeters, game fence, [pipe fence](/pipe-fence-waco/), and anything on rock or near utilities, hire it out. Your time is worth something, and a professionally built [barbed wire fence](/barbed-wire-fence-waco/) around here should give you 30 plus years before it needs real attention.
 
-Ready to put a date on the calendar? Request a free written estimate through our [contact page](/#contact) or call [(254) 555-0184](tel:+12545550184). We'll walk your line, quote it in writing, and tell you honestly when we can start.
+Ready to put a date on the calendar? Request a free written estimate through our [contact page](/#contact) or call [(509) 351-8404](tel:+15093518404). We'll walk your line, quote it in writing, and tell you honestly when we can start.
 
 ## Frequently Asked Questions
 

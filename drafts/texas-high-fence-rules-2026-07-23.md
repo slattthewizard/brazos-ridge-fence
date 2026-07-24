@@ -28,7 +28,7 @@ Texas Parks and Wildlife Department (TPWD) controls everything involving native 
 
 Current rules and season details live in TPWD's [Outdoor Annual](https://tpwd.texas.gov/regulations/outdoor-annual/), and they change often enough that you should check before every project and every season.
 
-If you're planning a high fence and want real numbers before you talk permits, call us at [(254) 555-0184](tel:+12545550184). Estimates are free and written, and we'll tell you straight what your ground needs.
+If you're planning a high fence and want real numbers before you talk permits, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and written, and we'll tell you straight what your ground needs.
 
 ## High Fence Rules for Native Whitetail: Where Landowners Get Burned
 
@@ -99,7 +99,7 @@ Budget honestly, and budget for the whole system: fence, gates, water gaps, clea
 
 One safety note before you grab an auger and a pallet of wire. Stretching high-tensile fixed knot wire stores enormous energy, and 8 foot fence work means heavy posts, tall ladders, and hydraulic equipment. A snapped stretch of high-tensile wire can cut you badly. Small repairs on existing fence are fine DIY territory. Building a mile of high fence is not. If any part of the job involves stretching full-height game wire or setting pipe corners in rock, call a professional crew.
 
-That's what we do all day. Our [game fence installation team in Waco](/game-fence-installation-waco/) handles permits questions, surveys, specs, and the build itself, and our estimates are always free and in writing. Call [(254) 555-0184](tel:+12545550184) or [reach us here](/#contact), day or night. The emergency line runs 24/7, because deer don't wait for business hours and neither do storm-flattened fences.
+That's what we do all day. Our [game fence installation team in Waco](/game-fence-installation-waco/) handles permits questions, surveys, specs, and the build itself, and our estimates are always free and in writing. Call [(509) 351-8404](tel:+15093518404) or [reach us here](/#contact), day or night. The emergency line runs 24/7, because deer don't wait for business hours and neither do storm-flattened fences.
 
 ## Frequently Asked Questions
 

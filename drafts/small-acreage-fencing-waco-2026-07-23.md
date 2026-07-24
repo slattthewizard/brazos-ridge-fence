@@ -19,7 +19,7 @@ Small acreage also concentrates animal pressure. Two horses on 8 acres walk the 
 
 Then there's the neighbor factor. On small tracts, your fence is usually shared on at least two sides, your entrance is close to the county road, and any escaped animal is on pavement in minutes. Under Texas stock law in most of McLennan County, if your cow or horse causes a wreck on the road, you can be held liable if you were negligent about your fence. That raises the stakes on doing it right the first time.
 
-So the small acreage fencing job has three goals: contain mixed animals under heavy pressure, keep them off the road, and do it without spending ranch money. Everything below flows from those three. If you'd rather just talk it through on your own fence line, call us at [(254) 555-0184](tel:+12545550184) and we'll walk it with you.
+So the small acreage fencing job has three goals: contain mixed animals under heavy pressure, keep them off the road, and do it without spending ranch money. Everything below flows from those three. If you'd rather just talk it through on your own fence line, call us at [(509) 351-8404](tel:+15093518404) and we'll walk it with you.
 
 ## What Small Acreage Fencing Costs Around Waco
 
@@ -37,7 +37,7 @@ A few things jump out of that table. First, barbed wire is cheap but it's a catt
 
 Budget rule of thumb for a mixed-animal hobby farm around Waco: plan on $10,000 to $20,000 for a solid perimeter on 8 to 12 acres, plus $2,500 to $7,500 if you want a pipe entrance with a gate that'll still swing straight in ten years.
 
-If you'd rather skip the guesswork, we'll walk your property line and put a written number on it for free. Call us at [(254) 555-0184](tel:+12545550184) or [request your free estimate here](/#contact). Takes about an hour, and you'll know your real cost instead of a blog range.
+If you'd rather skip the guesswork, we'll walk your property line and put a written number on it for free. Call us at [(509) 351-8404](tel:+15093518404) or [request your free estimate here](/#contact). Takes about an hour, and you'll know your real cost instead of a blog range.
 
 ## Match the Fence to the Animals, Not the Catalog
 
@@ -91,7 +91,7 @@ The safety lines are simpler. Stop and call a professional if the fence borders 
 
 A hybrid approach works great on small acreage: we set the corners, braces, and gates and stretch the wire, and you handle tear-out of the old fence and cleanup. That can shave 15 to 25 percent off the bill. There's a fuller breakdown in [DIY fence vs professional](/blog/diy-fence-vs-professional/).
 
-If you're weighing options for your own place, that's exactly what our free estimate is for. We'll tell you which parts are worth doing yourself and put real numbers on the rest, with no pressure either way. Call [(254) 555-0184](tel:+12545550184) or [reach us here](/#contact). And if you want the fancy front entrance to go with the practical perimeter, our [ranch entrance gates](/ranch-entrance-gates-waco/) and [pipe fence](/pipe-fence-waco/) pages show what we build around Waco.
+If you're weighing options for your own place, that's exactly what our free estimate is for. We'll tell you which parts are worth doing yourself and put real numbers on the rest, with no pressure either way. Call [(509) 351-8404](tel:+15093518404) or [reach us here](/#contact). And if you want the fancy front entrance to go with the practical perimeter, our [ranch entrance gates](/ranch-entrance-gates-waco/) and [pipe fence](/pipe-fence-waco/) pages show what we build around Waco.
 
 ## Frequently Asked Questions
 

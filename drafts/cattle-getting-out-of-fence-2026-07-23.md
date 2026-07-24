@@ -11,7 +11,7 @@ It's 6 a.m., your phone's buzzing, and it's your neighbor telling you your cows 
 
 We build and repair ranch fence all over McLennan, Bosque, and Falls counties, and when a rancher calls about escaping cattle, the problem is almost always on this list. Walk your fence line with these seven checks and you'll find the weak spot before your herd finds it again.
 
-And if you'd rather have a second set of eyes on it, call us at [(254) 555-0184](tel:+12545550184). We do free written estimates, and we run a 24/7 emergency line for cattle-out situations, because a cow on the highway at midnight can't wait until Monday.
+And if you'd rather have a second set of eyes on it, call us at [(509) 351-8404](tel:+15093518404). We do free written estimates, and we run a 24/7 emergency line for cattle-out situations, because a cow on the highway at midnight can't wait until Monday.
 
 ## 1. Loose, Sagging Wire: The Top Reason Cattle Keep Getting Out of Fence
 
@@ -103,7 +103,7 @@ One rule of thumb we give every caller: if you've repaired the same stretch thre
 
 There's a legal reason to stay ahead of this too. In much of Texas, and especially along highways and in counties with stock laws, a livestock owner can face real liability when cattle end up on a roadway. The state's fence and stock law framework is laid out in [Texas Agriculture Code Chapter 143](https://statutes.capitol.texas.gov/Docs/AG/htm/AG.143.htm), and it's worth knowing where your county stands.
 
-If you're tired of the 6 a.m. phone calls, we'll walk your fence line with you, show you exactly what's failing, and give you a free written estimate with real per-foot numbers. [Reach out here](/#contact) or call [(254) 555-0184](tel:+12545550184) any time, day or night, if you've got cattle out right now.
+If you're tired of the 6 a.m. phone calls, we'll walk your fence line with you, show you exactly what's failing, and give you a free written estimate with real per-foot numbers. [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404) any time, day or night, if you've got cattle out right now.
 
 ## Frequently Asked Questions
 

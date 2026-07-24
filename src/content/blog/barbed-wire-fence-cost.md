@@ -41,7 +41,7 @@ Those prices include materials, labor, braced corners, and normal cleanup. They 
 
 Materials alone run roughly $0.90 to $1.60 per foot if you're pricing a DIY job. Labor and equipment make up the rest, and on rocky Bosque County ground, labor is the part that grows.
 
-Want a number for your actual fence line instead of a range? Call us at [(254) 555-0184](tel:+12545550184) and we'll walk it with you. Written estimates are free and they don't expire the minute you hang up.
+Want a number for your actual fence line instead of a range? Call us at [(509) 351-8404](tel:+15093518404) and we'll walk it with you. Written estimates are free and they don't expire the minute you hang up.
 
 ## Barbed Wire Fence Cost Per Mile: Budgeting a Big Stretch
 
@@ -97,7 +97,7 @@ Where DIY goes sideways is corners, stretching, and rock. A wire stretcher under
 
 Our rule of thumb: DIY short repairs and small paddocks if you know what you're doing. Hire out long runs, road frontage, rocky ground, and anything where a failure puts cattle on pavement. Texas A&M AgriLife Extension has solid livestock fencing guidance if you do go the DIY route, at [agrilifeextension.tamu.edu](https://agrilifeextension.tamu.edu/).
 
-And know when to stop. If a stretch fails and cattle are out near a road, that's not a weekend project anymore. That's a liability problem at 2 a.m. Our 24/7 emergency line exists for exactly that: [(254) 555-0184](tel:+12545550184).
+And know when to stop. If a stretch fails and cattle are out near a road, that's not a weekend project anymore. That's a liability problem at 2 a.m. Our 24/7 emergency line exists for exactly that: [(509) 351-8404](tel:+15093518404).
 
 ## How to Get a Quote You Can Trust
 

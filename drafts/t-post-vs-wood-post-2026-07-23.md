@@ -11,7 +11,7 @@ About half the fence repair calls we run in McLennan County trace back to one de
 
 We build and repair ranch fence all over McLennan, Bosque, and Falls counties, so we've seen every version of getting this wrong. All-steel fences with corners leaning into the pasture. All-wood fences that cost double what they needed to. This article lays out where each post type earns its keep, what they actually cost in 2026, and how to combine them so your fence stays tight.
 
-If you'd rather skip the reading and just get a straight answer for your place, call us at [(254) 555-0184](tel:+12545550184). Estimates are free and in writing.
+If you'd rather skip the reading and just get a straight answer for your place, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and in writing.
 
 ## What T-Posts Do Well (and Where They Fall Short)
 
@@ -105,7 +105,7 @@ But know where the line is. Call a professional when:
 - **There's a water gap, road frontage, or utility easement involved.** Call 811 before any post holes near buried lines. It's free and it's the law.
 - **The project is more than you can finish before livestock test it.** A half-built fence is an invitation.
 
-We're licensed and insured, our estimates are free and written, and our emergency line answers 24/7 for storm damage and cattle-out calls. Call [(254) 555-0184](tel:+12545550184) or reach us at [brazosridgefence.com](/#contact) and we'll walk your line with you, whether you need the whole job done or just the corners set so you can run the wire yourself.
+We're licensed and insured, our estimates are free and written, and our emergency line answers 24/7 for storm damage and cattle-out calls. Call [(509) 351-8404](tel:+15093518404) or reach us at [brazosridgefence.com](/#contact) and we'll walk your line with you, whether you need the whole job done or just the corners set so you can run the wire yourself.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ A rancher we'll call Dale, out near Crawford, learned that the hard way in 2024.
 
 That's the math in one story. The survey is a rounding error next to the fence. The mistake is not.
 
-If you're pricing a line fence right now and want real numbers before you commit, call us at [(254) 555-0184](tel:+12545550184). Estimates are free and in writing, and we're happy to walk the line with you before anybody digs.
+If you're pricing a line fence right now and want real numbers before you commit, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and in writing, and we're happy to walk the line with you before anybody digs.
 
 ## What Texas Property Line Fence Laws Actually Say
 
@@ -97,7 +97,7 @@ But some situations call for stopping and picking up the phone:
 
 We build property line fences across McLennan, Bosque, and Falls counties, and we build to survey stakes, not to guesses. We're licensed and insured, every estimate is free and in writing, and if a storm drops a tree across your line fence at 2 a.m. and the cattle are walking, our emergency line answers around the clock.
 
-Get the survey. Have the neighbor conversation. Then let's build a fence that'll still be on the right line thirty years from now. Call [(254) 555-0184](tel:+12545550184) or [request your free written estimate](/#contact) today.
+Get the survey. Have the neighbor conversation. Then let's build a fence that'll still be on the right line thirty years from now. Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact) today.
 
 ## Frequently Asked Questions
 

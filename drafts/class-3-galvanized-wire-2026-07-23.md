@@ -23,7 +23,7 @@ Here's the key point: zinc wears away at a fairly steady rate for a given climat
 
 That's the whole argument between the classes. It's not about stronger steel or a better barb. It's about how thick the zinc is.
 
-If you're pricing a new perimeter fence and want somebody local to walk the line and talk wire specs with you, give us a call at [(254) 555-0184](tel:+12545550184). Estimates are free and in writing.
+If you're pricing a new perimeter fence and want somebody local to walk the line and talk wire specs with you, give us a call at [(509) 351-8404](tel:+15093518404). Estimates are free and in writing.
 
 ## Class 1 vs Class 3 Galvanized Wire: The Real Difference
 
@@ -114,7 +114,7 @@ And know when to stop DIYing. Stretching 5 strands over flat, clean ground is a 
 
 Ray Villarreal, south of Lorena, called us last spring to bid on replacing what he assumed was a worn-out fence from the previous owner. We walked the line and found 28-year-old Class 3 wire that was still bright under a little surface dust, with maybe 40 rusted feet at one water gap. Instead of the $11,000 replacement he expected, he spent about $850 fixing the water gap and resetting two braces. Good wire earns its keep in ways you don't see until decades later.
 
-Fence emergencies don't wait, either. If storm damage or a blown-out water gap has cattle out right now, our emergency line answers 24/7 at [(254) 555-0184](tel:+12545550184).
+Fence emergencies don't wait, either. If storm damage or a blown-out water gap has cattle out right now, our emergency line answers 24/7 at [(509) 351-8404](tel:+15093518404).
 
 ## Frequently Asked Questions
 

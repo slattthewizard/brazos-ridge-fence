@@ -75,7 +75,7 @@ When you're buying used pipe, check for:
 
 Texas A&M AgriLife Extension publishes solid guidance on fence planning and materials for Texas landowners at [agrilifeextension.tamu.edu](https://agrilifeextension.tamu.edu/), and it's worth a read before you spend real money on steel. For a deeper dive on sourcing, grades, and fair prices, our post on [used oilfield pipe fence](/blog/used-oilfield-pipe-fence/) covers what to buy and what to walk away from.
 
-Not sure what you're looking at on a trailer full of rusty pipe? Call us at [(254) 555-0184](tel:+12545550184) before you pay for it. A five minute conversation is free. A load of junk pipe is not.
+Not sure what you're looking at on a trailer full of rusty pipe? Call us at [(509) 351-8404](tel:+15093518404) before you pay for it. A five minute conversation is free. A load of junk pipe is not.
 
 ## Cost Comparison: 2 3/8 vs 2 7/8 Pipe
 

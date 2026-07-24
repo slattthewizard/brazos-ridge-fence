@@ -1,6 +1,6 @@
 ---
 meta_title: "Winter Fence Preparation for Texas Ranches | Waco TX"
-meta_description: "Winter fence preparation for Central Texas ranches. Tighten wire, brace corners, and trim ice-heavy limbs before the freeze. Free estimates: (254) 555-0184."
+meta_description: "Winter fence preparation for Central Texas ranches. Tighten wire, brace corners, and trim ice-heavy limbs before the freeze. Free estimates: (509) 351-8404."
 primary_keyword: "winter fence preparation"
 secondary_keywords: "winter fence prep, ice storm fence damage, winterize ranch fencing, prepare fence for hard freeze, cold weather fence maintenance"
 ---
@@ -13,7 +13,7 @@ That's what winter fence preparation is really about. It's not some big project.
 
 We build and repair ranch fence all over McLennan, Bosque, and Falls counties, and every January we see the same failures. Here's what actually breaks in a Texas freeze, what to check, what fixes cost, and when to call for help.
 
-If you'd rather have a second set of eyes on your lines before winter, we'll walk them with you. Call [(254) 555-0184](tel:+12545550184) and ask for a free written estimate on any repairs we find.
+If you'd rather have a second set of eyes on your lines before winter, we'll walk them with you. Call [(509) 351-8404](tel:+15093518404) and ask for a free written estimate on any repairs we find.
 
 ## Why a Hard Freeze Hits Central Texas Fences So Hard
 
@@ -112,7 +112,7 @@ But some jobs should end with a phone call, not a trip to the barn for more tool
 
 Winter fence preparation comes down to one idea: find the weak spot before the ice does. Walk your lines in November, spend a few hundred dollars on the obvious fixes, and you'll spend February by the stove instead of in a ditch with a flashlight in your teeth.
 
-If you'd rather have us handle the walk-through, the trimming, and the repairs in one visit, we do winter prep packages across McLennan, Bosque, and Falls counties every fall. Call [(254) 555-0184](tel:+12545550184) for a free written estimate, or [reach us here](/#contact) and we'll get you on the schedule before the first front.
+If you'd rather have us handle the walk-through, the trimming, and the repairs in one visit, we do winter prep packages across McLennan, Bosque, and Falls counties every fall. Call [(509) 351-8404](tel:+15093518404) for a free written estimate, or [reach us here](/#contact) and we'll get you on the schedule before the first front.
 
 ## Frequently Asked Questions
 

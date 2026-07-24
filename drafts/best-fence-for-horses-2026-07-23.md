@@ -13,7 +13,7 @@ Here's the short version: the best fence for horses is one a horse can see, can'
 
 In this guide we'll walk through why barbed wire and horses don't mix, which fences actually work for horses in McLennan, Bosque, and Falls counties, and what each one costs per foot installed. Real numbers, no fluff.
 
-If you've already got horses standing behind old barbed wire and you're worried about it, don't wait on an article. Call us at [(254) 555-0184](tel:+12545550184) and we'll come look at it. Estimates are free and in writing.
+If you've already got horses standing behind old barbed wire and you're worried about it, don't wait on an article. Call us at [(509) 351-8404](tel:+15093518404) and we'll come look at it. Estimates are free and in writing.
 
 ## Why Barbed Wire Hurts Horses (When It Works Fine for Cattle)
 
@@ -116,7 +116,7 @@ Stop and call a professional when the job involves tearing out old barbed wire, 
 
 The other time to call is right now, tonight, if a horse is already out or tangled. We run a 24/7 emergency line for exactly that.
 
-Ready to get real numbers for your place? Call [(254) 555-0184](tel:+12545550184) or [request your free written estimate](/#contact). We're licensed and insured, we build horse fence all over Central Texas, and we'll give you a per-foot price in writing before we drive a single post.
+Ready to get real numbers for your place? Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact). We're licensed and insured, we build horse fence all over Central Texas, and we'll give you a per-foot price in writing before we drive a single post.
 
 ## Frequently Asked Questions
 

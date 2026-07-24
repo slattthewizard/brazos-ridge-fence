@@ -30,7 +30,7 @@ A few things to keep in mind about those numbers. Most contractors, us included,
 
 That's the single biggest money-saving move: bundle removal with replacement. If your old fence is coming down because a new [barbed wire fence](/barbed-wire-fence-waco/) or [pipe fence](/pipe-fence-waco/) is going up, get one quote for the whole job.
 
-Want a real number for your place instead of a range? Call us at [(254) 555-0184](tel:+12545550184) and we'll walk the line with you and put it in writing. Estimates are free.
+Want a real number for your place instead of a range? Call us at [(509) 351-8404](tel:+15093518404) and we'll walk the line with you and put it in writing. Estimates are free.
 
 ## What Tear-Out Actually Involves, Step by Step
 
@@ -109,7 +109,7 @@ There's also a middle path. Some of our customers clear the brush and pull the T
 
 One more reason to get a pro's eyes on it before you start: sometimes the fence doesn't need to come out at all. Solid posts with tired wire can often be re-wired for far less than full replacement. And if you are replacing, knowing your rebuild number first matters, because tear-out pricing changes when it's bundled. Our [barbed wire fence cost guide](/blog/barbed-wire-fence-cost/) covers what new fence runs per foot so you can see the whole picture.
 
-Ready for a straight answer on your fence? Call [(254) 555-0184](tel:+12545550184) anytime, day or night. We answer our emergency line 24/7 for storm damage and cattle-out situations, and regular estimates are always free and in writing.
+Ready for a straight answer on your fence? Call [(509) 351-8404](tel:+15093518404) anytime, day or night. We answer our emergency line 24/7 for storm damage and cattle-out situations, and regular estimates are always free and in writing.
 
 ## Frequently Asked Questions
 

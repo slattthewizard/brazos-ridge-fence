@@ -13,7 +13,7 @@ Because fence post spacing isn't one number. It changes with the wire you're han
 
 We build barbed wire, net wire, and pipe fence all over McLennan, Bosque, and Falls counties, and post spacing questions come up on almost every estimate. This guide gives you the real numbers we use in the field, what they cost, and where cheap spacing turns expensive.
 
-Not sure what spacing your place needs? [Call us at (254) 555-0184](tel:+12545550184) and we'll walk your fence line with you. Written estimates are free.
+Not sure what spacing your place needs? [Call us at (509) 351-8404](tel:+15093518404) and we'll walk your fence line with you. Written estimates are free.
 
 ## Why Fence Post Spacing Matters More Than Most People Think
 
@@ -94,7 +94,7 @@ Wind load matters on net wire. A long, exposed run of mesh fence catches gusts l
 
 And know when to stop doing this yourself. Driving T-posts on flat ground is honest DIY work. But corner braces, pipe welding, long wire stretches under high tension, and any post setting near buried utilities are where people get hurt and fences fail. Call 811 before you dig, every time. Stretched high-tensile wire stores real energy, and a snapped strand can cut you badly. If any of that gives you pause, that's the moment to bring in a pro.
 
-We build [barbed wire fence](/barbed-wire-fence-waco/), net wire, and pipe fence across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, and West. If you'd rather get it right once, [call (254) 555-0184](tel:+12545550184) for a free written estimate, and remember we run a 24/7 emergency line for storm damage and cattle-out situations.
+We build [barbed wire fence](/barbed-wire-fence-waco/), net wire, and pipe fence across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, and West. If you'd rather get it right once, [call (509) 351-8404](tel:+15093518404) for a free written estimate, and remember we run a 24/7 emergency line for storm damage and cattle-out situations.
 
 ## Frequently Asked Questions
 

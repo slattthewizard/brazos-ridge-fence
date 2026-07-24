@@ -21,7 +21,7 @@ Net wire, also called field fence or woven wire, is a physical barrier. Vertical
 
 Both fences hang on the same bones: solid corner and gate braces, line posts every 10 to 12 feet, and wire stretched tight. The wire is the difference, and the wire is what drives the cost.
 
-If you're staring at a pasture right now trying to decide, skip the guesswork. Call us at [(254) 555-0184](tel:+12545550184) and we'll walk the line with you and put real numbers on both options in a free written estimate.
+If you're staring at a pasture right now trying to decide, skip the guesswork. Call us at [(509) 351-8404](tel:+15093518404) and we'll walk the line with you and put real numbers on both options in a free written estimate.
 
 ## Barbed Wire vs Net Wire Fence Cost in Central Texas
 
@@ -95,7 +95,7 @@ Run your place through these five questions and the answer usually falls out on 
 
 A word on doing it yourself. Stringing a few strands of barbed wire between existing braces is honest weekend work. But stretching net wire flat and tight over any distance, and building the H-braces that keep 3,000 pounds of wire tension from pulling your corners over, is where DIY projects go sideways. If a corner post leans or the mesh bags in the first year, the fence fails early no matter how good the wire was. When the job involves new braces, long runs, creek crossings, or rocky ground, that's the point to put the come-along down and call a professional.
 
-That's what we do all day, every day, from China Spring to Lorena. Call [(254) 555-0184](tel:+12545550184) for a free written estimate, and if a storm or a cow wreck has your fence open right now, that same number reaches our 24/7 emergency line.
+That's what we do all day, every day, from China Spring to Lorena. Call [(509) 351-8404](tel:+15093518404) for a free written estimate, and if a storm or a cow wreck has your fence open right now, that same number reaches our 24/7 emergency line.
 
 ## Frequently Asked Questions
 

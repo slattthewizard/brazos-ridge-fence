@@ -26,7 +26,7 @@ Barbed wire is two strands twisted together with barbs wrapped in at set spacing
 
 But thickness alone doesn't tell you how strong the wire is. That depends on the steel itself, which is where most buying mistakes happen. We'll get to that in a minute.
 
-If you're staring at a fence line right now and don't know what's strung on it, we can tell you in about two minutes. Call us at [(254) 555-0184](tel:+12545550184) and we'll walk you through checking it, or come out and look for free.
+If you're staring at a fence line right now and don't know what's strung on it, we can tell you in about two minutes. Call us at [(509) 351-8404](tel:+15093518404) and we'll walk you through checking it, or come out and look for free.
 
 ## 12.5 vs 15.5 Gauge: Side by Side
 
@@ -99,7 +99,7 @@ Most "bad wire" complaints we get are really installation problems. These are th
 
 **Wrong strand count.** Gauge won't save a three-strand fence that needed five. For cow-calf pairs in our area, five strands is the standard. Our post on [how many strands of barbed wire](/blog/how-many-strands-barbed-wire/) you need covers the tradeoffs by stock type.
 
-**Cutting wire under tension.** This is the safety one, so hear us plainly. A tensioned strand of high-tensile wire stores serious energy, and when it's cut it can whip fast enough to cut skin and worse. Wear eye protection, relieve tension before cutting, and never cut a loaded strand at face height. If a tree is down across a tight fence or storm damage has strands loaded in ways you can't read, stop and call a professional. That's exactly what our 24/7 emergency line is for: [(254) 555-0184](tel:+12545550184). Loose cattle and stored wire tension are both problems that get worse by the hour.
+**Cutting wire under tension.** This is the safety one, so hear us plainly. A tensioned strand of high-tensile wire stores serious energy, and when it's cut it can whip fast enough to cut skin and worse. Wear eye protection, relieve tension before cutting, and never cut a loaded strand at face height. If a tree is down across a tight fence or storm damage has strands loaded in ways you can't read, stop and call a professional. That's exactly what our 24/7 emergency line is for: [(509) 351-8404](tel:+15093518404). Loose cattle and stored wire tension are both problems that get worse by the hour.
 
 For everything else, from a single water gap to a full perimeter, our crews handle [barbed wire fence installation in Waco](/barbed-wire-fence-waco/) and the surrounding counties with written quotes and no surprises.
 

@@ -35,7 +35,7 @@ Texas law sets a much lower bar, by the way. The state's definition of a "suffic
 
 Here's what the legal minimum costs in practice. Danny Kolar runs about 40 pairs outside West, on a place he bought with an old 3-strand perimeter. Last fall his bull went through the west line chasing a neighbor's heifers, and Danny spent a Saturday getting him home. The tally: $350 to a hauler with a stock trailer, a $290 vet visit for wire cuts, and roughly $480 in patch materials and lost time. Call it $1,100 for one escape, and he got lucky it happened on a pasture road instead of the highway. He had us rebuild that line to five strands the next month.
 
-If you're staring at a tired 3-strand fence right now and wondering whether it'll hold through fall, call us at [(254) 555-0184](tel:+12545550184). We'll walk the line with you and give you a free written estimate, no pressure.
+If you're staring at a tired 3-strand fence right now and wondering whether it'll hold through fall, call us at [(509) 351-8404](tel:+15093518404). We'll walk the line with you and give you a free written estimate, no pressure.
 
 ## How Many Strands of Barbed Wire for Cattle in Each Situation
 
@@ -117,7 +117,7 @@ And if horses share the pasture, skip barbed wire entirely. Horses hit wire diff
 
 For a standard cow herd on Central Texas pasture, though, 5-strand barbed wire remains the best value per foot of anything you can build. Get the strand count right, hang the wires at the right heights, and build it on corners that will still be standing when your kids run the place.
 
-Ready to put real numbers on your fence line? Call Brazos Ridge Fence Co. at [(254) 555-0184](tel:+12545550184) or [request your free written estimate online](/#contact). We're licensed and insured, we answer the phone, and we keep a 24/7 emergency line for storm damage and cattle-out calls, because fences never fail at a convenient hour.
+Ready to put real numbers on your fence line? Call Brazos Ridge Fence Co. at [(509) 351-8404](tel:+15093518404) or [request your free written estimate online](/#contact). We're licensed and insured, we answer the phone, and we keep a 24/7 emergency line for storm damage and cattle-out calls, because fences never fail at a convenient hour.
 
 ## Frequently Asked Questions
 

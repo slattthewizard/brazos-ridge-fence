@@ -19,7 +19,7 @@ Before you touch a single wire, do a head count. Drive or ride your pastures and
 
 This matters more than most folks realize. Texas is technically open range, but most of Central Texas sits under local stock laws, and a jury can still find you negligent if your cattle cause a wreck and you knew your fence was down. We break down the legal side in our post on [cattle on the road and liability in Texas](/blog/cattle-on-road-liability-texas/). The one-sentence takeaway: once you know the fence is open, the clock is running on you to do something about it.
 
-If you've got cattle out and fence down right now, don't finish reading this article. Call our 24/7 emergency line at [(254) 555-0184](tel:+12545550184) and we'll get a crew moving while you round up stock. That's exactly what the emergency line is for.
+If you've got cattle out and fence down right now, don't finish reading this article. Call our 24/7 emergency line at [(509) 351-8404](tel:+15093518404) and we'll get a crew moving while you round up stock. That's exactly what the emergency line is for.
 
 ## Hours Two to Four: Walk the Line and Assess the Storm Fence Damage
 
@@ -104,7 +104,7 @@ Plenty of storm damage is a Saturday morning fix for a handy rancher. Some of it
 
 There's no shame in the second list. We carry the hydraulic post drivers, wire stretchers, and skid steer with a grapple that turn a dangerous two-weekend job into an afternoon. We're licensed and insured, so if something goes wrong on the job, it's on our policy, not yours.
 
-Storm season in Central Texas isn't going anywhere. If your fence took a hit, or you just want an honest assessment of what'll survive the next blow, call [(254) 555-0184](tel:+12545550184) or hit the [contact form](/#contact) for a free written estimate. Cattle-out and storm emergencies get answered 24/7, because cows don't check the clock before they walk through a gap.
+Storm season in Central Texas isn't going anywhere. If your fence took a hit, or you just want an honest assessment of what'll survive the next blow, call [(509) 351-8404](tel:+15093518404) or hit the [contact form](/#contact) for a free written estimate. Cattle-out and storm emergencies get answered 24/7, because cows don't check the clock before they walk through a gap.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ Here's the math that stings. Line posts run 10 to 20 feet apart on most ranch fe
 
 Dale, who runs cows northwest of Crawford, learned that the hard way before he called us. A previous crew set his line posts with cheap untreated pine timbers in 2019. By 2023 he could push them over by hand. Redoing a quarter mile of line posts and restretching the wire ran him about $3,800. The right posts up front would've added maybe $400 to the original job.
 
-So before you compare wire types or strand counts, get the post question settled. If you'd rather talk it through with somebody who sets posts for a living, [request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184). We'll shoot you straight on what your soil and stock actually need.
+So before you compare wire types or strand counts, get the post question settled. If you'd rather talk it through with somebody who sets posts for a living, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404). We'll shoot you straight on what your soil and stock actually need.
 
 ## Cedar Fence Posts: What the Old Timers Got Right and Wrong
 
@@ -105,7 +105,7 @@ And for corners and gates that take serious abuse, or anywhere horses and heavy 
 
 A word on DIY. Swapping a handful of line posts is a fine weekend job if you can match the set depth and get the tamping right. But if you're seeing rot across a whole stretch, if corners or gate posts are moving, or if cattle are already testing weak spots, stop and get help before a small problem becomes a loose herd on FM 185. Bracing and stretching under tension can hurt you, and a poorly rebuilt corner fails the whole fence.
 
-Want a straight recommendation for your soil and your stock? [Ask for a free written estimate](/#contact) or call [(254) 555-0184](tel:+12545550184). We're licensed and insured, and if a storm or a cattle-out emergency can't wait, that line answers 24/7.
+Want a straight recommendation for your soil and your stock? [Ask for a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). We're licensed and insured, and if a storm or a cattle-out emergency can't wait, that line answers 24/7.
 
 ## Frequently Asked Questions
 

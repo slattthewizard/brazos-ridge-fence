@@ -23,7 +23,7 @@ The relevant law lives in [Chapter 143 of the Texas Agriculture Code](https://st
 
 So the default answer is simple. The person who wants the fence pays for the fence. Everything beyond that comes down to agreements, and that's where most of the good and bad neighbor stories start.
 
-If you're staring at a bare property line right now and wondering what a fence would actually run, we'll walk the line with you and put a real number on paper. [Request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184). No pressure, no games, just footage and a price.
+If you're staring at a bare property line right now and wondering what a fence would actually run, we'll walk the line with you and put a real number on paper. [Request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404). No pressure, no games, just footage and a price.
 
 ## What Texas Law Actually Says About Boundary Fences
 
@@ -84,7 +84,7 @@ Rocky ground, heavy brush along the line, and extra gates or water gaps push the
 
 For most shared cattle boundaries in McLennan and Bosque counties, [5-strand barbed wire](/barbed-wire-fence-waco/) is still the workhorse. It's the cheapest split, it holds cattle, and both sides understand exactly what they're getting.
 
-Want a firm number for your specific line? Call [(254) 555-0184](tel:+12545550184) and we'll measure it, flag the trouble spots, and hand both you and your neighbor the same written estimate. A neutral third-party number makes the split conversation a whole lot easier.
+Want a firm number for your specific line? Call [(509) 351-8404](tel:+15093518404) and we'll measure it, flag the trouble spots, and hand both you and your neighbor the same written estimate. A neutral third-party number makes the split conversation a whole lot easier.
 
 ## When One Neighbor Refuses to Pay
 

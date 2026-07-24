@@ -13,7 +13,7 @@ We build fence in McLennan, Bosque, and Falls counties, which means almost every
 
 This guide covers how deep to go, when concrete helps and when it hurts, why corners fail first, and what all of it costs. Real numbers, real jobs, no fluff.
 
-If you'd rather skip the digging altogether, [call us at (254) 555-0184](tel:+12545550184) and we'll come look at your place. Written estimates are free.
+If you'd rather skip the digging altogether, [call us at (509) 351-8404](tel:+15093518404) and we'll come look at your place. Written estimates are free.
 
 ## Why Fence Posts in Clay Soil Lean, Heave, and Snap
 
@@ -110,7 +110,7 @@ And know when to stop DIYing. Call a professional when:
 - **Cattle are getting out.** That's a liability problem, not just a fence problem. In most of McLennan County you're under stock law, and a cow on the highway is your cow. Our emergency line runs 24/7 for exactly this.
 - **You're near utilities.** Call 811 before any digging, every time. It's free and it's the law.
 
-We're licensed, insured, and we set posts in this dirt every working day. [Call (254) 555-0184](tel:+12545550184) or [request your free written estimate](/#contact) and we'll spec the right depth, post, and footing for your exact soil.
+We're licensed, insured, and we set posts in this dirt every working day. [Call (509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact) and we'll spec the right depth, post, and footing for your exact soil.
 
 ## Frequently Asked Questions
 

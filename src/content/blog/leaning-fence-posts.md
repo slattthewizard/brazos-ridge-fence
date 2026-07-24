@@ -23,7 +23,7 @@ A post that leans 10 degrees in October will be lying in the grass by April. We'
 
 Here's the part most folks miss. The lean is a symptom, not the disease. Something under the ground failed, and if you just push the post back up and stomp the dirt, it'll be right back where it was after two good rains. Fixing it for good means figuring out why it moved, and that's what this article walks you through.
 
-If you'd rather skip the shovel work, call us at [(254) 555-0184](tel:+12545550184). We give free written estimates anywhere in McLennan, Bosque, and Falls counties, and we'll tell you straight whether a post needs straightening, resetting, or replacing.
+If you'd rather skip the shovel work, call us at [(509) 351-8404](tel:+15093518404). We give free written estimates anywhere in McLennan, Bosque, and Falls counties, and we'll tell you straight whether a post needs straightening, resetting, or replacing.
 
 ## Why fence posts start leaning in the first place
 
@@ -109,7 +109,7 @@ Walk your fence twice a year, spring and fall, and after every big storm. Catchi
 
 And match the post to the soil. In our clay, that means road base or crushed rock in the backfill, or pipe posts at the pressure points. In sand, it means concrete and extra depth.
 
-If you've got a line of leaning posts and you'd rather spend your weekend doing anything else, we'll handle it. Call [(254) 555-0184](tel:+12545550184) or request a free written estimate at [brazosridgefence.com](/#contact). We're licensed and insured, and our emergency line answers around the clock for storm damage and cattle-out situations.
+If you've got a line of leaning posts and you'd rather spend your weekend doing anything else, we'll handle it. Call [(509) 351-8404](tel:+15093518404) or request a free written estimate at [brazosridgefence.com](/#contact). We're licensed and insured, and our emergency line answers around the clock for storm damage and cattle-out situations.
 
 ## Frequently Asked Questions
 

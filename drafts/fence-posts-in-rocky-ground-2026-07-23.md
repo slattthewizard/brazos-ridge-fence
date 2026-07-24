@@ -23,7 +23,7 @@ The practical problem is simple. A fence post needs depth to hold. For a 5 foot 
 
 Here's the part that surprises folks: rock isn't all bad news. A post drilled and grouted into solid limestone holds better than a post in 4 feet of loose sand. The rock is only your enemy while you're fighting it. Once the post is in, that same rock is the best anchor in Texas.
 
-If you'd rather skip the fight entirely, we'll come look at your ground and give you a free written estimate with the rock work priced line by line. Call us at [(254) 555-0184](tel:+12545550184) or [request an estimate here](/#contact).
+If you'd rather skip the fight entirely, we'll come look at your ground and give you a free written estimate with the rock work priced line by line. Call us at [(509) 351-8404](tel:+15093518404) or [request an estimate here](/#contact).
 
 ## How the Pros Set Fence Posts in Rocky Ground
 
@@ -95,7 +95,7 @@ Second, match the post to the anchorage. Grouted pipe beats wood where rock is s
 
 Get the corners anchored in rock, put steel where the shelf is solid and wood where the dirt is deep, and a fence west of Waco will outlast one built in soft ground. The rock that fought you going in is the thing holding it all together for the next 30 years.
 
-Ready to fence rocky ground without the guesswork? Call Brazos Ridge Fence Co. at [(254) 555-0184](tel:+12545550184) for a free written estimate anywhere in McLennan, Bosque, or Falls County. We probe the line, price the rock honestly, and put it all in writing.
+Ready to fence rocky ground without the guesswork? Call Brazos Ridge Fence Co. at [(509) 351-8404](tel:+15093518404) for a free written estimate anywhere in McLennan, Bosque, or Falls County. We probe the line, price the rock honestly, and put it all in writing.
 
 ## Frequently Asked Questions
 

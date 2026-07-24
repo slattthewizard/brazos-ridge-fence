@@ -27,7 +27,7 @@ Three spots fail first on almost every place we look at:
 
 Hogs also follow routine. They travel the same trails between bedding cover and food, night after night. Once a sounder learns your fence has a hole, they'll use that hole until you close it, and then they'll test the fence 20 feet on either side of the patch. Texas Parks and Wildlife has a good rundown of feral hog behavior and legal control options on their [nuisance wildlife page](https://tpwd.texas.gov/huntwild/wild/nuisance/feral_hogs/) if you want the biology behind it.
 
-If you're finding fresh rooting along your line right now and stock is getting out, don't wait on it. Call us at [(254) 555-0184](tel:+12545550184) and we'll get eyes on the damage, usually within a day or two. Estimates are free and written.
+If you're finding fresh rooting along your line right now and stock is getting out, don't wait on it. Call us at [(509) 351-8404](tel:+15093518404) and we'll get eyes on the damage, usually within a day or two. Estimates are free and written.
 
 ## What feral hog fence damage looks like, and what it costs you
 
@@ -98,7 +98,7 @@ There's also a safety piece. Feral hogs can be aggressive, especially sows with 
 
 Marcus Teel, who runs goats on 40 acres near Valley Mills, patched the same creek-side stretch of hinge joint fence six times in one year. He kept receipts: about $640 in wire, clips, and posts, plus most of a weekend each time, and the hogs still opened it back up before Thanksgiving. We rebuilt that 500-foot stretch in fixed knot with a hot offset for $2,900 last December. As of July, it hasn't been breached once.
 
-If you're at that point, we'd rather look at it now than after the next breach. Brazos Ridge Fence is licensed and insured, we serve Waco and all of McLennan, Bosque, and Falls counties, and we keep a 24/7 emergency line for cattle-out situations. Call [(254) 555-0184](tel:+12545550184) any time, or [send us the details](/#contact) and we'll get you a free written estimate.
+If you're at that point, we'd rather look at it now than after the next breach. Brazos Ridge Fence is licensed and insured, we serve Waco and all of McLennan, Bosque, and Falls counties, and we keep a 24/7 emergency line for cattle-out situations. Call [(509) 351-8404](tel:+15093518404) any time, or [send us the details](/#contact) and we'll get you a free written estimate.
 
 ## Frequently Asked Questions
 

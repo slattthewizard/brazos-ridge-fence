@@ -23,7 +23,7 @@ Here's the frame we give buyers: fence is either an asset or a liability, and it
 
 There's a liability side too. In most of Texas, if your cattle get onto a highway and cause a wreck, you can be on the hook if you knew your fence wouldn't hold them. The Texas Agriculture Code, [Chapter 143](https://statutes.capitol.texas.gov/Docs/AG/htm/AG.143.htm), covers fencing and stock law rules, and most of McLennan, Bosque, and Falls counties operate under local stock laws that put the burden on the livestock owner. Buying a place with failing perimeter fence means buying that risk on day one.
 
-If you're under contract on a place right now and the clock is ticking, we can walk it with you. Call Brazos Ridge Fence Co. at [(254) 555-0184](tel:+12545550184) and we'll give you a free written estimate you can take straight into negotiations.
+If you're under contract on a place right now and the clock is ticking, we can walk it with you. Call Brazos Ridge Fence Co. at [(509) 351-8404](tel:+15093518404) and we'll give you a free written estimate you can take straight into negotiations.
 
 ## How to Inspect Fences Before Buying Land: The Perimeter Walk
 
@@ -90,7 +90,7 @@ First, the numbers are big. If your walk turns up more than a few hundred feet o
 
 And know your own limits after you buy. Re-stapling loose wire is a fine weekend job. Rebuilding corners, stretching new wire, and setting posts in creek banks is hard, dangerous work where wire under tension can cut you badly. When a repair involves a failed brace, a washed-out crossing, or anything near a road where livestock could get loose, stop and call a pro.
 
-We do free pre-purchase fence walk-throughs and written estimates all over Central Texas, from China Spring to West to McGregor. [Reach out here](/#contact) or call [(254) 555-0184](tel:+12545550184), and if you ever close on a place and wake up to cattle on the road, that same number is our 24/7 emergency line.
+We do free pre-purchase fence walk-throughs and written estimates all over Central Texas, from China Spring to West to McGregor. [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404), and if you ever close on a place and wake up to cattle on the road, that same number is our 24/7 emergency line.
 
 ## Frequently Asked Questions
 

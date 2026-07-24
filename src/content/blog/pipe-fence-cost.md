@@ -37,7 +37,7 @@ Here's what the common pipe fence styles run installed in Central Texas right no
 
 A quick gut check on totals. At $35 a foot, a quarter mile (1,320 feet) of pipe fence runs about $46,200. A 300 foot road frontage at the same rate is $10,500. Pipe fence isn't cheap, but it's the last fence most people ever build on that line.
 
-If you want a number for your specific place instead of a range, that's what we're here for. Call us at [(254) 555-0184](tel:+12545550184) or [request a free written estimate](/#contact). We'll walk the line with you and price it foot by foot, no pressure and no rounding up.
+If you want a number for your specific place instead of a range, that's what we're here for. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We'll walk the line with you and price it foot by foot, no pressure and no rounding up.
 
 ## What Drives Pipe Fencing Cost Up or Down
 
@@ -109,7 +109,7 @@ You can't change the price of steel, but you can control the design. A few hones
 
 **A word on DIY.** Plenty of ranchers can weld, and if that's you, you already know what your time is worth. But pipe fence is unforgiving work. It means hundreds of overhead and vertical welds in the heat, trenching and coring near buried utilities, and handling 30 foot joints of steel that can hurt you fast. If you don't weld regularly, or your line involves rock, slopes, or a water gap, stop and call a professional. A failed weld on a corner post can let a whole stretch of fence go slack, and loose cattle on a road is a liability you don't want. Our [pipe fence installation page](/pipe-fence-waco/) covers how we build them and what's included in every quote.
 
-If cattle are already testing a weak spot, don't wait on it. Our emergency line runs 24/7 for cattle-out and storm damage calls: [(254) 555-0184](tel:+12545550184).
+If cattle are already testing a weak spot, don't wait on it. Our emergency line runs 24/7 for cattle-out and storm damage calls: [(509) 351-8404](tel:+15093518404).
 
 ## Frequently Asked Questions
 

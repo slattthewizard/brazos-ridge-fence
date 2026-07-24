@@ -26,7 +26,7 @@ Here's why ranchers keep choosing it:
 
 For working pens, arena rails, entrance ways, and corner braces on wire fence, it's hard to beat. If you're pricing a full project, our [pipe fence installation page](/pipe-fence-waco/) breaks down what we build and how we build it.
 
-Want a real number for your place instead of internet ranges? [Call us at (254) 555-0184](tel:+12545550184) and we'll walk your fence line and put a written estimate in your hand for free.
+Want a real number for your place instead of internet ranges? [Call us at (509) 351-8404](tel:+15093518404) and we'll walk your fence line and put a written estimate in your hand for free.
 
 ## The Downsides Nobody Mentions at the Pipe Yard
 
@@ -111,7 +111,7 @@ Call a professional when any of these apply:
 
 Also know your limits on the buying side. If you can't confidently tell drill stem from tubing, or you can't inspect a load in person before paying, let somebody who buys pipe every week do it. The most expensive pipe fence in the county is the cheap one you build twice.
 
-We're happy to be that somebody. [Call (254) 555-0184](tel:+12545550184) or hit our [contact form](/#contact) for a free written estimate anywhere in McLennan, Bosque, or Falls county. We answer the phone, we show up when we say, and our welds hold.
+We're happy to be that somebody. [Call (509) 351-8404](tel:+15093518404) or hit our [contact form](/#contact) for a free written estimate anywhere in McLennan, Bosque, or Falls county. We answer the phone, we show up when we say, and our welds hold.
 
 ## Frequently Asked Questions
 

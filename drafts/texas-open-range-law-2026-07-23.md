@@ -25,7 +25,7 @@ Compare that to "fence in" states, where the animal's owner must contain their s
 
 That opt-out system is where stock laws come in, and it's why the honest answer to "is Texas open range?" is always the same: it depends on where your land sits and sometimes on which animal we're talking about.
 
-If your fences wouldn't stop a determined cow today, don't wait for the legal question to answer itself. Call Brazos Ridge Fence at [(254) 555-0184](tel:+12545550184) and we'll walk your lines with you and give you a free written estimate.
+If your fences wouldn't stop a determined cow today, don't wait for the legal question to answer itself. Call Brazos Ridge Fence at [(509) 351-8404](tel:+15093518404) and we'll walk your lines with you and give you a free written estimate.
 
 ## How County Stock Laws Close the Range
 
@@ -80,7 +80,7 @@ Two more things every landowner should file away.
 
 First, a fence on the line is usually a shared question but not a shared obligation. If you build entirely on your own side, it's yours, and a survey before you set the first post is cheap insurance against moving a half mile of fence later.
 
-Second, if your cattle are already getting out, treat it as urgent. Every escape builds the "knowingly" record against you. Our post on [cattle getting out of the fence](/blog/cattle-getting-out-of-fence/) walks through the usual escape points, and if you've got animals out near a road right now, our emergency line answers 24/7 at [(254) 555-0184](tel:+12545550184).
+Second, if your cattle are already getting out, treat it as urgent. Every escape builds the "knowingly" record against you. Our post on [cattle getting out of the fence](/blog/cattle-getting-out-of-fence/) walks through the usual escape points, and if you've got animals out near a road right now, our emergency line answers 24/7 at [(509) 351-8404](tel:+15093518404).
 
 ## What a Legal, Cattle-Tight Fence Costs in Central Texas
 

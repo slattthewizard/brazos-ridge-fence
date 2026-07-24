@@ -29,7 +29,7 @@ Wire doesn't loosen itself. Something in the system gave up, and it's almost alw
 
 Walk your line before you touch a tool. Figure out which of these five you've got, because the fix is different for each one.
 
-If you'd rather have somebody who does this every day take a look, [request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184). We'll tell you straight whether it's a two hour repair or time to talk replacement.
+If you'd rather have somebody who does this every day take a look, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404). We'll tell you straight whether it's a two hour repair or time to talk replacement.
 
 ## How to Fix a Sagging Barbed Wire Fence, Step by Step
 
@@ -80,7 +80,7 @@ Signs your brace has failed:
 
 You can rebuild an H-brace yourself if you're handy, but it takes a post hole digger or auger, proper 6 inch or larger posts set 3.5 feet deep, and getting the diagonal wire wrapped in the right direction. Wrap it the wrong way and the brace actually pulls itself apart under load. If that sentence made you squint, this is a good spot to hand it off. Corner work is where most DIY fence repairs go sideways.
 
-We rebuild corners as standalone repairs all the time. Call [(254) 555-0184](tel:+12545550184) and we'll usually have a crew out within the week, same day if you've got cattle out.
+We rebuild corners as standalone repairs all the time. Call [(509) 351-8404](tel:+15093518404) and we'll usually have a crew out within the week, same day if you've got cattle out.
 
 ## What It Costs to Fix a Sagging Barbed Wire Fence
 
@@ -130,7 +130,7 @@ But call in help when you hit any of these:
 - **Storm damage with livestock loose.** Speed matters more than pride. Get the animals contained.
 - **Anything involving rock.** If your post holes need a breaker bar or a hydraulic auger, your weekend is better spent elsewhere.
 
-We're a Waco crew that builds and repairs farm and ranch fence for a living, licensed and insured, with a 24/7 emergency line for storm damage and cattle-out calls. If your fence is more sag than steel, [get a free written estimate](/#contact) or call [(254) 555-0184](tel:+12545550184). If barbed wire has you rebuilding every few years and you're ready for something that shrugs off cattle entirely, take a look at our [pipe fence](/pipe-fence-waco/) options while you're at it.
+We're a Waco crew that builds and repairs farm and ranch fence for a living, licensed and insured, with a 24/7 emergency line for storm damage and cattle-out calls. If your fence is more sag than steel, [get a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). If barbed wire has you rebuilding every few years and you're ready for something that shrugs off cattle entirely, take a look at our [pipe fence](/pipe-fence-waco/) options while you're at it.
 
 ## Frequently Asked Questions
 

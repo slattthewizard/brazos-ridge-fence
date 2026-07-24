@@ -23,7 +23,7 @@ Because each panel is rigid, a cattle panel fence shrugs off point pressure. An 
 
 The tradeoff is cost and labor. Every 16 feet needs solid post support, and the material price per foot is several times what net wire costs. Nobody fences a quarter section with panels. Nobody should.
 
-If you are pricing a full property and want a gut check on your budget, look at our [ranch fence cost guide](/ranch-fence-cost/) or call us at [(254) 555-0184](tel:+12545550184) and we will talk through it. Written estimates are free and we do not play games with the numbers.
+If you are pricing a full property and want a gut check on your budget, look at our [ranch fence cost guide](/ranch-fence-cost/) or call us at [(509) 351-8404](tel:+15093518404) and we will talk through it. Written estimates are free and we do not play games with the numbers.
 
 ## Net wire in plain terms
 
@@ -85,7 +85,7 @@ Stop and call somebody when the job involves stretching net wire past a couple h
 
 Frank Novosad out in West learned that the hard way before he called us. He stretched 600 feet of field fence himself off corners set 18 inches deep in sand. It looked great in October. By June the corners had walked, the fence was on the ground in two spots, and his calves were grazing the county right of way. Redoing the corners and restretching cost him $1,150, most of which he would have avoided with proper braces the first time. If your fence is heading the same direction, our post on [leaning fence posts](/blog/leaning-fence-posts/) explains what is happening underground.
 
-We are licensed and insured, and we answer a 24/7 emergency line for cattle out and storm damage calls. If something just went through your fence tonight, call [(254) 555-0184](tel:+12545550184) and we will get you contained.
+We are licensed and insured, and we answer a 24/7 emergency line for cattle out and storm damage calls. If something just went through your fence tonight, call [(509) 351-8404](tel:+15093518404) and we will get you contained.
 
 ## Frequently Asked Questions
 

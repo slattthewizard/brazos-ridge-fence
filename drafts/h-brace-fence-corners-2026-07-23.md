@@ -33,7 +33,7 @@ Central Texas soil makes it worse. Our blackland clay acts like a sponge. When i
 
 Here's what that failure costs in real life. Dale Hoffman runs cows on 160 acres outside Crawford. His previous fence guy set the corners in concrete but skipped the braces, figuring concrete was enough. It isn't. Concrete just makes a heavier lever. After the wet spring of 2024, three corners rolled over, a quarter mile of five-strand went slack, and his cows found the county road. Dale paid us $4,100 to rebuild the corners and restretch the wire. Proper H braces on day one would have run him about $1,100. The lean cost him three times what the brace would have.
 
-And that's the cheap version of the story. A loose fence with cattle on a road is a liability problem, not just a fencing problem. If your fence is slack right now and stock are testing it, that's a today problem. Call our line at [(254) 555-0184](tel:+12545550184), day or night, and we'll get a crew moving.
+And that's the cheap version of the story. A loose fence with cattle on a road is a liability problem, not just a fencing problem. If your fence is slack right now and stock are testing it, that's a today problem. Call our line at [(509) 351-8404](tel:+15093518404), day or night, and we'll get a crew moving.
 
 ## How a Proper H Brace Goes Together
 
@@ -92,7 +92,7 @@ Plenty of handy landowners can build a solid H brace, and if you've got a tracto
 
 Call a professional when any of these are true. You're anchoring a long pull or high-tensile wire, where a brace failure releases a lot of stored energy fast. You're in rock and can't get to depth. You've got multiple failed corners, because that usually means the whole fence needs tension work, not just new posts. Or the fence is currently down and stock are loose, because that's an emergency, not a weekend project. Stretching wire against a fresh brace is also where most DIY injuries happen, so if you've never used a fence stretcher under real tension, have someone show you before you learn the hard way.
 
-We build and repair braces across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between. Estimates are free, in writing, and we'll tell you if your existing corners are worth saving. [Get your free estimate here](/#contact) or call [(254) 555-0184](tel:+12545550184). For storm damage or cattle out on a road, that line answers 24/7.
+We build and repair braces across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between. Estimates are free, in writing, and we'll tell you if your existing corners are worth saving. [Get your free estimate here](/#contact) or call [(509) 351-8404](tel:+15093518404). For storm damage or cattle out on a road, that line answers 24/7.
 
 ## Frequently Asked Questions
 

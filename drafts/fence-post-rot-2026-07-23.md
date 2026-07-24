@@ -80,7 +80,7 @@ A few honest notes on that table.
 
 Linda Vasek near Valley Mills learned that one the expensive way. She paid a handyman $260 to drive repair spikes on two rotten corner posts on her horse trap. Fourteen months later a spring storm hit, both corners folded, and her mare ended up on FM 56 at dusk. Nobody was hurt, thank God. We rebuilt both corners with pipe and re-stretched about 600 feet of wire for $1,450. Steel corners cost more up front, but she won't touch them again in her lifetime. If you're weighing that trade, our [pipe fence page](/pipe-fence-waco/) covers why we set pipe at every corner we build now.
 
-If cattle are already testing a weak stretch, don't wait on it. Call us at [(254) 555-0184](tel:+12545550184). We run a 24/7 line for cattle-out and storm-damage emergencies, because a rotten post never fails on a convenient day.
+If cattle are already testing a weak stretch, don't wait on it. Call us at [(509) 351-8404](tel:+15093518404). We run a 24/7 line for cattle-out and storm-damage emergencies, because a rotten post never fails on a convenient day.
 
 ## Replacing a Rotten Post the Right Way
 
@@ -115,7 +115,7 @@ For budgeting, here's what we see on real jobs in McLennan, Bosque, and Falls co
 
 At some point, replacement beats repair. If more than a quarter to a third of the posts in a run are soft, you'll spend less per year of fence life rebuilding the stretch than chasing failures one post at a time. Our [ranch fence cost guide](/ranch-fence-cost/) breaks down full rebuild pricing per foot and per mile so you can compare honestly.
 
-Not sure which side of that line your fence is on? [Ask for a free written estimate](/#contact) or call [(254) 555-0184](tel:+12545550184). We'll probe the posts, count the bad ones, and give you numbers for both the repair and the rebuild so you can decide with real figures in hand. We're licensed, insured, and we fence Central Texas dirt every working day.
+Not sure which side of that line your fence is on? [Ask for a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). We'll probe the posts, count the bad ones, and give you numbers for both the repair and the rebuild so you can decide with real figures in hand. We're licensed, insured, and we fence Central Texas dirt every working day.
 
 ## Frequently Asked Questions
 

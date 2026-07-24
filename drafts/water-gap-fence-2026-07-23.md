@@ -23,7 +23,7 @@ Here's the part that stings. A solid fence doesn't fail neatly at the creek. The
 
 The National Weather Service ranks flash flooding as one of the deadliest weather hazards in Texas, and our creeks can rise several feet in under an hour ([weather.gov flood safety](https://www.weather.gov/safety/flood)). Your fence has to live with that reality. A water gap is how it does.
 
-If you've got a crossing you're worried about, don't wait on the next storm. Call us at [(254) 555-0184](tel:+12545550184) and we'll take a look and give you a free written estimate.
+If you've got a crossing you're worried about, don't wait on the next storm. Call us at [(509) 351-8404](tel:+15093518404) and we'll take a look and give you a free written estimate.
 
 ## How a Water Gap Fence Works
 
@@ -117,7 +117,7 @@ Call a professional when the channel is wider than about 20 feet, when the creek
 
 We've built water gaps on just about every creek, draw, and bayou in the Waco area, and we know which designs survive which water. We're licensed and insured, estimates are free and in writing, and if a storm just took your crossing out and there are cattle on the wrong side of it, our emergency line answers around the clock.
 
-Call [(254) 555-0184](tel:+12545550184) or [request your free estimate online](/#contact), and let's make the next flood a non-event.
+Call [(509) 351-8404](tel:+15093518404) or [request your free estimate online](/#contact), and let's make the next flood a non-event.
 
 ## Frequently Asked Questions
 

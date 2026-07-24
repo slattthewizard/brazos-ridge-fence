@@ -21,7 +21,7 @@ First, limbs and trunks fall on wire. One dead cedar dropping across five strand
 
 There's also the build itself. A fence crew working a clean, cleared line can stretch wire in long, straight pulls. A crew dodging trees has to short-pull, add extra braces, and hand-dig around roots. That labor shows up on your invoice whether you see the line item or not.
 
-If your existing fence is already buried in brush and sagging, it might be past saving. A walk-through will help you decide, and if you want a second opinion, call us at [(254) 555-0184](tel:+12545550184). We'll walk the line with you and give you a free written estimate, no pressure.
+If your existing fence is already buried in brush and sagging, it might be past saving. A walk-through will help you decide, and if you want a second opinion, call us at [(509) 351-8404](tel:+15093518404). We'll walk the line with you and give you a free written estimate, no pressure.
 
 ## What It Costs to Clear a Fence Line in Central Texas
 
@@ -86,7 +86,7 @@ Once it's clear, don't let it grow back. A cleared line you shred once a year st
 
 And think hard about timing. The best window for clearing in Central Texas is late summer through winter, when the ground is firm, snakes are slower, and you're ahead of spring sap rise for stump treatments. Clearing in February and fencing in March is about the smoothest sequence there is.
 
-That's also the moment to price the whole project as one job. We quote clearing and fence construction together on most builds, which usually saves money because the equipment is already mobilized. Whether it's [barbed wire](/barbed-wire-fence-waco/) on a pasture line or pipe and cable at the headquarters, call [(254) 555-0184](tel:+12545550184) for a free written estimate that covers the clearing and the fence in one number. And if a storm drops timber on an existing fence and cattle are testing the gap, that same number is our 24/7 emergency line.
+That's also the moment to price the whole project as one job. We quote clearing and fence construction together on most builds, which usually saves money because the equipment is already mobilized. Whether it's [barbed wire](/barbed-wire-fence-waco/) on a pasture line or pipe and cable at the headquarters, call [(509) 351-8404](tel:+15093518404) for a free written estimate that covers the clearing and the fence in one number. And if a storm drops timber on an existing fence and cattle are testing the gap, that same number is our 24/7 emergency line.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ Take a plain 5-strand barbed wire fence. One contractor bids it with treated woo
 
 Terrain matters too. Rocky ground off Highway 6, heavy clay bottoms near the Brazos, creek crossings that need water gaps, brush that needs clearing before a single post goes in. A contractor who's actually walked your line prices that work. A contractor bidding off a satellite photo doesn't, and the difference shows up later as a change order.
 
-So a big spread between bids doesn't automatically mean somebody's cheating you. It usually means the bids aren't describing the same fence. Your job is to make them describe the same fence, and that starts with the paperwork. If you'd rather skip straight to a detailed written bid from folks who walk every line, [request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184).
+So a big spread between bids doesn't automatically mean somebody's cheating you. It usually means the bids aren't describing the same fence. Your job is to make them describe the same fence, and that starts with the paperwork. If you'd rather skip straight to a detailed written bid from folks who walk every line, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404).
 
 ## How to Compare Fence Quotes Line by Line
 
@@ -83,7 +83,7 @@ Some warning signs mean "ask more questions." These mean "walk away."
 
 **Vague answers about who does the work.** Some outfits sell the job and sub it out to whoever's available. That's not automatically bad, but you should know who's showing up and who stands behind the work.
 
-We put together a full list of [questions to ask a fence contractor](/blog/questions-to-ask-fence-contractor/) before you sign anything. Ask us the same questions. We're happy to answer every one at [(254) 555-0184](tel:+12545550184).
+We put together a full list of [questions to ask a fence contractor](/blog/questions-to-ask-fence-contractor/) before you sign anything. Ask us the same questions. We're happy to answer every one at [(509) 351-8404](tel:+15093518404).
 
 ## Comparing Fence Bids: Two True Stories From Down the Road
 

@@ -22,7 +22,7 @@ Here's how that per foot number breaks apart:
 
 Cheap quotes exist. If somebody offers you high fence at $3.00 per foot installed, ask hard questions. That price usually means hinge joint wire instead of fixed knot, light gauge wire, posts set too shallow, or corners without proper bracing. On a fence that's supposed to hold deer for 25 years, those shortcuts show up in year three.
 
-If you want a real number for your specific place, not an internet range, we'll walk your fence line and put it in writing for free. Call us at [(254) 555-0184](tel:+12545550184) or [request a free written estimate](/#contact). Our [game fence installation crew in Waco](/game-fence-installation-waco/) builds high fence year round, so we quote from current material prices, not last year's.
+If you want a real number for your specific place, not an internet range, we'll walk your fence line and put it in writing for free. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). Our [game fence installation crew in Waco](/game-fence-installation-waco/) builds high fence year round, so we quote from current material prices, not last year's.
 
 ## Game Fence Prices Per Acre and Per Mile
 
@@ -92,7 +92,7 @@ A few habits will save you real money on a high fence project.
 
 **Know when DIY stops making sense.** Stretching a few hundred feet of net wire on flat ground is a fair weekend project. An 8 foot fence is different. The wire is heavy, the stretch loads are big, and a corner brace that fails under tension can hurt somebody. If your project involves rock, creek crossings, long pulls, or any fence you expect to hold expensive animals, bring in a crew that builds high fence for a living. The redo costs more than doing it right once.
 
-When you're ready for a straight number on your place, call [(254) 555-0184](tel:+12545550184). Estimates are free, written, and good for the season, and if a storm ever drops a tree on that new fence, our emergency line answers around the clock.
+When you're ready for a straight number on your place, call [(509) 351-8404](tel:+15093518404). Estimates are free, written, and good for the season, and if a storm ever drops a tree on that new fence, our emergency line answers around the clock.
 
 ## Frequently Asked Questions
 

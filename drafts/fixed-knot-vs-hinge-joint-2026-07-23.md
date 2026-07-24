@@ -23,7 +23,7 @@ That knot is why a fixed knot fence can run 15 to 20 feet between posts while hi
 
 One more piece matters as much as the knot: the coating. Look for Class 3 galvanized wire on either style. The short version on coatings: Class 3 carries roughly triple the zinc of Class 1 and can double the rust-free life of the wire. The [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu/) covers wire selection and fence planning for Texas operations if you want the research side of it.
 
-Not sure what's on your fence line now? Call us at [(254) 555-0184](tel:+12545550184) and we'll walk your place, identify what you've got, and give you a free written estimate on what it'd take to fix or replace it.
+Not sure what's on your fence line now? Call us at [(509) 351-8404](tel:+15093518404) and we'll walk your place, identify what you've got, and give you a free written estimate on what it'd take to fix or replace it.
 
 ## Where Hinge Joint Fence Still Makes Sense
 
@@ -91,7 +91,7 @@ A word on DIY: stretching high tensile fixed knot wire is a different animal tha
 
 One last gut check, from a job in China Spring: a landowner named Pete priced his own materials for 1,200 feet of fixed knot, figured $2,100 in wire and posts, and started building. Two pulled-over corners and one trip to urgent care for a wire whip across the forearm later, he called us. We rebuilt the corners, restretched the wire, and finished the run for $4,400 on top of what he'd already spent. He'd have been at roughly $5,900 total if we'd built it from scratch. DIY can save money, but only if the corners and the stretch are done right the first time.
 
-Whatever direction you're leaning, we'll give you a straight answer and a written number. Call [(254) 555-0184](tel:+12545550184) or [request a free estimate](/#contact). We're licensed and insured, and if a storm or a cow wreck takes a fence down tonight, our emergency line answers 24/7.
+Whatever direction you're leaning, we'll give you a straight answer and a written number. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact). We're licensed and insured, and if a storm or a cow wreck takes a fence down tonight, our emergency line answers 24/7.
 
 ## Frequently Asked Questions
 

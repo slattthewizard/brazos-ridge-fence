@@ -23,7 +23,7 @@ That's why the [5-strand barbed wire](/barbed-wire-fence-waco/) that's held catt
 
 Sheep have a second problem barbed wire can't solve: predators. Barbed wire doesn't even slow down a coyote, and Central Texas has plenty of them. If you're running sheep or goats, your fence has two jobs. Keep the animals in, and keep the killers out.
 
-If you're staring at a pasture right now trying to figure out what that means for your place, call us at [(254) 555-0184](tel:+12545550184). We'll walk the line with you and give you a free written estimate, no pressure and no guessing games.
+If you're staring at a pasture right now trying to figure out what that means for your place, call us at [(509) 351-8404](tel:+15093518404). We'll walk the line with you and give you a free written estimate, no pressure and no guessing games.
 
 ## The best goat fence for most Central Texas places: net wire done right
 
@@ -103,7 +103,7 @@ After years of fixing goat fences other people built, the same handful of proble
 
 And a word on small places: if you're fencing 2 to 10 acres for a handful of goats or sheep, the math and the layout work differently than a ranch perimeter. We covered that in our guide to [small acreage fencing around Waco](/blog/small-acreage-fencing-waco/).
 
-If your current fence is losing the fight, don't wait for the phone call from the neighbor. Reach out through [our contact page](/#contact) or call [(254) 555-0184](tel:+12545550184). Free written estimates, licensed and insured, and if animals are out on a road right now, our emergency line runs 24/7.
+If your current fence is losing the fight, don't wait for the phone call from the neighbor. Reach out through [our contact page](/#contact) or call [(509) 351-8404](tel:+15093518404). Free written estimates, licensed and insured, and if animals are out on a road right now, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

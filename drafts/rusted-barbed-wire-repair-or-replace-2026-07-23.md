@@ -11,7 +11,7 @@ Grab a strand of your oldest wire and twist it hard with a pair of pliers. If it
 
 That test settles more arguments than anything else we do on ranch calls around Waco. A rusted barbed wire fence isn't automatically a dead fence. Plenty of wire out here in McLennan, Bosque, and Falls counties turned brown twenty years ago and still holds cattle just fine. But there's a point where rust stops being cosmetic and starts being structural, and guessing wrong costs real money in vet bills, liability, and midnight phone calls about cows on the highway.
 
-This article walks you through how to tell the difference, what repairs actually cost per foot, and when replacement is the smarter spend. If you'd rather have a second set of eyes on it, call us at [(254) 555-0184](tel:+12545550184) and we'll walk your fence line with you. The written estimate is free.
+This article walks you through how to tell the difference, what repairs actually cost per foot, and when replacement is the smarter spend. If you'd rather have a second set of eyes on it, call us at [(509) 351-8404](tel:+15093518404) and we'll walk your fence line with you. The written estimate is free.
 
 ## Why Barbed Wire Rusts Faster in Central Texas
 
@@ -109,7 +109,7 @@ And a safety note that comes from experience: wear heavy gloves and eye protecti
 
 Some folks rebuilding high-traffic areas skip wire corrosion worries entirely by going to [pipe fencing](/pipe-fence-waco/) around pens and entrances, then running new [barbed wire](/barbed-wire-fence-waco/) on the perimeter. That combination handles Central Texas weather about as well as anything.
 
-The bottom line: brown wire that bends is a repair, brown wire that snaps is a replacement, and the twist test costs you nothing. If you want a straight answer on your fence with numbers attached, call [(254) 555-0184](tel:+12545550184) or [request your free written estimate](/#contact). And if cattle are already out through a failed stretch, that same number reaches our 24/7 emergency line.
+The bottom line: brown wire that bends is a repair, brown wire that snaps is a replacement, and the twist test costs you nothing. If you want a straight answer on your fence with numbers attached, call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact). And if cattle are already out through a failed stretch, that same number reaches our 24/7 emergency line.
 
 ## Frequently Asked Questions
 

@@ -21,7 +21,7 @@ Dale Hutchins runs about 120 momma cows on a place near Crawford. Two summers ag
 
 That's the math behind every line on this checklist. Fence doesn't fail all at once. It fails slowly, then suddenly. Your job is to catch it in the slow phase.
 
-Twice-a-year inspections are the backbone. In Central Texas the natural rhythm is early spring, before things green up and hide problems, and late fall, before winter weather and hungry cattle start testing your wire. If you'd rather have a professional set of eyes on it, we do fence-line inspections with a free written estimate for any work we find. Call us at [(254) 555-0184](tel:+12545550184) and we'll walk your lines with you.
+Twice-a-year inspections are the backbone. In Central Texas the natural rhythm is early spring, before things green up and hide problems, and late fall, before winter weather and hungry cattle start testing your wire. If you'd rather have a professional set of eyes on it, we do fence-line inspections with a free written estimate for any work we find. Call us at [(509) 351-8404](tel:+15093518404) and we'll walk your lines with you.
 
 ## The Spring Ranch Fence Inspection: Walk or Ride Every Foot
 
@@ -104,7 +104,7 @@ Call a professional when:
 
 One safety note we mean sincerely: never cut a wire that's under heavy tension without knowing where it will go, and stay clear of any fence tangled with downed power lines. Call the utility first, every time.
 
-We repair and rebuild ranch fence across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, and West. If your inspection turned up problems bigger than a bucket of staples can solve, call [(254) 555-0184](tel:+12545550184). Estimates are free and in writing, and our emergency line answers 24/7 when cattle are out or a storm has your fence on the ground.
+We repair and rebuild ranch fence across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, and West. If your inspection turned up problems bigger than a bucket of staples can solve, call [(509) 351-8404](tel:+15093518404). Estimates are free and in writing, and our emergency line answers 24/7 when cattle are out or a storm has your fence on the ground.
 
 ## Frequently Asked Questions
 

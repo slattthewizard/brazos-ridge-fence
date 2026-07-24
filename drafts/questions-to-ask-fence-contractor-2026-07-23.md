@@ -21,7 +21,7 @@ It isn't. Two bids that both say "5-strand barbed wire, 2,600 feet" can describe
 
 Dale, a cow-calf operator just outside Crawford, learned this the expensive way before he called us. He took a $7,300 bid on 2,600 feet of barbed wire over a $10,400 bid. The cheap crew skipped braced corners entirely. Within eighteen months every corner had leaned, the wire sagged, and his heifers were walking through it. He paid another $2,100 just to rebuild four corners with proper H-braces. The "cheap" fence ended up costing $9,400 and still wasn't as good as the bid he passed on.
 
-Questions are how you catch that gap before you sign, not after your cattle find it. If you'd rather just talk it through with somebody local, [call us at (254) 555-0184](tel:+12545550184) and we'll walk your fence line with you. Written estimates are free and we'll put every spec on paper.
+Questions are how you catch that gap before you sign, not after your cattle find it. If you'd rather just talk it through with somebody local, [call us at (509) 351-8404](tel:+15093518404) and we'll walk your fence line with you. Written estimates are free and we'll put every spec on paper.
 
 ## Questions to Ask a Fence Contractor About Price and Materials
 
@@ -124,7 +124,7 @@ A problem contractor answers in generalities and gets a little irritated that yo
 
 Whether you need a quarter mile of [barbed wire fence](/barbed-wire-fence-waco/) around a hay trap or two miles of [pipe fence](/pipe-fence-waco/) along a county road, the questions above work the same. Ask all twelve. Write down the answers. Sign with the outfit whose answers you'd be happy to read back in three years.
 
-If that outfit turns out to be us, good. Call (254) 555-0184 or [send us a note](/#contact) and we'll come walk the line, measure it, and hand you a written bid that answers all twelve questions before you even ask. And if a storm or a downed tree just put your cattle on the wrong side of the wire, our emergency line runs 24/7.
+If that outfit turns out to be us, good. Call (509) 351-8404 or [send us a note](/#contact) and we'll come walk the line, measure it, and hand you a written bid that answers all twelve questions before you even ask. And if a storm or a downed tree just put your cattle on the wrong side of the wire, our emergency line runs 24/7.
 
 ## Frequently Asked Questions
 

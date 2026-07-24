@@ -13,7 +13,7 @@ An electric fence not working is one of the most common calls we get at Brazos R
 
 This guide walks the whole troubleshooting process in the order a pro would, charger outward. We chase electric fence problems every week across McLennan, Bosque, and Falls counties, so this advice is built for Central Texas: dry summers, cracked clay, hog damage, and grass that eats voltage alive by June.
 
-If you get to the end and the fence still won't hold voltage, or you'd rather skip the walking and hand it to somebody who does this daily, call us at [(254) 555-0184](tel:+12545550184). Estimates are free and written, and we answer the emergency line 24/7 when cattle are out.
+If you get to the end and the fence still won't hold voltage, or you'd rather skip the walking and hand it to somebody who does this daily, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and written, and we answer the emergency line 24/7 when cattle are out.
 
 ## Start at the Charger: Is Your Electric Fence Energizer Working?
 
@@ -107,7 +107,7 @@ Tom, who runs stockers on leased ground near Lorena, spent most of last spring c
 
 If you're weighing that same decision, our comparison of [electric fence vs barbed wire](/blog/electric-fence-vs-barbed-wire/) lays out costs and lifespan side by side.
 
-**Cattle out right now and the fence is dead?** Don't wait on business hours. Our emergency line runs 24/7 for exactly this: [(254) 555-0184](tel:+12545550184).
+**Cattle out right now and the fence is dead?** Don't wait on business hours. Our emergency line runs 24/7 for exactly this: [(509) 351-8404](tel:+15093518404).
 
 ## A 10-Minute Monthly Check That Prevents Most of This
 

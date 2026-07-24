@@ -27,7 +27,7 @@ So before you touch a wrench, figure out which of these is your actual problem:
 
 Stand back 20 feet and look at the gate closed. If the post is straight but the latch end droops, it's hinges or the gate. If the whole post tilts, that's your answer, and it's a bigger job.
 
-If you'd rather have somebody else sort it out, that's what we're here for. [Request a free written estimate](/#contact) or call us at [(254) 555-0184](tel:+12545550184) and we'll take a look, usually within a couple of days.
+If you'd rather have somebody else sort it out, that's what we're here for. [Request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404) and we'll take a look, usually within a couple of days.
 
 ## How to Fix a Sagging Gate at the Hinges First
 
@@ -101,7 +101,7 @@ Call a professional when:
 
 And if the sag is really a symptom of a whole entrance that's past its prime, it might be time to think bigger. A properly built entrance with concreted pipe posts and a heavy gate is a 30-year fix, not a 3-year one. Take a look at our [ranch entrance gates](/ranch-entrance-gates-waco/) page to see what that looks like on places around Central Texas.
 
-Either way, you don't have to guess. Call [(254) 555-0184](tel:+12545550184) and we'll tell you straight whether your gate needs a $15 part or a new post. If it's a $15 part, we'll say so.
+Either way, you don't have to guess. Call [(509) 351-8404](tel:+15093518404) and we'll tell you straight whether your gate needs a $15 part or a new post. If it's a $15 part, we'll say so.
 
 ## Keep It From Sagging Again
 

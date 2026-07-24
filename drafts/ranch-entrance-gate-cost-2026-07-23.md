@@ -23,7 +23,7 @@ Three things set the price more than anything else:
 - **What holds it up.** Two pipe posts in concrete might run $600. Two rock columns with lighting can run $9,000 by themselves.
 - **Power and automation.** Openers, solar panels, keypads, and safety sensors add $2,500 to $7,000 to almost any entrance.
 
-If you want a number for your specific driveway instead of a range, call us at [(254) 555-0184](tel:+12545550184) or [request a free written estimate](/#contact). We measure, we quote in writing, and the price doesn't wander after you sign.
+If you want a number for your specific driveway instead of a range, call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We measure, we quote in writing, and the price doesn't wander after you sign.
 
 ## Basic Pipe Gates: The Workhorse Option
 
@@ -97,7 +97,7 @@ Plenty of ranchers can hang a gate, and we won't pretend otherwise. Here's an ho
 
 The math usually favors doing the main entrance right once. We see it constantly: a $900 self-install becomes a $2,400 repair three years later, which is more than the professional install would have cost on day one.
 
-Ready for a real number on your entrance? Call [(254) 555-0184](tel:+12545550184) for a free written estimate. We serve Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between, and the estimate costs you nothing but a walk down your driveway.
+Ready for a real number on your entrance? Call [(509) 351-8404](tel:+15093518404) for a free written estimate. We serve Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between, and the estimate costs you nothing but a walk down your driveway.
 
 ## Frequently Asked Questions
 
