@@ -6,7 +6,7 @@ metaDescription: "Barbed wire and horses don't mix. Compare the best fence for h
 primaryKeyword: "best fence for horses"
 secondaryKeywords: "safest horse fence, horse fencing options, horse fence cost per foot, no-climb horse fence, pipe fence for horses"
 publishedDate: "2026-07-24"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "A horse can hit a barbed wire fence at 2 a.m. and hand you a $4,000 vet bill by sunrise. We've seen it happen more times than we'd like around Waco, and almost every time the fence was built for..."
 canonical: "https://brazosridgefence.com/blog/best-fence-for-horses/"
 faq:
@@ -17,7 +17,7 @@ faq:
   - question: "How tall should a horse fence be?"
     answer: "Plan on 54 to 60 inches at the top rail for most riding horses. Go 60 inches or more for stallions, tall warmbloods, or any horse with a jumping habit. Ponies and minis need shorter mesh openings more than they need extra height."
   - question: "How much does horse fencing cost per foot in the Waco area?"
-    answer: "Around Waco, no-climb net wire with a top rail typically runs $9 to $14 per foot installed, wood board runs $12 to $20, and pipe fence runs $28 to $45. Electric tape cross-fencing runs $3 to $6 per foot. Rock, brush, and gate count move every one of those numbers, so get a written per-foot quote before you commit."
+    answer: "Around Waco, no-climb net wire with a top rail typically runs $12 to $16 per foot installed, wood board runs $12 to $20, and pipe fence runs $18 to $28. Electric tape cross-fencing runs $3 to $6 per foot. Rock, brush, and gate count move every one of those numbers, so get a written per-foot quote before you commit."
 ---
 A horse can hit a barbed wire fence at 2 a.m. and hand you a $4,000 vet bill by sunrise. We've seen it happen more times than we'd like around Waco, and almost every time the fence was built for cattle, not horses.
 
@@ -51,7 +51,7 @@ Before we rank fence types, here's the checklist we use when we design a horse f
 
 **Height and strength.** For most horses, 54 to 60 inches at the top. The fence has to take a 1,100 pound animal leaning, scratching, or hitting it without folding.
 
-**Honest corners and gates.** Horses test gates and corners more than any stretch of line fence. That means real [H-brace corners](/blog/h-brace-fence-corners/) and gates hung on posts set in concrete, not a panel wired to a T-post.
+**Honest corners and gates.** Horses test gates and corners more than any stretch of line fence. That means real H-brace corners and gates hung on posts set in concrete, not a panel wired to a T-post.
 
 If your current fence fails two or more of those, it's worth a conversation. You can [request a free written estimate here](/#contact) and we'll walk the line with you.
 
@@ -63,7 +63,7 @@ Here's how the main horse fencing options stack up on our jobs around Waco, from
 
 This is what we recommend for most horse owners: 2x4 inch woven "no-climb" horse mesh, 48 to 60 inches tall, with a wood or pipe top rail so the fence is visible and the mesh can't get mashed down. Hooves can't get through it, there's nothing sharp on it, and good class 3 galvanized mesh lasts 20 to 25 years in our climate.
 
-Installed on wood posts with a top rail, you're usually looking at $9 to $14 per foot depending on terrain and brush. It's not cheap, but it's the best safety per dollar in horse fencing. If you're weighing mesh types, our [barbed wire vs net wire](/blog/barbed-wire-vs-net-wire/) breakdown covers the details.
+Installed on wood posts with a top rail, you're usually looking at $9 to $14 per foot depending on terrain and brush. It's not cheap, but it's the best safety per dollar in horse fencing. If you're weighing mesh types, our barbed wire vs net wire breakdown covers the details.
 
 ### 2. Pipe fence (safest and toughest)
 
@@ -96,7 +96,7 @@ Here's what these fences typically run installed on our jobs in McLennan, Bosque
 | Fence type | Installed cost per foot | Horse safety | Typical lifespan |
 |---|---|---|---|
 | Electric tape or braid | $3 to $6 | Fair as backup, weak as sole fence | 10 to 15 years |
-| Barbed wire (cattle only) | $2 to $4 | Poor, not recommended for horses | 25 to 30 years |
+| Barbed wire (cattle only) | $2.50 to $5.50 | Poor, not recommended for horses | 25 to 30 years |
 | Field fence (hinge joint) | $4 to $7 | Marginal, hoof traps in large mesh | 15 to 20 years |
 | No-climb net wire + top rail | $9 to $14 | Very good | 20 to 25 years |
 | Wood board (3 to 4 rail) | $12 to $20 | Good with upkeep | 15 to 20 years |
@@ -146,4 +146,4 @@ Plan on 54 to 60 inches at the top rail for most riding horses. Go 60 inches or 
 
 ### How much does horse fencing cost per foot in the Waco area?
 
-Around Waco, no-climb net wire with a top rail typically runs $9 to $14 per foot installed, wood board runs $12 to $20, and pipe fence runs $28 to $45. Electric tape cross-fencing runs $3 to $6 per foot. Rock, brush, and gate count move every one of those numbers, so get a written per-foot quote before you commit.
+Around Waco, no-climb net wire with a top rail typically runs $12 to $16 per foot installed, wood board runs $12 to $20, and pipe fence runs $18 to $28. Electric tape cross-fencing runs $3 to $6 per foot. Rock, brush, and gate count move every one of those numbers, so get a written per-foot quote before you commit.

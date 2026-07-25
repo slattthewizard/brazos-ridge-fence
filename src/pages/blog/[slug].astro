@@ -18,6 +18,9 @@ const canonical = post.data.canonical ?? `https://brazosridgefence.com/blog/${po
 const heroImg = fs.existsSync(`public/images/blog/${post.slug}.webp`)
   ? `/images/blog/${post.slug}.webp`
   : null;
+const heroImg800 = heroImg && fs.existsSync(`public/images/blog/${post.slug}-800.webp`)
+  ? `/images/blog/${post.slug}-800.webp`
+  : null;
 const ogImage = post.data.ogImage
   ?? (heroImg ? `https://brazosridgefence.com${heroImg}` : 'https://brazosridgefence.com/images/og-image.webp');
 const title = post.data.metaTitle ?? post.data.title;
@@ -36,7 +39,7 @@ const breadcrumbSchema = JSON.stringify({
 
 const articleSchema = JSON.stringify({
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "headline": post.data.title,
   "description": post.data.metaDescription,
   "image": ogImage,
@@ -47,6 +50,7 @@ const articleSchema = JSON.stringify({
   "author": { "@type": "Organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com/about/" },
   "publisher": {
     "@type": "Organization",
+    "@id": "https://brazosridgefence.com/#organization",
     "name": "Brazos Ridge Fence Co.",
     "url": "https://brazosridgefence.com",
     "logo": { "@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp" }
@@ -135,7 +139,7 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
 <!-- HERO -->
 <section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 60%, #08344B 100%);padding:64px 0;position:relative;overflow:hidden;">
   {heroImg && (
-    <img src={heroImg} alt="" width="1600" height="700" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high" aria-hidden="true" />
+    <img src={heroImg} srcset={heroImg800 ? `${heroImg800} 800w, ${heroImg} 1600w` : undefined} sizes={heroImg800 ? '100vw' : undefined} alt={post.data.title} width="1600" height="700" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high" />
   )}
   {heroImg && (
     <div style="position:absolute;inset:0;background:linear-gradient(100deg, rgba(8,52,75,0.92) 0%, rgba(8,52,75,0.72) 45%, rgba(8,52,75,0.45) 100%);"></div>
@@ -167,8 +171,8 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
 
       <aside>
         <div style="background:#F6F3ED;border:1px solid #e3ded4;border-radius:8px;padding:28px;margin-bottom:24px;">
-          <h3 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;font-size:20px;color:#0E4D6E;margin-bottom:12px;">No Water? Pressure Problems?</h3>
-          <p style="font-size:14px;line-height:1.7;color:#555;margin-bottom:20px;">A licensed well pump technician will diagnose your system and give you a clear written estimate before any work starts.</p>
+          <h3 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;font-size:20px;color:#0E4D6E;margin-bottom:12px;">Fence Down? Planning a Build?</h3>
+          <p style="font-size:14px;line-height:1.7;color:#555;margin-bottom:20px;">We'll walk your line, talk through options, and give you a clear written estimate priced by the foot before any work starts.</p>
           <a href="/#contact" class="btn-primary-blog" style="width:100%;justify-content:center;margin-bottom:12px;">Request Estimate</a>
           <a href="tel:+15093518404" class="btn-copper-blog" style="width:100%;justify-content:center;">Call (509) 351-8404</a>
         </div>
@@ -186,14 +190,14 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
 
         <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:28px;margin-top:24px;">
           <h3 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;font-size:18px;color:#0E4D6E;margin-bottom:12px;">Service Areas</h3>
-          <p style="font-size:14px;line-height:1.7;color:#555;">Well pump service throughout Central Texas:</p>
+          <p style="font-size:14px;line-height:1.7;color:#555;">Ranch fencing throughout Central Texas:</p>
           <ul style="padding-left:18px;margin-top:8px;">
             <li style="font-size:14px;color:#555;margin-bottom:4px;">Waco, TX</li>
-            <li style="font-size:14px;color:#555;margin-bottom:4px;">East Waco, TX</li>
-            <li style="font-size:14px;color:#555;margin-bottom:4px;">Crawford, WA</li>
-            <li style="font-size:14px;color:#555;margin-bottom:4px;">McGregor, WA</li>
-            <li style="font-size:14px;color:#555;margin-bottom:4px;">Valley Mills, WA</li>
-            <li style="font-size:14px;color:#555;margin-bottom:4px;">Lorena &amp; West, WA</li>
+            <li style="font-size:14px;color:#555;margin-bottom:4px;">China Spring, TX</li>
+            <li style="font-size:14px;color:#555;margin-bottom:4px;">Crawford, TX</li>
+            <li style="font-size:14px;color:#555;margin-bottom:4px;">McGregor, TX</li>
+            <li style="font-size:14px;color:#555;margin-bottom:4px;">Valley Mills, TX</li>
+            <li style="font-size:14px;color:#555;margin-bottom:4px;">Lorena &amp; West, TX</li>
           </ul>
         </div>
       </aside>
@@ -204,8 +208,8 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
 
 <!-- CTA BANNER -->
 <section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
-  <h2 style="font-family:'Zilla Slab',Georgia,serif;font-size:clamp(26px,4vw,40px);font-weight:700;color:#F6F3ED;margin-bottom:16px;">Well Trouble in Central Texas?</h2>
-  <p style="font-size:16px;color:rgba(246,243,237,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Get a free, no-obligation estimate from a licensed well pump technician. Emergency no-water calls answered 24/7.</p>
+  <h2 style="font-family:'Zilla Slab',Georgia,serif;font-size:clamp(26px,4vw,40px);font-weight:700;color:#F6F3ED;margin-bottom:16px;">Fence Trouble in Central Texas?</h2>
+  <p style="font-size:16px;color:rgba(246,243,237,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Get a free, no-obligation written estimate from a crew that builds fence for a living. Emergency cattle-out calls answered 24/7.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="/#contact" class="btn-primary-blog" style="background:#F6F3ED;color:#0E4D6E;border-color:#F6F3ED;font-weight:700;">Get Free Estimate</a>
     <a href="tel:+15093518404" class="btn-primary-blog" style="background:transparent;border-color:rgba(246,243,237,0.5);color:#F6F3ED;">Call (509) 351-8404</a>

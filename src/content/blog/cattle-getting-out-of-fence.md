@@ -6,7 +6,7 @@ metaDescription: "Cattle keep getting out of your fence? Check these 7 common fa
 primaryKeyword: "cattle keep getting out of fence"
 secondaryKeywords: "cows keep getting out, cattle escaping fence, how to keep cattle in fence, fence repair for cattle, cattle getting through fence"
 publishedDate: "2026-07-24"
-tag: "Well Care"
+tag: "Fence Repair"
 subtitle: "It's 6 a.m., your phone's buzzing, and it's your neighbor telling you your cows are standing in the middle of the FM road again."
 canonical: "https://brazosridgefence.com/blog/cattle-getting-out-of-fence/"
 faq:
@@ -17,7 +17,7 @@ faq:
   - question: "Am I liable if my cattle get out on the road in Texas?"
     answer: "It depends on your county and the road. Texas is historically open range, but most populated counties, including much of our area, have adopted stock laws, and state law separately requires keeping livestock off U.S. and state highways. If your cattle cause a wreck where a stock law applies, you can be on the hook, so a sound fence is cheap insurance. Check your county's stock law status to know where you stand."
   - question: "When should I stop repairing and replace the whole fence?"
-    answer: "If more than a third of the posts fail a push test, the wire is rusted through in multiple spots, or you've repaired the same section three or more times in a year, replacement is usually the better spend. A full 5-strand barbed wire rebuild typically runs $2 to $5 per foot here. We're glad to walk the line and tell you honestly which side of that call your fence is on."
+    answer: "If more than a third of the posts fail a push test, the wire is rusted through in multiple spots, or you've repaired the same section three or more times in a year, replacement is usually the better spend. A full 5-strand barbed wire rebuild typically runs $2.50 to $5.50 per foot here. We're glad to walk the line and tell you honestly which side of that call your fence is on."
 ---
 It's 6 a.m., your phone's buzzing, and it's your neighbor telling you your cows are standing in the middle of the FM road again. If your cattle keep getting out of fence lines you swore were fine last month, you're not dealing with bad luck. You're dealing with a fence that's telling you exactly where it's failing, and it usually gives you the answer in one of seven places.
 
@@ -75,7 +75,7 @@ Electric fence is a psychological barrier. The wire itself won't stop a cow. The
 
 Carla Simmons runs cows on 60 acres near Crawford, and hers started walking through a two-strand electric cross fence like it wasn't there. She was quoted $12,000 by an out-of-town outfit to rebuild the whole interior fence system. When we tested it, the charger was putting out fine at the box but the fence read under 800 volts. The culprit was two bad ground rods in dry soil and a stretch of grass loading down the bottom wire. Roughly $400 in ground rods, insulators, and labor brought it back over 6,000 volts, and her cows quit testing it within a week.
 
-Check these in order: charger output at the terminals, ground rod system (three rods, 6 to 8 feet, is the standard for most chargers), vegetation touching the wire, cracked insulators, and broken splices. A $40 fence tester will save you hours of guessing. Our full troubleshooting walkthrough is here: [why your electric fence isn't working](/blog/electric-fence-not-working/).
+Check these in order: charger output at the terminals, ground rod system (three rods, 6 to 8 feet, is the standard for most chargers), vegetation touching the wire, cracked insulators, and broken splices. A $40 fence tester will save you hours of guessing. Our full troubleshooting walkthrough is here: why your electric fence isn't working.
 
 One safety note. Never troubleshoot charger wiring on the supply side while it's plugged in, and if your setup involves anything on the 120 volt side beyond plugging in the charger, that's electrician territory, not fence territory.
 
@@ -103,13 +103,13 @@ Here's what we typically see for repair costs in McLennan, Bosque, and Falls cou
 
 | Problem | Typical Fix | Typical Cost Range |
 |---|---|---|
-| Loose or sagging wire | Re-stretch and splice, per span section | $2 to $4 per foot |
+| Loose or sagging wire | Re-stretch and splice, per span section | $0.40 to $0.70 per foot |
 | Rotten wood posts | Replace, set, and re-attach wire | $35 to $75 per post |
 | Failed H-brace corner | Rebuild brace assembly | $250 to $450 each |
 | Sagging gate | Re-hang on new steel post | $300 to $600 |
 | Dead electric fence | Grounding, insulators, splices | $200 to $600 |
 | Washed-out water gap | Rebuild with breakaway or swing panel | $400 to $900 |
-| Fence past its life | Full rebuild, 5-strand barbed wire | $2 to $5 per foot |
+| Fence past its life | Full rebuild, 5-strand barbed wire | $2.50 to $5.50 per foot |
 
 One rule of thumb we give every caller: if you've repaired the same stretch three times in a year, stop patching and price a rebuild. Repair money spent on a fence that's structurally done is money you'll spend again.
 
@@ -133,4 +133,4 @@ It depends on your county and the road. Texas is historically open range, but mo
 
 ### When should I stop repairing and replace the whole fence?
 
-If more than a third of the posts fail a push test, the wire is rusted through in multiple spots, or you've repaired the same section three or more times in a year, replacement is usually the better spend. A full 5-strand barbed wire rebuild typically runs $2 to $5 per foot here. We're glad to walk the line and tell you honestly which side of that call your fence is on.
+If more than a third of the posts fail a push test, the wire is rusted through in multiple spots, or you've repaired the same section three or more times in a year, replacement is usually the better spend. A full 5-strand barbed wire rebuild typically runs $2.50 to $5.50 per foot here. We're glad to walk the line and tell you honestly which side of that call your fence is on.

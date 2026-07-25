@@ -6,7 +6,7 @@ metaDescription: "Fence posts leaning on your Central Texas place? Learn why cla
 primaryKeyword: "fence posts leaning"
 secondaryKeywords: "leaning fence posts, how to straighten a leaning fence post, fence post leaning fix, why do fence posts lean, fix leaning t-posts"
 publishedDate: "2026-07-24"
-tag: "Well Care"
+tag: "Fence Repair"
 subtitle: "A post that leans 10 degrees in October will be lying in the grass by April. We've watched it happen on hundreds of places around Waco, and it almost never stops on its own."
 canonical: "https://brazosridgefence.com/blog/leaning-fence-posts/"
 faq:
@@ -29,9 +29,9 @@ If you'd rather skip the shovel work, call us at [(509) 351-8404](tel:+150935184
 
 Every leaning post comes down to one of five causes. Sometimes two of them are working together.
 
-**Wire tension.** A fence is a constant tug of war. Four or five strands of barbed wire pulling at 150 to 250 pounds each puts real load on every post, and corner posts carry the whole line. If a corner wasn't braced right on day one, it starts tipping toward the pull within a few years. Our post on [H-brace corners](/blog/h-brace-fence-corners/) covers why a single fat post, no matter how deep, can't hold a quarter mile of tight wire by itself.
+**Wire tension.** A fence is a constant tug of war. Four or five strands of barbed wire pulling at 150 to 250 pounds each puts real load on every post, and corner posts carry the whole line. If a corner wasn't braced right on day one, it starts tipping toward the pull within a few years. Our post on H-brace corners covers why a single fat post, no matter how deep, can't hold a quarter mile of tight wire by itself.
 
-**Rot at the ground line.** Wood posts don't rot at the bottom. They rot in the top 6 inches of soil, where there's enough moisture and enough oxygen for fungus to work. The post looks fine above ground and solid below, but that ring at ground level turns to punk. Wind or a cow leaning on the wire does the rest. If your post wiggles like a loose tooth, read our piece on [fence post rot](/blog/fence-post-rot/) before you spend a dime straightening it.
+**Rot at the ground line.** Wood posts don't rot at the bottom. They rot in the top 6 inches of soil, where there's enough moisture and enough oxygen for fungus to work. The post looks fine above ground and solid below, but that ring at ground level turns to punk. Wind or a cow leaning on the wire does the rest. If your post wiggles like a loose tooth, read our piece on fence post rot before you spend a dime straightening it.
 
 **Shallow setting.** The old rule is a third of the post in the ground. A 6.5 foot line post needs about 2 feet of burial, and a corner post needs 3 to 3.5 feet. Plenty of fences around here were built with 18 inch holes because the digging got hard, and those posts never had a chance.
 
@@ -47,7 +47,7 @@ Drought years are the worst. The 2022 and 2023 dry spells opened cracks in pastu
 
 Kenny Braddock, who runs about 60 pairs outside Crawford, called us in March after a wet winter followed that kind of drought. Both corner assemblies on his south line had heaved and tipped, and 14 line posts between them were leaning past 15 degrees. The wire was still attached, which meant the whole quarter mile was slowly going slack. We rebuilt the two corners as proper H-braces set 3.5 feet deep, reset the 14 line posts, and re-tensioned five strands. The bill was $1,850. His neighbor had quoted him "just pushing them back up" for $400, and that fix would've lasted one season.
 
-If your soil turns to concrete in summer and gumbo in winter, our article on [setting fence posts in clay soil](/blog/fence-posts-in-clay-soil/) goes deeper on what actually holds in this ground.
+If your soil turns to concrete in summer and gumbo in winter, our article on setting fence posts in clay soil goes deeper on what actually holds in this ground.
 
 ## How to straighten a leaning fence post yourself
 

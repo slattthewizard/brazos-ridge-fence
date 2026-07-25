@@ -6,7 +6,7 @@ metaDescription: "Learn how to fix a sagging barbed wire fence the right way. Re
 primaryKeyword: "how to fix sagging barbed wire fence"
 secondaryKeywords: "fix sagging barbed wire fence, tighten barbed wire fence, sagging fence wire repair, re-tension barbed wire, barbed wire fence repair"
 publishedDate: "2026-07-24"
-tag: "Pump Repair"
+tag: "Fence Repair"
 subtitle: "A loose bottom strand is an open invitation to a 1,200 pound cow. Give her a sagging wire and a reason, and she'll have her head through it by Tuesday and be standing on the county road by Friday..."
 canonical: "https://brazosridgefence.com/blog/fix-sagging-barbed-wire-fence/"
 faq:
@@ -81,7 +81,7 @@ Dale Hoffman, who runs about 40 momma cows outside Crawford, spent a whole summe
 
 If there's one thing to take from this article, it's this: 8 out of 10 chronically saggy fences we see have a brace problem, not a wire problem.
 
-A proper H-brace is two posts set 8 feet apart, a horizontal cross member between them, and a diagonal brace wire twisted tight. The horizontal member pushes the posts apart while the twisted wire pulls the assembly square, so the corner can resist thousands of pounds of pull without leaning. We break down the geometry in our post on [H-brace fence corners](/blog/h-brace-fence-corners/).
+A proper H-brace is two posts set 8 feet apart, a horizontal cross member between them, and a diagonal brace wire twisted tight. The horizontal member pushes the posts apart while the twisted wire pulls the assembly square, so the corner can resist thousands of pounds of pull without leaning. We break down the geometry in our post on H-brace fence corners.
 
 Signs your brace has failed:
 
@@ -108,7 +108,7 @@ Here's what typical repairs run in the Waco area, both if you do it yourself and
 | Full re-stretch, quarter mile, 4 strand | $60 to $120 | $500 to $900 |
 | Replace quarter mile of failed fence | $900 to $1,400 | $2,600 to $4,600 |
 
-Notice the jump on that last line. Once wire has been re-stretched two or three times, or it's rusted through its galvanization, repair money starts chasing a fence that's done. Our rule of thumb: if more than a third of the posts need work or the wire snaps during re-tensioning, put the money toward new fence instead. Our [barbed wire fence installation](/barbed-wire-fence-waco/) page has current per-foot pricing, and if you're weighing repair against replacement, the numbers in our [rusted barbed wire, repair or replace](/blog/rusted-barbed-wire-repair-or-replace/) guide will help you decide.
+Notice the jump on that last line. Once wire has been re-stretched two or three times, or it's rusted through its galvanization, repair money starts chasing a fence that's done. Our rule of thumb: if more than a third of the posts need work or the wire snaps during re-tensioning, put the money toward new fence instead. Our [barbed wire fence installation](/barbed-wire-fence-waco/) page has current per-foot pricing, and if you're weighing repair against replacement, the numbers in our rusted barbed wire, repair or replace guide will help you decide.
 
 Marcy Vlasek, north of West, learned that math the honest way. A spring storm dropped a big hackberry limb across her east line and flattened about 60 feet of it. The emergency repair to get her heifers contained ran $480. But the re-stretch showed her 30 year old wire snapping at every splice point, so she put in a quarter mile of new 5 strand that fall for about $3,900 instead of feeding another decade of repair calls.
 

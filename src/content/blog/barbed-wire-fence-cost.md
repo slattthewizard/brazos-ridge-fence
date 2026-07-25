@@ -7,11 +7,11 @@ primaryKeyword: "barbed wire fence cost per foot"
 secondaryKeywords: "barbed wire fence cost per mile, 5 strand barbed wire fence price, cost to build barbed wire fence, barbed wire fencing prices Texas"
 publishedDate: "2026-07-24"
 tag: "Cost Guide"
-subtitle: "A mile of 5 strand barbed wire fence around Waco runs about $13,000 to $21,000 installed right now. That number surprises folks in both directions."
+subtitle: "A mile of 5 strand barbed wire fence around Waco runs about $17,000 to $25,000 installed right now. That number surprises folks in both directions."
 canonical: "https://brazosridgefence.com/blog/barbed-wire-fence-cost/"
 faq:
   - question: "How much does barbed wire fence cost per foot in Texas?"
-    answer: "In Central Texas, installed barbed wire fence runs about $2.00 to $4.00 per foot in 2026. A basic 4 strand T-post fence sits at the low end, and a 5 or 6 strand fence on all wood posts sits at the top. Rock, brush, old fence removal, and gates add to that base number."
+    answer: "In Central Texas, installed barbed wire fence runs about $2.50 to $5.50 per foot in 2026. A basic 4 strand T-post fence sits at the low end, and a 5 or 6 strand fence on all wood posts sits at the top. Rock, brush, old fence removal, and gates add to that base number."
   - question: "What does a mile of barbed wire fence cost?"
     answer: "Most 5 strand barbed wire fence in the Waco area costs $13,000 to $21,000 per mile installed. Long, straight runs on clean ground price toward the bottom of that range. Rocky ground, lots of corners, and creek crossings push it toward the top."
   - question: "Is it cheaper to build a barbed wire fence myself?"
@@ -19,9 +19,9 @@ faq:
   - question: "How long does a barbed wire fence last in Central Texas?"
     answer: "A well-built fence with Class 3 galvanized wire and solid corners will go 25 to 40 years here with basic upkeep. Cheap wire, weak corners, and constant cattle pressure can cut that to 10 or 15. Keeping brush off the line and fixing sags early is what stretches a fence's life."
 ---
-A mile of 5 strand barbed wire fence around Waco runs about $13,000 to $21,000 installed right now. That number surprises folks in both directions. Some landowners expect double that, and some are still working off prices their dad paid in the 90s.
+A mile of 5 strand barbed wire fence around Waco runs about $17,000 to $25,000 installed right now. That number surprises folks in both directions. Some landowners expect double that, and some are still working off prices their dad paid in the 90s.
 
-Here's the short answer on barbed wire fence cost per foot in Central Texas in 2026: most jobs land between $2.00 and $4.00 per foot installed, depending on strand count, post type, terrain, and how far your corners are apart. The rest of this article breaks down where you'll fall in that range, what a full mile really costs, and where landowners in McLennan, Bosque, and Falls counties waste money without knowing it.
+Here's the short answer on barbed wire fence cost per foot in Central Texas in 2026: most jobs land between $2.50 and $5.50 per foot installed, depending on strand count, post type, terrain, and how far your corners are apart. The rest of this article breaks down where you'll fall in that range, what a full mile really costs, and where landowners in McLennan, Bosque, and Falls counties waste money without knowing it.
 
 We build and repair this fence every week, so these are working numbers, not internet guesses.
 
@@ -31,11 +31,11 @@ Barbed wire is still the cheapest way to hold cattle, and that's why it covers m
 
 | Fence Type | Cost Per Foot (Installed) | Cost Per Mile (Installed) |
 |---|---|---|
-| 3 strand, T-posts | $1.75 - $2.50 | $9,200 - $13,200 |
-| 4 strand, T-posts | $2.00 - $3.00 | $10,600 - $15,800 |
-| 5 strand, T-posts with wood line posts mixed in | $2.50 - $3.50 | $13,200 - $18,500 |
-| 5 strand, all wood posts | $3.00 - $4.00 | $15,800 - $21,100 |
-| 6 strand, all wood posts (bulls, tight pens) | $3.50 - $4.75 | $18,500 - $25,100 |
+| 3 strand, T-posts | $2.50 - $3.25 | $13,200 - $17,200 |
+| 4 strand, T-posts | $2.75 - $3.75 | $14,500 - $19,800 |
+| 5 strand, T-posts with wood line posts mixed in | $3.25 - $4.25 | $17,200 - $22,400 |
+| 5 strand, all wood posts | $3.75 - $4.75 | $19,800 - $25,100 |
+| 6 strand, all wood posts (bulls, tight pens) | $4.25 - $5.50 | $22,400 - $29,000 |
 
 Those prices include materials, labor, braced corners, and normal cleanup. They don't include heavy brush clearing, rock drilling, old fence removal, or gates. Figure another $350 to $700 per 12 to 16 foot tube gate hung on a wood or pipe post, and more for a real [ranch entrance](/ranch-entrance-gates-waco/).
 
@@ -47,13 +47,13 @@ Want a number for your actual fence line instead of a range? Call us at [(509) 3
 
 Per-foot pricing makes sense for a 600 foot lot line. Once you're fencing a quarter section, you need to think per mile.
 
-A mile is 5,280 feet. At $2.50 per foot, that's $13,200. At $3.50, it's $18,480. Most full-mile jobs we build in Central Texas land between those two numbers for 5 strand fence.
+A mile is 5,280 feet. At $3.25 per foot, that's $17,160. At $4.25, it's $22,440. Most full-mile jobs we build in Central Texas land between those two numbers for 5 strand fence.
 
-Longer runs usually cost a little less per foot than short ones. The crew mobilizes once, the corners are farther apart, and we can stretch wire in long pulls. A 300 foot job might price at $4.00 per foot because the fixed costs get spread over almost nothing. A mile of clean, straight line might price at $2.60.
+Longer runs usually cost a little less per foot than short ones. The crew mobilizes once, the corners are farther apart, and we can stretch wire in long pulls. A 300 foot job might price at $4.75 per foot because the fixed costs get spread over almost nothing. A mile of clean, straight line might price at $3.35.
 
-Corners and braces are the hidden line item on big jobs. Every corner, gate, and major grade change needs an H-brace, and a properly built H-brace runs $150 to $300 each in materials and labor. A square 160 acre tract has 4 corners minimum, plus braces at every gate. Skimp here and the whole fence sags inside five years. We covered why in our post on [H-brace fence corners](/blog/h-brace-fence-corners/).
+Corners and braces are the hidden line item on big jobs. Every corner, gate, and major grade change needs an H-brace, and a properly built H-brace runs $150 to $300 each in materials and labor. A square 160 acre tract has 4 corners minimum, plus braces at every gate. Skimp here and the whole fence sags inside five years. We covered why in our post on H-brace fence corners.
 
-If you're fencing smaller acreage, the math shifts again. Our breakdown of the [cost to fence 10 acres](/blog/cost-to-fence-10-acres/) shows why small tracts cost more per foot than big ones.
+If you're fencing smaller acreage, the math shifts again. Small tracts cost more per foot than big ones, because the corners and gates stay the same while the footage shrinks.
 
 ## What Pushes Your Price Up or Down
 
@@ -119,7 +119,7 @@ Fencing is a 30 year purchase on most places. A few hundred dollars of differenc
 
 ### How much does barbed wire fence cost per foot in Texas?
 
-In Central Texas, installed barbed wire fence runs about $2.00 to $4.00 per foot in 2026. A basic 4 strand T-post fence sits at the low end, and a 5 or 6 strand fence on all wood posts sits at the top. Rock, brush, old fence removal, and gates add to that base number.
+In Central Texas, installed barbed wire fence runs about $2.50 to $5.50 per foot in 2026. A basic 4 strand T-post fence sits at the low end, and a 5 or 6 strand fence on all wood posts sits at the top. Rock, brush, old fence removal, and gates add to that base number.
 
 ### What does a mile of barbed wire fence cost?
 
