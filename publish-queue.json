@@ -46,7 +46,8 @@
   },
   {
     "draft": "drafts/barbed-wire-gauge-2026-07-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-26T15:54:05.354036Z"
   },
   {
     "draft": "drafts/barbed-wire-vs-net-wire-2026-07-23.md",
