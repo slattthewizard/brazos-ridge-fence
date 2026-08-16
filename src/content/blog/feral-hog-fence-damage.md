@@ -1,13 +1,13 @@
 ---
 title: "Feral Hog Fence Damage: How to Stop Hogs Tearing Up Your Fence"
-navTitle: "Feral Hog Fence Damage"
+navTitle: "Feral Hog Fence Damage: How to"
 metaTitle: "Feral Hog Fence Damage: How to Stop It | Waco Fence Pros"
 metaDescription: "Feral hogs tearing up your fence? Learn why hogs wreck ranch fencing in Central Texas, which repairs actually hold, and what hog-proof fencing costs per foot."
 primaryKeyword: "feral hog fence damage"
 secondaryKeywords: "hog proof fence, feral hogs destroying fence, hog damage to fences, stop hogs from rooting under fence, hog fencing Texas"
-publishedDate: "2026-07-25"
-tag: "Fence Repair"
-subtitle: "A sounder of hogs can undo a quarter mile of fence in one night. Here's why they beat most fences, what the damage really costs, and the fixes that actually hold."
+publishedDate: "2026-08-16"
+tag: "Well Care"
+subtitle: "A sounder of feral hogs can undo a quarter mile of fence in one night. Not over a season. One night. If you ranch anywhere in McLennan, Bosque, or Falls County, you already know the drill."
 canonical: "https://brazosridgefence.com/blog/feral-hog-fence-damage/"
 faq:
   - question: "Will an electric fence alone stop feral hogs?"
@@ -19,7 +19,6 @@ faq:
   - question: "How fast can hogs damage a fence?"
     answer: "Fast. A sounder of 10 to 20 hogs can open multiple holes in a single night and root up an acre of pasture in a few days. That's why we tell folks to walk their creek-side fence lines weekly during spring and fall, when hog movement peaks, and to close any breach within a day or two before the whole sounder learns the route."
 ---
-
 A sounder of feral hogs can undo a quarter mile of fence in one night. Not over a season. One night.
 
 If you ranch anywhere in McLennan, Bosque, or Falls County, you already know the drill. You walk your line on a Saturday morning and find net wire peeled up like a sardine can, a tunnel dug under the bottom strand, and hog tracks headed straight for your coastal field. Feral hog fence damage is one of the most common repair calls we run at Brazos Ridge Fence, and it's getting worse every year. Texas holds somewhere north of 2.5 million wild pigs, and the Brazos and Bosque river bottoms are prime habitat.
@@ -62,7 +61,7 @@ You can't hog-proof a whole ranch overnight, and you don't need to. Most places 
 
 **Add a hot wire at snout height.** A single electric offset wire at 8 to 10 inches, run off a good low-impedance charger, is the best dollar-for-dollar hog deterrent there is. Hogs test with their nose, and their nose is wet. One solid hit and most of them remember. Keep it clear of grass, or it'll short out and train them the wrong way.
 
-**Rebuild your water gaps first.** Nine times out of ten, the hogs' front door is a water gap. A properly built swinging water gap closes the hole after every rise instead of leaving it open.
+**Rebuild your water gaps first.** Nine times out of ten, the hogs' front door is a water gap. A properly built swinging water gap closes the hole after every rise instead of leaving it open. We wrote up how these work in our [water gap fence guide](/blog/water-gap-fence/).
 
 One honest warning. Patching torn net wire by lacing in scrap pieces is fine for a week, not for a year. Every splice is a weak point, and hogs find weak points for a living. If a stretch has more patches than original wire, it's past saving.
 
@@ -70,7 +69,7 @@ One honest warning. Patching torn net wire by lacing in scrap pieces is fine for
 
 When you're ready to stop patching, here's what holds pigs, roughly in order of how often we build it.
 
-**Fixed knot net wire, hog height.** This is our workhorse hog fence. A 48-inch fixed knot fence with a barbed strand at ground level and posts on 8-foot spacing will turn nearly all hog traffic. Fixed knot matters because the knot won't slip when a hog pushes into it, unlike the hinge joint field fence on most older places. It's the single biggest upgrade you can make.
+**Fixed knot net wire, hog height.** This is our workhorse hog fence. A 48-inch fixed knot fence with a barbed strand at ground level and posts on 8-foot spacing will turn nearly all hog traffic. Fixed knot matters because the knot won't slip when a hog pushes into it, unlike the hinge joint field fence on most older places. We broke down the difference in [fixed knot vs hinge joint](/blog/fixed-knot-vs-hinge-joint/), and it's the single biggest upgrade you can make.
 
 **Net wire plus hot offset.** Same fence, plus an electric wire at snout height on the pasture side or the outside, depending on where the pressure comes from. This combination is what we recommend along river bottoms where hog pressure never really stops.
 

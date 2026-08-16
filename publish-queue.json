@@ -146,7 +146,8 @@
   },
   {
     "draft": "drafts/feral-hog-fence-damage-2026-07-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-16T15:10:22.626501Z"
   },
   {
     "draft": "drafts/fix-sagging-ranch-gate-2026-07-23.md",
