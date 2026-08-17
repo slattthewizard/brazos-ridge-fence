@@ -151,7 +151,8 @@
   },
   {
     "draft": "drafts/fix-sagging-ranch-gate-2026-07-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-17T15:15:21.373728Z"
   },
   {
     "draft": "drafts/fixed-knot-vs-hinge-joint-2026-07-23.md",
