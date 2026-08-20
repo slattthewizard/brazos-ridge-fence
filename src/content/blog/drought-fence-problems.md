@@ -6,7 +6,7 @@ metaDescription: "Drought fence problems hit Central Texas ranches hard. See why
 primaryKeyword: "drought fence problems"
 secondaryKeywords: "drought fence damage, dry weather fence problems, fence posts shifting in drought, drought damaged fence repair, gates sagging in dry summer"
 publishedDate: "2026-08-05"
-tag: "Well Care"
+tag: "Fence Repair"
 subtitle: "By late July around here, the cracks in a Blackland clay pasture get wide enough to swallow a fence pliers."
 canonical: "https://brazosridgefence.com/blog/drought-fence-problems/"
 faq:
@@ -35,7 +35,7 @@ The [Texas A&M AgriLife Extension Service](https://agrilifeextension.tamu.edu/) 
 
 Here's the part most folks miss. The damage isn't done during the drought. It's done in the cycle. Clay shrinks in August, the post shifts, then October rains swell the clay back around the post in its new leaned position. Now the lean is locked in. Three or four summers of that and a fence that was dead straight in 2020 looks like a snake track.
 
-If you're seeing that pattern on your place, get eyes on it before the next rain locks things in tighter. Call us at [(509) 351-8404](tel:+15093518404) and we'll walk your line and give you a free written estimate on what's worth fixing now versus what can wait.
+If you're seeing that pattern on your place, get eyes on it before the next rain locks things in tighter. [Call us](/fence-repair-waco/) at [(509) 351-8404](tel:+15093518404) and we'll walk your line and give you a free written estimate on what's worth fixing now versus what can wait.
 
 ## The 5 Drought Fence Problems We See Most in Central Texas
 
@@ -84,7 +84,7 @@ Two things jump out of that table. First, corners and gates are where the money 
 
 This is also why we push pipe so hard for corners, braces, and gate posts in this soil. A concreted pipe post doesn't care much what the clay does around it. If you're rebuilding anyway, look at our [pipe fence installation](/pipe-fence-waco/) page, and if the entrance gate is the problem, our [ranch entrance gates](/ranch-entrance-gates-waco/) page shows what a properly set gate post assembly looks like.
 
-Want a number for your specific fence instead of a range? [Request a free written estimate](/#contact) and we'll put real figures on paper.
+Want a number for your specific fence instead of a range? [Request a free written estimate](#contact) and we'll put real figures on paper.
 
 ## How to Protect Your Fence Before the Next Dry Spell
 
@@ -116,7 +116,7 @@ But know where the line is. Call a pro when:
 - **You've straightened the same post twice.** The soil grip is gone. It needs a proper reset with compacted base material or an upgrade to pipe, not a third tamping.
 - **Cattle are already getting out.** That's not a project anymore, it's a liability clock ticking. In most of this county you're under stock law, and a cow on the highway is your problem in every sense.
 
-Brazos Ridge Fence Co. is licensed and insured, we work these three counties every day, and we run a 24/7 emergency line for cattle-out and storm-damage calls. Whether it's one sagging gate in West or two miles of drought-slacked barbed wire outside McGregor, call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact) and we'll get you a straight answer with real numbers on it.
+Brazos Ridge Fence Co. is licensed and insured, we work these three counties every day, and we run a 24/7 emergency line for cattle-out and storm-damage calls. Whether it's one sagging gate in West or two miles of drought-slacked barbed wire outside McGregor, call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](#contact) and we'll get you a straight answer with real numbers on it.
 
 ## Frequently Asked Questions
 

@@ -6,7 +6,7 @@ metaDescription: "Hitting limestone a foot down? Here's how we set fence posts i
 primaryKeyword: "fence posts in rocky ground"
 secondaryKeywords: "setting fence posts in rock, rock auger for fence posts, fence post in limestone, drilling fence post holes in rock, t-posts in rocky soil"
 publishedDate: "2026-08-14"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "Ten inches. That's about how far most rented augers get west of Waco before they hit solid limestone and stop dead, smoking and screaming, with 200 more holes to go."
 canonical: "https://brazosridgefence.com/blog/fence-posts-in-rocky-ground/"
 faq:
@@ -35,7 +35,7 @@ The practical problem is simple. A fence post needs depth to hold. For a 5 foot 
 
 Here's the part that surprises folks: rock isn't all bad news. A post drilled and grouted into solid limestone holds better than a post in 4 feet of loose sand. The rock is only your enemy while you're fighting it. Once the post is in, that same rock is the best anchor in Texas.
 
-If you'd rather skip the fight entirely, we'll come look at your ground and give you a free written estimate with the rock work priced line by line. Call us at [(509) 351-8404](tel:+15093518404) or [request an estimate here](/#contact).
+If you'd rather skip the fight entirely, we'll come look at your ground and give you a free written estimate with the rock work priced line by line. Call us at [(509) 351-8404](tel:+15093518404) or [request an estimate here](#contact).
 
 ## How the Pros Set Fence Posts in Rocky Ground
 
@@ -95,7 +95,7 @@ Now the quit signals. Stop and call a pro when: your corners and gate posts can'
 
 One more from China Spring: a customer there spent $610 across three weekends of rentals fighting 14 holes before calling us. We drilled all 14 in one morning for $780. He told us he'd have paid double just for the Saturdays back.
 
-If you're staring down a long line of rock, [get a free written estimate](/#contact) before you burn another weekend. Worst case, you'll know exactly what the pro option costs and can make a real comparison.
+If you're staring down a long line of rock, [get a free written estimate](#contact) before you burn another weekend. Worst case, you'll know exactly what the pro option costs and can make a real comparison.
 
 ## Bracing and Post Choice When You Can't Go Deep
 

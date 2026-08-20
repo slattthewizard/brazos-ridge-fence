@@ -6,7 +6,7 @@ metaDescription: "Get fence post spacing right for barbed wire, net wire, and pi
 primaryKeyword: "fence post spacing"
 secondaryKeywords: "barbed wire post spacing, net wire post spacing, pipe fence post spacing, t-post spacing, how far apart fence posts"
 publishedDate: "2026-08-12"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "Here's a number that surprises most landowners: stretching your post spacing from 12 feet to 20 feet on a mile of barbed wire fence cuts out about 175 posts."
 canonical: "https://brazosridgefence.com/blog/fence-post-spacing/"
 faq:
@@ -61,7 +61,7 @@ Terrain moves this number too. Net wire can't bend over a hump or dip the way in
 
 The Hendersons in Valley Mills learned this the expensive way. They fenced 12 acres for Boer goats with hinge-joint net wire on 16-foot centers, a spacing the feed store had suggested for cattle. Within a year the mesh had bellied out between posts, the goats were flattening it at the low spots, and three got into a neighbor's coastal field. We rebuilt 1,900 feet with fixed-knot wire on 10-foot centers for about $6.75 a foot, roughly $12,800 total. Their original fence had cost them close to $9,000 and lasted 14 months.
 
-If you're planning a small-acreage net wire job and want it done once, [reach out for a free written estimate](/#contact). We'll spec the wire, the spacing, and the braces in writing so you can compare it against any other bid.
+If you're planning a small-acreage net wire job and want it done once, [reach out for a free written estimate](#contact). We'll spec the wire, the spacing, and the braces in writing so you can compare it against any other bid.
 
 ## Pipe Fence Post Spacing and Why It Runs Tighter
 

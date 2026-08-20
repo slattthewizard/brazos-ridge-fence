@@ -45,7 +45,7 @@ Most of McLennan and Falls counties sit on Blackland Prairie clay. That soil shr
 
 Drought years are the worst. The 2022 and 2023 dry spells opened cracks in pastures around Lorena wide enough to drop a fence pliers into. Posts that had stood straight for 15 years leaned that winter, because the soil that held them simply wasn't in the same place anymore. [Texas A&M AgriLife Extension](https://agrilifeextension.tamu.edu/) has good background on how these Vertisol clays behave if you want the science.
 
-Kenny Braddock, who runs about 60 pairs outside Crawford, called us in March after a wet winter followed that kind of drought. Both corner assemblies on his south line had heaved and tipped, and 14 line posts between them were leaning past 15 degrees. The wire was still attached, which meant the whole quarter mile was slowly going slack. We rebuilt the two corners as proper H-braces set 3.5 feet deep, reset the 14 line posts, and re-tensioned five strands. The bill was $1,850. His neighbor had quoted him "just pushing them back up" for $400, and that fix would've lasted one season.
+Kenny Braddock, who runs about 60 pairs outside Crawford, called us in March after a wet winter followed that kind of [drought](/blog/drought-fence-problems/). Both corner assemblies on his south line had heaved and tipped, and 14 line posts between them were leaning past 15 degrees. The wire was still attached, which meant the whole quarter mile was slowly going slack. We rebuilt the two corners as proper H-braces set 3.5 feet deep, reset the 14 line posts, and re-tensioned five strands. The bill was $1,850. His neighbor had quoted him "just pushing them back up" for $400, and that fix would've lasted one season.
 
 If your soil turns to concrete in summer and gumbo in winter, our article on setting fence posts in clay soil goes deeper on what actually holds in this ground.
 
@@ -67,7 +67,7 @@ Some leaning posts are a fair DIY job. Here's how we'd tell you to do it, in ord
 
 For steel t-posts, the fix is usually simpler. Straighten the post with a t-post jack or pull it entirely, then re-drive it a foot over in undisturbed soil. A bent t-post is a $6 part. Don't spend an hour saving one.
 
-**Know when to stop.** If the post is a corner or gate post, if it's set in a failed concrete footing, or if more than a handful of posts in a row are leaning, put the shovel down. Those jobs involve serious wire tension and heavy pulling, and a snapped brace wire or a post that lets go under load can hurt you. That's a call, not a project. Reach us anytime through [our contact page](/#contact) and we'll come look at it for free.
+**Know when to stop.** If the post is a corner or gate post, if it's set in a failed concrete footing, or if more than a handful of posts in a row are leaning, put the shovel down. Those jobs involve serious wire tension and heavy pulling, and a snapped brace wire or a post that lets go under load can hurt you. That's a call, not a project. Reach us anytime through [our contact page](#contact) and we'll come look at it for free.
 
 ## When a leaning fence post can't be saved
 
@@ -109,7 +109,7 @@ Walk your fence twice a year, spring and fall, and after every big storm. Catchi
 
 And match the post to the soil. In our clay, that means road base or crushed rock in the backfill, or pipe posts at the pressure points. In sand, it means concrete and extra depth.
 
-If you've got a line of leaning posts and you'd rather spend your weekend doing anything else, we'll handle it. Call [(509) 351-8404](tel:+15093518404) or request a free written estimate at [brazosridgefence.com](/#contact). We're licensed and insured, and our emergency line answers around the clock for storm damage and cattle-out situations.
+If you've got a line of leaning posts and you'd rather spend your weekend doing anything else, we'll handle it. Call [(509) 351-8404](tel:+15093518404) or request a free written estimate at [brazosridgefence.com](#contact). We're licensed and insured, and our emergency line answers around the clock for storm damage and cattle-out situations.
 
 ## Frequently Asked Questions
 

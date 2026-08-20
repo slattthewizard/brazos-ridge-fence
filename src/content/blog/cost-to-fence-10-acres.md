@@ -23,7 +23,7 @@ Two landowners in McLennan County can fence the same 10 acres and one pays $7,00
 
 The difference isn't a scam. It's fence type, terrain, and how much clearing the line needs. The real cost to fence 10 acres in Central Texas runs anywhere from about $6,600 for basic barbed wire to well past $30,000 for pipe fence, and 25 or 100 acres doesn't scale the way most folks expect.
 
-We build ranch fence every week around Waco, China Spring, Crawford, and down through Lorena, so we'll walk you through the actual numbers we quote. If you'd rather skip the math and get a firm figure for your place, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404).
+We build ranch fence every week around Waco, China Spring, Crawford, and down through Lorena, so we'll walk you through the actual numbers we quote. If you'd rather skip the math and get a firm figure for your place, [request a free written estimate](#contact) or call us at [(509) 351-8404](tel:+15093518404).
 
 ## Why Acreage Math Fools Almost Everybody
 
@@ -50,7 +50,7 @@ For a typical square 10 acres with decent access and light clearing, here's what
 - **High game fence:** $4.50 to $8.00 per foot, so $11,900 to $21,100
 - **Pipe fence:** $12 to $28 per foot, so $31,700 and up
 
-[Barbed wire](/barbed-wire-fence-waco/) is still the workhorse for cattle on small acreage. Net wire earns its premium if you run [goats, sheep, or you want to keep dogs in and coyotes out](/blog/barbed-wire-vs-net-wire/). Pipe is the forever option for perimeters along roads and around headquarters.
+[Barbed wire](/barbed-wire-fence-waco/) is still the workhorse for cattle on [small acreage](/blog/small-acreage-fencing-waco/). Net wire earns its premium if you run [goats, sheep, or you want to keep dogs in and coyotes out](/blog/barbed-wire-vs-net-wire/). Pipe is the forever option for perimeters along roads and around headquarters.
 
 Last spring we fenced 10 acres off Old Lorena Road for Travis Kubacek, a young family that bought their first piece of land outside Lorena. He'd budgeted $5,000 off a national cost website. His tract was long and narrow with 3,100 feet of line, heavy cedar on the back side, and blackland clay that had swallowed the old posts. The real number for 5-strand barbed wire with two 16-foot gates came to $9,850, and the clearing was almost $1,800 of that.
 
@@ -129,7 +129,7 @@ You can trim a fencing budget without building a fence you'll regret. A few hone
 
 **Know your DIY limit.** Plenty of landowners can string a repair stretch or hang a gate. But building corner braces that hold a quarter mile of stretched wire, drilling post holes in rock, and stretching net wire on a slope are jobs where mistakes get expensive or dangerous. High-tensile wire under tension can cut you badly when it snaps, and a bad brace fails in year two, not day two. If the job involves tensioned wire over long runs, road frontage, or anything near power lines or buried utilities, call a professional and always call 811 before you dig.
 
-We're happy to be the second or third bid on your project. Our estimates are written, itemized, and free, and we're licensed and insured. Tell us your acreage and what you're running on it at [our contact page](/#contact) or call [(509) 351-8404](tel:+15093518404). If a storm just dropped your fence and cattle are out tonight, that same number is our 24/7 emergency line.
+We're happy to be the second or third bid on your project. Our estimates are written, itemized, and free, and we're licensed and insured. Tell us your acreage and what you're running on it at [our contact page](#contact) or call [(509) 351-8404](tel:+15093518404). If a storm just dropped your fence and cattle are out tonight, that same number is our 24/7 emergency line.
 
 ## Frequently Asked Questions
 

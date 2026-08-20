@@ -1,0 +1,102 @@
+---
+import { site } from '../config/site';
+
+export interface Props {
+  /** Heading above the form. */
+  heading?: string;
+  /** Supporting paragraph. Defaults to the sitewide pricing blurb. */
+  blurb?: string;
+  /** Kicker label above the heading. */
+  kicker?: string;
+}
+
+const {
+  heading = "Describe the Problem. We'll Call Back With a Price.",
+  blurb = `Most barbed wire fence around Waco runs $2.50 to $5.50 per foot installed, and game fence runs $4.50 to $10, so a written quote costs you nothing but a walk down the fence line. Call ${site.phoneDisplay} or email ${site.email} and we'll get you a free written estimate this week.`,
+  kicker = 'Free Estimate',
+} = Astro.props;
+---
+
+<section id="contact" style="position:relative;padding:90px 24px;overflow:hidden;">
+  <img src="/images/city-1.webp" srcset="/images/city-1-800.webp 800w, /images/city-1.webp 1200w" sizes="100vw" alt="" width="1600" height="900" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="lazy" aria-hidden="true">
+  <div style="position:absolute;inset:0;background:linear-gradient(135deg, rgba(42,39,36,0.92) 0%, rgba(198,138,46,0.88) 100%);"></div>
+  <div class="contact-grid" style="position:relative;max-width:1020px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start;">
+    <div>
+      <span class="kicker" style="color:#7FE0A0;">{kicker}</span>
+      <h2 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;font-size:clamp(24px,3.5vw,38px);line-height:1.12;margin:0 0 16px;">{heading}</h2>
+      <p style="font-size:16px;line-height:1.8;color:rgba(255,255,255,0.88);margin:0 0 24px;">{blurb}</p>
+      <a href={site.phoneHref} class="btn-green" style="margin-bottom:12px;">Call {site.phoneDisplay}</a>
+      <p style="font-size:13px;color:rgba(255,255,255,0.75);margin-top:16px;">Around-the-clock line — a person answers, not a machine.</p>
+    </div>
+    <div>
+      <form id="contact-form" novalidate data-endpoint={site.formEndpoint} data-phone={site.phoneDisplay} style="background:#fff;border-radius:18px;padding:32px;display:flex;flex-direction:column;gap:14px;box-shadow:0 28px 60px rgba(0,0,0,0.3);">
+        <input type="hidden" name="_subject" value="New estimate request — brazosridgefence.com">
+        <input type="hidden" name="page" value={Astro.url.pathname}>
+        <div style="display:flex;flex-direction:column;gap:4px;">
+          <label for="cf-name" style="font-family:'Oswald',sans-serif;font-size:13px;font-weight:700;color:#2A2724;">Your name <span aria-hidden="true" style="color:#C0392B;">*</span></label>
+          <input id="cf-name" type="text" name="name" autocomplete="name" required style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;min-height:48px;">
+        </div>
+        <div style="display:flex;flex-direction:column;gap:4px;">
+          <label for="cf-phone" style="font-family:'Oswald',sans-serif;font-size:13px;font-weight:700;color:#2A2724;">Phone number <span aria-hidden="true" style="color:#C0392B;">*</span></label>
+          <input id="cf-phone" type="tel" name="phone" autocomplete="tel" inputmode="tel" required style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;min-height:48px;">
+        </div>
+        <div style="display:flex;flex-direction:column;gap:4px;">
+          <label for="cf-city" style="font-family:'Oswald',sans-serif;font-size:13px;font-weight:700;color:#2A2724;">City or area</label>
+          <input id="cf-city" type="text" name="city" autocomplete="address-level2" style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;min-height:48px;">
+        </div>
+        <div style="display:flex;flex-direction:column;gap:4px;">
+          <label for="cf-message" style="font-family:'Oswald',sans-serif;font-size:13px;font-weight:700;color:#2A2724;">What's going on?</label>
+          <textarea id="cf-message" name="message" rows="4" style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;resize:vertical;"></textarea>
+        </div>
+        <button type="submit" id="cf-submit" class="btn-green" style="width:100%;font-size:16px;">Get My Free Estimate</button>
+        <p style="font-size:12px;color:#8A9BA8;text-align:center;margin:0;line-height:1.6;">
+          We'll call you back, usually within the hour during business hours.<br>
+          <strong style="color:#2A2724;">Emergency right now? Call: <a href={site.phoneHref} style="color:#C68A2E;">{site.phoneDisplay}</a></strong>
+        </p>
+        <p id="cf-error" role="alert" style="display:none;background:#FFF0F0;border:1px solid #FBBCBC;border-radius:8px;padding:10px 14px;font-size:14px;color:#C0392B;margin:0;"></p>
+      </form>
+      <div id="cf-success" style="display:none;background:#fff;border-radius:18px;padding:40px 32px;box-shadow:0 28px 60px rgba(0,0,0,0.3);text-align:center;">
+        <p style="font-family:'Oswald',sans-serif;font-size:22px;font-weight:800;color:#2A2724;margin:0 0 10px;">We got your request!</p>
+        <p style="font-size:15px;line-height:1.75;color:#5A6B76;margin:0 0 20px;">Expect a call back within the hour during business hours. Need help immediately?</p>
+        <a href={site.phoneHref} class="btn-green">Call {site.phoneDisplay}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  @media (max-width: 860px) { .contact-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+<script>
+(function(){
+  var form = document.getElementById('contact-form');
+  var success = document.getElementById('cf-success');
+  var errBox = document.getElementById('cf-error');
+  var submitBtn = document.getElementById('cf-submit');
+  if (!form || !success || !errBox || !submitBtn) return;
+  var endpoint = form.getAttribute('data-endpoint');
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    errBox.style.display = 'none';
+    submitBtn.disabled = true; submitBtn.textContent = 'Sending…';
+    fetch(endpoint, {
+      method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' }
+    })
+    .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, data: d}; }); })
+    .then(function(res){
+      if (res.ok) { form.style.display = 'none'; success.style.display = 'block'; }
+      else {
+        errBox.textContent = 'Something went wrong. Please try again or call us directly.';
+        errBox.style.display = 'block';
+        submitBtn.disabled = false; submitBtn.textContent = 'Get My Free Estimate';
+      }
+    })
+    .catch(function(){
+      errBox.textContent = 'Could not send. Please call us at ' + (form.getAttribute('data-phone') || 'the number above') + '.';
+      errBox.style.display = 'block';
+      submitBtn.disabled = false; submitBtn.textContent = 'Get My Free Estimate';
+    });
+  });
+})();
+</script>

@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://brazosridgefence.com/fence-builder-china-spring/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in China Spring, TX", "description": "Ranch fencing in China Spring, TX. Game fence, pipe fence, barbed wire and entrance gates for horse and cattle places. Free estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-china-spring/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://brazosridgefence.com/#organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com", "logo": {"@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(509) 351-8404", "email": "info@brazosridgefence.com", "address": {"@type": "PostalAddress", "addressLocality": "Waco", "addressRegion": "TX", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 31.5493, "longitude": -97.1467}, "areaServed": [{"@type": "City", "name": "Waco", "addressRegion": "TX"}, {"@type": "City", "name": "China Spring", "addressRegion": "TX"}, {"@type": "City", "name": "Crawford", "addressRegion": "TX"}, {"@type": "City", "name": "McGregor", "addressRegion": "TX"}, {"@type": "City", "name": "Valley Mills", "addressRegion": "TX"}, {"@type": "City", "name": "Lorena", "addressRegion": "TX"}, {"@type": "City", "name": "West", "addressRegion": "TX"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in China Spring, TX", "description": "Ranch fencing in China Spring, TX. Game fence, pipe fence, barbed wire and entrance gates for horse and cattle places. Free estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-china-spring/", "provider": {"@id": "https://brazosridgefence.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brazosridgefence.com/"}, {"@type": "ListItem", "position": 2, "name": "Ranch Fencing in China Spring, TX", "item": "https://brazosridgefence.com/fence-builder-china-spring/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What's the best fence for horses on small acreage in China Spring?", "acceptedAnswer": {"@type": "Answer", "text": "For most China Spring horse places we recommend 2x4 non-climb net wire, 4.5 to 5 feet tall, with a pipe top rail or a hot wire along the top. The tight mesh keeps hooves out of the fence and the top rail keeps horses from leaning it over. It costs more than barbed wire, but it's a lot cheaper than one vet bill from a wire cut."}}, {"@type": "Question", "name": "Can you build fence on property that backs up to the Bosque River?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, we build river-bottom fence all the time. Where your fence crosses a draw or the floodplain, we install water gaps, breakaway sections that let floodwater and debris pass through without tearing out the whole line. Corner posts and braces go on high ground so the permanent structure survives a flood."}}, {"@type": "Question", "name": "How much does ranch fencing cost in China Spring?", "acceptedAnswer": {"@type": "Answer", "text": "Barbed wire runs about $2.50 to $5.50 per foot installed, net wire $3.50 to $8, game fence $4.50 to $10, and pipe fence $12 to $28. Rocky ground, brush clearing, and gates move the number, so we walk the line and give you a free written estimate with per-foot pricing. See our ranch fence cost guide for the full breakdown."}}, {"@type": "Question", "name": "How fast can you get a crew out to China Spring?", "acceptedAnswer": {"@type": "Answer", "text": "We're based in Waco, so China Spring is about a 20-minute drive for us and our crews work the northwest county most weeks. Estimates usually happen within a few days of your call. For storm damage or cattle out on the road, our 24/7 emergency line at (509) 351-8404 gets someone moving the same day."}}]}</script>
 <style is:global>
@@ -36,7 +37,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">From horse places off China Spring Road to river-bottom pasture along the Bosque, we build fence that holds up to Central Texas weather and livestock. Free written estimates, and we answer the phone.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -120,8 +121,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

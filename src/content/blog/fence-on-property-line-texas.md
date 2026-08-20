@@ -6,7 +6,7 @@ metaDescription: "Building a fence on the property line in Texas? Get a survey f
 primaryKeyword: "fence on property line texas"
 secondaryKeywords: "texas property line fence laws, building a fence on the property line, property line survey for fence, boundary fence laws texas"
 publishedDate: "2026-08-10"
-tag: "Well Care"
+tag: "Texas Law"
 subtitle: "A fence built three feet over the line can end up costing more than the fence itself. We've seen it happen more than once around Waco, and it always starts the same way: a landowner points at an old..."
 canonical: "https://brazosridgefence.com/blog/fence-on-property-line-texas/"
 faq:
@@ -79,7 +79,7 @@ When you talk to your neighbor, cover four things and put them on paper:
 
 Even a one-page signed agreement beats a handshake when one of the properties sells. And they all sell eventually.
 
-If you'd like a written estimate you can hand your neighbor, [request one here](/#contact). It costs nothing and it turns a vague conversation into a real number.
+If you'd like a written estimate you can hand your neighbor, [request one here](#contact). It costs nothing and it turns a vague conversation into a real number.
 
 ## On the Line or Inside It: Where Should the Fence Actually Go?
 
@@ -109,7 +109,7 @@ But some situations call for stopping and picking up the phone:
 
 We build property line fences across McLennan, Bosque, and Falls counties, and we build to survey stakes, not to guesses. We're licensed and insured, every estimate is free and in writing, and if a storm drops a tree across your line fence at 2 a.m. and the cattle are walking, our emergency line answers around the clock.
 
-Get the survey. Have the neighbor conversation. Then let's build a fence that'll still be on the right line thirty years from now. Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact) today.
+Get the survey. Have the neighbor conversation. Then let's build a fence that'll still be on the right line thirty years from now. Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](#contact) today.
 
 ## Frequently Asked Questions
 

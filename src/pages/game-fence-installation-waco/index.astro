@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://brazosridgefence.com/game-fence-installation-waco/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Game and High Fence Builder in Waco, TX", "description": "Game fence builder in Waco, TX. We build 8-ft high fence for deer and exotics, $4.50 to $10 per foot. Free written estimates. Call (509) 351-8404 today.", "url": "https://brazosridgefence.com/game-fence-installation-waco/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://brazosridgefence.com/#organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com", "logo": {"@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(509) 351-8404", "email": "info@brazosridgefence.com", "address": {"@type": "PostalAddress", "addressLocality": "Waco", "addressRegion": "TX", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 31.5493, "longitude": -97.1467}, "areaServed": [{"@type": "City", "name": "Waco", "addressRegion": "TX"}, {"@type": "City", "name": "China Spring", "addressRegion": "TX"}, {"@type": "City", "name": "Crawford", "addressRegion": "TX"}, {"@type": "City", "name": "McGregor", "addressRegion": "TX"}, {"@type": "City", "name": "Valley Mills", "addressRegion": "TX"}, {"@type": "City", "name": "Lorena", "addressRegion": "TX"}, {"@type": "City", "name": "West", "addressRegion": "TX"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Game and High Fence Builder in Waco, TX", "description": "Game fence builder in Waco, TX. We build 8-ft high fence for deer and exotics, $4.50 to $10 per foot. Free written estimates. Call (509) 351-8404 today.", "url": "https://brazosridgefence.com/game-fence-installation-waco/", "provider": {"@id": "https://brazosridgefence.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brazosridgefence.com/"}, {"@type": "ListItem", "position": 2, "name": "Game and High Fence Builder in Waco, TX", "item": "https://brazosridgefence.com/game-fence-installation-waco/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does a game fence cost per foot in Waco?", "acceptedAnswer": {"@type": "Answer", "text": "Most 8-foot game fence around Waco runs $4.50 to $10 per linear foot installed, or roughly $25,000 to $50,000 per mile. Fixed-knot wire, rocky ground, and extra corners push you toward the top of that range. Clearing the fence line is priced separately. We give you an exact written number after we walk your property."}}, {"@type": "Question", "name": "How tall does a game fence need to be for deer?", "acceptedAnswer": {"@type": "Answer", "text": "Eight feet is the standard for whitetail in Texas, and it's what we build. A healthy buck can clear a 6-foot fence without much effort, so shorter fence won't hold deer you're trying to manage. For jumpers like axis, 8 feet with tight bottom wire is the right spec."}}, {"@type": "Question", "name": "Will a high fence help me qualify for a wildlife management exemption?", "acceptedAnswer": {"@type": "Answer", "text": "A high fence by itself doesn't qualify you, but it's a common part of a wildlife management plan because it lets you control deer numbers and habitat use on your acreage. Your county appraisal district and a wildlife biologist handle the plan and paperwork. We build the 8-foot perimeter that makes the plan enforceable on the ground."}}, {"@type": "Question", "name": "How long does it take to build a mile of game fence?", "acceptedAnswer": {"@type": "Answer", "text": "Figure 3 to 5 weeks for a mile on typical Central Texas ground, and longer if there's heavy cedar clearing or a lot of rock drilling. Corners, gates, and creek crossings are what eat the calendar, not the straight runs. We give you a schedule with the written estimate so you can plan around it."}}, {"@type": "Question", "name": "Do you clear brush and trees along the fence line?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We clear a working lane along the line before we build, usually 10 to 15 feet wide, so the crew can stretch wire properly and you can maintain the fence later. Clearing is billed separately from the fence itself because it varies so much, from light brush at a few hundred dollars per quarter mile to heavy cedar that costs considerably more."}}]}</script>
 <style is:global>
@@ -36,7 +37,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Eight-foot net-wire game fence built to hold whitetail, axis, and blackbuck on Central Texas ranch land. Free written estimates, real numbers per foot, and crews that know how to brace a corner.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -150,8 +151,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

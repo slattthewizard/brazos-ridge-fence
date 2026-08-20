@@ -39,7 +39,7 @@ Barbed wire is still the cheapest way to hold cattle, and that's why it covers m
 
 Those prices include materials, labor, braced corners, and normal cleanup. They don't include heavy brush clearing, rock drilling, old fence removal, or gates. Figure another $350 to $700 per 12 to 16 foot tube gate hung on a wood or pipe post, and more for a real [ranch entrance](/ranch-entrance-gates-waco/).
 
-Materials alone run roughly $0.90 to $1.60 per foot if you're pricing a DIY job. Labor and equipment make up the rest, and on rocky Bosque County ground, labor is the part that grows.
+Materials alone run roughly $0.90 to $1.60 per foot if you're pricing a [DIY](/blog/diy-fence-vs-professional/) job. Labor and equipment make up the rest, and on rocky Bosque County ground, labor is the part that grows.
 
 Want a number for your actual fence line instead of a range? Call us at [(509) 351-8404](tel:+15093518404) and we'll walk it with you. Written estimates are free and they don't expire the minute you hang up.
 
@@ -85,7 +85,7 @@ Ranges are fine, but actual jobs tell you more. Here are three from the past yea
 
 **Lorena: small tract, honest premium.** James and his wife keep a few heifers on 11 acres south of Lorena. They needed 950 feet of new 4 strand along a neighbor's side plus one 16 foot gate. Short job, two corners, one gate brace. It priced at $3.60 per foot plus $480 for the gate, about $3,900 total. He'd gotten a $2.25 per foot number from a guy with a Facebook page and no insurance. That guy never showed. We did, and the fence is tight two summers later.
 
-If your fence line looks like one of these, [request a free written estimate](/#contact) and we'll put a real number on it.
+If your fence line looks like one of these, [request a free written estimate](#contact) and we'll put a real number on it.
 
 ## DIY or Hire a Crew? Where the Math Breaks
 

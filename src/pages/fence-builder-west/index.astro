@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://brazosridgefence.com/fence-builder-west/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in West, TX", "description": "Ranch fencing in West, TX built for blackland soil. Barbed wire, pipe fence, game fence and gates for farms off I-35. Free estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-west/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://brazosridgefence.com/#organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com", "logo": {"@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(509) 351-8404", "email": "info@brazosridgefence.com", "address": {"@type": "PostalAddress", "addressLocality": "Waco", "addressRegion": "TX", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 31.5493, "longitude": -97.1467}, "areaServed": [{"@type": "City", "name": "Waco", "addressRegion": "TX"}, {"@type": "City", "name": "China Spring", "addressRegion": "TX"}, {"@type": "City", "name": "Crawford", "addressRegion": "TX"}, {"@type": "City", "name": "McGregor", "addressRegion": "TX"}, {"@type": "City", "name": "Valley Mills", "addressRegion": "TX"}, {"@type": "City", "name": "Lorena", "addressRegion": "TX"}, {"@type": "City", "name": "West", "addressRegion": "TX"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in West, TX", "description": "Ranch fencing in West, TX built for blackland soil. Barbed wire, pipe fence, game fence and gates for farms off I-35. Free estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-west/", "provider": {"@id": "https://brazosridgefence.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brazosridgefence.com/"}, {"@type": "ListItem", "position": 2, "name": "Ranch Fencing in West, TX", "item": "https://brazosridgefence.com/fence-builder-west/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do you build fence on blackland clay around West without the posts heaving?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, and it comes down to depth and concrete. Blackland clay swells and shrinks more than almost any soil in Texas, so we set corner and gate posts deeper than standard practice and concrete the load-bearing points. Line posts get driven or set to a depth that keeps them solid through the wet-dry cycle."}}, {"@type": "Question", "name": "How much does barbed wire fence cost per foot near West, TX?", "acceptedAnswer": {"@type": "Answer", "text": "Most 5 strand barbed wire jobs around West run $2.50 to $5.50 per foot installed. Clean, flat crop ground with few corners lands at the low end, while jobs with old fence removal, brush, or lots of gates run higher. We give you a free written estimate with the per-foot price spelled out."}}, {"@type": "Question", "name": "Can you fence around active row-crop fields?", "acceptedAnswer": {"@type": "Answer", "text": "We do it all the time around West. We'll schedule work between planting and harvest when we can, keep equipment off your beds, and set gates wide enough for combines, grain carts, and cotton strippers. Tell us how you turn at the end rows and we'll plan the line around it."}}, {"@type": "Question", "name": "How fast can you get to West for a cattle-out emergency?", "acceptedAnswer": {"@type": "Answer", "text": "We're based in Waco, so a crew can usually be on your place in under an hour, day or night. Call the 24/7 emergency line at (509) 351-8404 and we'll get a temporary patch up fast, then come back for the permanent repair. Getting cattle off the road near I-35 can't wait until morning, and we treat it that way."}}]}</script>
 <style is:global>
@@ -36,7 +37,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">From row-crop ground east of I-35 to cattle places out toward Tokio and Leroy, we build fence that stands up to blackland clay. Free written estimates and a 24/7 line for cattle-out emergencies.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -120,8 +121,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

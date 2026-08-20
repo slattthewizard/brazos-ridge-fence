@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://brazosridgefence.com/barbed-wire-fence-waco/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Barbed Wire Fence Installation in Waco, TX", "description": "Barbed wire fence installation in Waco TX from $2.50 per foot. 5-strand wire and field fence for Central Texas ranches. Call (509) 351-8404 for a free estimate.", "url": "https://brazosridgefence.com/barbed-wire-fence-waco/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://brazosridgefence.com/#organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com", "logo": {"@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(509) 351-8404", "email": "info@brazosridgefence.com", "address": {"@type": "PostalAddress", "addressLocality": "Waco", "addressRegion": "TX", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 31.5493, "longitude": -97.1467}, "areaServed": [{"@type": "City", "name": "Waco", "addressRegion": "TX"}, {"@type": "City", "name": "China Spring", "addressRegion": "TX"}, {"@type": "City", "name": "Crawford", "addressRegion": "TX"}, {"@type": "City", "name": "McGregor", "addressRegion": "TX"}, {"@type": "City", "name": "Valley Mills", "addressRegion": "TX"}, {"@type": "City", "name": "Lorena", "addressRegion": "TX"}, {"@type": "City", "name": "West", "addressRegion": "TX"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Barbed Wire Fence Installation in Waco, TX", "description": "Barbed wire fence installation in Waco TX from $2.50 per foot. 5-strand wire and field fence for Central Texas ranches. Call (509) 351-8404 for a free estimate.", "url": "https://brazosridgefence.com/barbed-wire-fence-waco/", "provider": {"@id": "https://brazosridgefence.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brazosridgefence.com/"}, {"@type": "ListItem", "position": 2, "name": "Barbed Wire Fence Installation in Waco, TX", "item": "https://brazosridgefence.com/barbed-wire-fence-waco/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does barbed wire fence installation cost in Waco, TX?", "acceptedAnswer": {"@type": "Answer", "text": "A 5-strand barbed wire fence runs $2.50 to $5.50 per linear foot installed. Clean, flat ground with T-post line posts sits at the low end, while rock, brush clearing, old fence removal, or pipe posts push the price up. We give you the exact number in a free written estimate before any work starts."}}, {"@type": "Question", "name": "What does a mile of barbed wire fence cost?", "acceptedAnswer": {"@type": "Answer", "text": "A mile is 5,280 feet, so at $2.50 to $5.50 per foot you're looking at roughly $13,000 to $29,000 installed. A quarter mile, which is 1,320 feet, runs about $3,300 to $7,300. Long straight runs on open ground usually price better per foot than short, choppy stretches with lots of corners."}}, {"@type": "Question", "name": "How far apart should fence posts be for barbed wire?", "acceptedAnswer": {"@type": "Answer", "text": "We drive steel T-posts every 8 to 10 feet on typical ground, and up to 12 feet on flat open stretches with good wire tension. Corners, gates, and pull points get pipe posts set in concrete, since they carry the tension of the whole run. If a fence company quotes you 15-foot spacing, that fence will sag early."}}, {"@type": "Question", "name": "Do I need a fence to get an ag exemption on my land?", "acceptedAnswer": {"@type": "Answer", "text": "The fence itself doesn't grant the exemption, but grazing does, and you can't graze without a stock-tight perimeter. County appraisal districts in McLennan, Bosque, and Falls counties want to see genuine agricultural use, and a 5-strand perimeter fence that holds cattle is usually step one. Confirm the exact requirements with your appraisal district, and we'll handle the fence."}}, {"@type": "Question", "name": "Can you fix storm-damaged fence fast if my cattle are getting out?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Call our 24/7 emergency line at (509) 351-8404 and we'll get out to contain the gap, often the same day. We patch first so your stock stays put, then give you a written estimate for the permanent repair. Downed trees on wire, washed-out water gaps, and flattened corners are the most common calls after Central Texas storms."}}]}</script>
 <style is:global>
@@ -36,7 +37,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Five tight strands, corners that don't lean, and a price you'll see in writing before we drive the first post. Serving McLennan, Bosque, and Falls counties.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -150,8 +151,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

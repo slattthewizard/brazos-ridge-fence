@@ -6,7 +6,7 @@ metaDescription: "A driver hits your cow on a Central Texas road. Are you liable
 primaryKeyword: "cattle on road liability texas"
 secondaryKeywords: "texas open range law, livestock on highway texas, who is liable if you hit a cow in texas, texas stock laws, cattle owner liability texas"
 publishedDate: "2026-07-28"
-tag: "Well Care"
+tag: "Texas Law"
 subtitle: "A driver hits your cow on a dark stretch of FM 185 at 10 p.m. The car is totaled, the cow is dead, and his lawyer calls your house Monday morning."
 canonical: "https://brazosridgefence.com/blog/cattle-on-road-liability-texas/"
 faq:
@@ -36,7 +36,7 @@ But hold on before you relax. That default rule has two huge exceptions, and one
 
 So "Texas is open range" is true the way "Texas is dry" is true. It depends entirely on where you're standing.
 
-If you already know your fence is the weak link in this whole conversation, don't wait for a lawyer's letter to find out how the rules apply to you. [Request a free written estimate](/#contact) or call Brazos Ridge Fence at [(509) 351-8404](tel:+15093518404) and we'll walk your road frontage with you.
+If you already know your fence is the weak link in this whole conversation, don't wait for a lawyer's letter to find out how the rules apply to you. [Request a free written estimate](#contact) or call Brazos Ridge Fence at [(509) 351-8404](tel:+15093518404) and we'll walk your road frontage with you.
 
 ## Cattle on Road Liability in Texas Comes Down to Three Questions
 
@@ -109,7 +109,7 @@ If your cattle are getting out and you can't figure out where, our article on [w
 
 Know your limits on the DIY side, too. Patching a stretch of wire on an interior cross fence is a Saturday job. Rebuilding storm-flattened fence along a state highway right-of-way, with traffic flying by at 75 and liability hanging over your head, is not. That's when you stop and call a professional crew with the equipment to do it fast and do it right.
 
-That's what we're here for. Brazos Ridge Fence builds and repairs cattle-tight fence across McLennan, Bosque, and Falls counties, we're licensed and insured, and estimates are free and in writing. Call [(509) 351-8404](tel:+15093518404), day or night on the emergency line if you've got cattle out or storm damage on a road, or [reach us here](/#contact) to get on the schedule.
+That's what we're here for. Brazos Ridge Fence builds and repairs cattle-tight fence across McLennan, Bosque, and Falls counties, we're licensed and insured, and estimates are free and in writing. Call [(509) 351-8404](tel:+15093518404), day or night on the emergency line if you've got cattle out or storm damage on a road, or [reach us here](#contact) to get on the schedule.
 
 ## Frequently Asked Questions
 

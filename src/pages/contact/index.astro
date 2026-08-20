@@ -1,0 +1,84 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
+import { site } from '../../config/site';
+
+const canonical = `${site.url}/contact/`;
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: 'Contact', item: canonical },
+  ],
+};
+
+const contactPage = {
+  '@context': 'https://schema.org',
+  '@type': 'ContactPage',
+  url: canonical,
+  name: 'Contact Brazos Ridge Fence Co.',
+  mainEntity: { '@id': `${site.url}/#organization` },
+};
+---
+
+<Layout
+  title="Contact Brazos Ridge Fence Co. | Waco Ranch Fencing"
+  description={`Get a free written estimate for ranch fencing in Waco and Central Texas. Call ${site.phoneDisplay} any hour for storm damage and cattle-out emergencies.`}
+  canonical={canonical}
+>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <script type="application/ld+json" set:html={JSON.stringify(contactPage)} />
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">Contact</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #2A2724 0%, #4A3F33 65%, #2A2724 100%);padding:64px 24px;">
+  <div style="max-width:860px;margin:0 auto;text-align:center;">
+    <span class="kicker" style="color:#E0B571;">Free Written Estimates</span>
+    <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,50px);margin:0 0 18px;">Contact Brazos Ridge Fence Co.</h1>
+    <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:600px;margin:0 auto 28px;">We walk your fence line, measure it, and hand you a written price per foot. Call any hour if cattle are out or a storm took a fence down.</p>
+    <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
+      <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+      <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+    </div>
+  </div>
+</section>
+
+<section style="padding:64px 24px;">
+  <div class="contact-cards" style="max-width:1020px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;">
+      <h2 style="font-family:'Oswald',sans-serif;font-size:17px;font-weight:800;color:#2A2724;margin:0 0 10px;">Phone</h2>
+      <p style="font-size:15px;line-height:1.7;color:#555;margin:0 0 8px;"><a href={site.phoneHref} style="color:#C68A2E;font-weight:600;text-decoration:none;">{site.phoneDisplay}</a></p>
+      <p style="font-size:14px;line-height:1.7;color:#555;margin:0;">{site.hoursDisplay}. Emergency line answers around the clock for storm damage and cattle out on a road.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;">
+      <h2 style="font-family:'Oswald',sans-serif;font-size:17px;font-weight:800;color:#2A2724;margin:0 0 10px;">Email</h2>
+      <p style="font-size:15px;line-height:1.7;color:#555;margin:0 0 8px;"><a href={`mailto:${site.email}`} style="color:#C68A2E;font-weight:600;text-decoration:none;">{site.email}</a></p>
+      <p style="font-size:14px;line-height:1.7;color:#555;margin:0;">Send photos of the damage or a rough map of the fence line and we can narrow the number before we drive out.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;">
+      <h2 style="font-family:'Oswald',sans-serif;font-size:17px;font-weight:800;color:#2A2724;margin:0 0 10px;">Service Area</h2>
+      <p style="font-size:15px;line-height:1.7;color:#555;margin:0 0 8px;">Waco, TX &amp; Central Texas</p>
+      <p style="font-size:14px;line-height:1.7;color:#555;margin:0;">McLennan, Bosque, and Falls counties. If you are within about an hour of Waco, we will come walk your fence line.</p>
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .contact-cards { grid-template-columns: 1fr !important; } }
+</style>
+
+<ContactSection
+  heading="Tell Us What the Fence Is Doing."
+  kicker="Request Service"
+/>
+
+</Layout>

@@ -41,7 +41,7 @@ Wire doesn't loosen itself. Something in the system gave up, and it's almost alw
 
 Walk your line before you touch a tool. Figure out which of these five you've got, because the fix is different for each one.
 
-If you'd rather have somebody who does this every day take a look, [request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404). We'll tell you straight whether it's a two hour repair or time to talk replacement.
+If you'd rather have somebody who does this every day take a look, [request a free written estimate](#contact) or call us at [(509) 351-8404](tel:+15093518404). We'll tell you straight whether it's a two hour repair or time to talk replacement.
 
 ## How to Fix a Sagging Barbed Wire Fence, Step by Step
 
@@ -142,7 +142,7 @@ But call in help when you hit any of these:
 - **Storm damage with livestock loose.** Speed matters more than pride. Get the animals contained.
 - **Anything involving rock.** If your post holes need a breaker bar or a hydraulic auger, your weekend is better spent elsewhere.
 
-We're a Waco crew that builds and repairs farm and ranch fence for a living, licensed and insured, with a 24/7 emergency line for storm damage and cattle-out calls. If your fence is more sag than steel, [get a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). If barbed wire has you rebuilding every few years and you're ready for something that shrugs off cattle entirely, take a look at our [pipe fence](/pipe-fence-waco/) options while you're at it.
+We're a Waco crew that builds and repairs farm and ranch fence for a living, licensed and insured, with a 24/7 emergency line for storm damage and cattle-out calls. If your fence is more sag than steel, [get a free written estimate](#contact) or call [(509) 351-8404](tel:+15093518404). If barbed wire has you rebuilding every few years and you're ready for something that shrugs off cattle entirely, take a look at our [pipe fence](/pipe-fence-waco/) options while you're at it.
 
 ## Frequently Asked Questions
 

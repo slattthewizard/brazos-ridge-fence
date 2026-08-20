@@ -6,7 +6,7 @@ metaDescription: "What clearing a fence line costs in Central Texas, which brush
 primaryKeyword: "clearing a fence line"
 secondaryKeywords: "fence line clearing, clear a fence line, fence line brush removal, fence row clearing cost, clearing brush for a fence"
 publishedDate: "2026-08-01"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "Here's a number that surprises most landowners: on a brushy Central Texas place, clearing a fence line can run 30 to 50 percent of the whole fence budget. The wire and posts are the easy part."
 canonical: "https://brazosridgefence.com/blog/clearing-fence-line-brush/"
 faq:
@@ -88,7 +88,7 @@ Plenty of this work is landowner-friendly. Some of it isn't. Here's an honest sp
 
 Dale Prosser in Valley Mills split it smart. He and his son shredded and chainsawed about half a mile of light stuff themselves over a few weekends, then paid $2,800 for a mulcher to eat the heavy cedar in the creek bottom they couldn't safely touch. Total out of pocket was less than half what full-service clearing would have run, and nobody got hurt doing it.
 
-The honest tiebreaker is time. If the brush is heavy enough that you're measuring progress in feet per hour instead of feet per minute, machine work will beat your labor on cost alone. Tell us what you're up against through our [contact form](/#contact) and we'll tell you straight which parts are worth doing yourself.
+The honest tiebreaker is time. If the brush is heavy enough that you're measuring progress in feet per hour instead of feet per minute, machine work will beat your labor on cost alone. Tell us what you're up against through our [contact form](#contact) and we'll tell you straight which parts are worth doing yourself.
 
 ## How Wide Should You Clear, and What Comes Next
 

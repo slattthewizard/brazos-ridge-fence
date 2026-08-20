@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -28,7 +29,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">We build farm and ranch fence across Waco and Central Texas. Straight lines, tight wire, honest numbers, and a crew that picks up the phone.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -90,8 +91,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

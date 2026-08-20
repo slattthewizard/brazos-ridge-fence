@@ -6,7 +6,7 @@ metaDescription: "Barbed wire and horses don't mix. Compare the best fence for h
 primaryKeyword: "best fence for horses"
 secondaryKeywords: "safest horse fence, horse fencing options, horse fence cost per foot, no-climb horse fence, pipe fence for horses"
 publishedDate: "2026-07-24"
-tag: "Ranch Fencing"
+tag: "Livestock"
 subtitle: "A horse can hit a barbed wire fence at 2 a.m. and hand you a $4,000 vet bill by sunrise. We've seen it happen more times than we'd like around Waco, and almost every time the fence was built for..."
 canonical: "https://brazosridgefence.com/blog/best-fence-for-horses/"
 faq:
@@ -53,7 +53,7 @@ Before we rank fence types, here's the checklist we use when we design a horse f
 
 **Honest corners and gates.** Horses test gates and corners more than any stretch of line fence. That means real H-brace corners and gates hung on posts set in concrete, not a panel wired to a T-post.
 
-If your current fence fails two or more of those, it's worth a conversation. You can [request a free written estimate here](/#contact) and we'll walk the line with you.
+If your current fence fails two or more of those, it's worth a conversation. You can [request a free written estimate here](#contact) and we'll walk the line with you.
 
 ## The Best Fence for Horses, Ranked for Central Texas
 
@@ -128,7 +128,7 @@ Stop and call a professional when the job involves tearing out old barbed wire, 
 
 The other time to call is right now, tonight, if a horse is already out or tangled. We run a 24/7 emergency line for exactly that.
 
-Ready to get real numbers for your place? Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact). We're licensed and insured, we build horse fence all over Central Texas, and we'll give you a per-foot price in writing before we drive a single post.
+Ready to get real numbers for your place? Call [(509) 351-8404](tel:+15093518404) or [request your free written estimate](#contact). We're licensed and insured, we build horse fence all over Central Texas, and we'll give you a per-foot price in writing before we drive a single post.
 
 ## Frequently Asked Questions
 

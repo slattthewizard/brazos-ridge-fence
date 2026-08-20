@@ -22,7 +22,7 @@ faq:
 
 The wind finally dies down, you step outside, and there's a 60-foot live oak laying across 200 feet of your barbed wire. Your cows are already eyeballing the gap like somebody left the gate open on purpose.
 
-What you do in the next 24 hours decides whether this is a $600 fix or a $6,000 headache with a highway liability problem stacked on top. We've handled storm damaged fence repair all over McLennan, Bosque, and Falls counties for years, and the ranchers who come out of a storm cheapest all follow the same basic playbook. Here it is, hour by hour.
+What you do in the next 24 hours decides whether this is a $600 fix or a $6,000 headache with a highway liability problem stacked on top. We've handled [storm damaged fence repair](/fence-repair-waco/) all over McLennan, Bosque, and Falls counties for years, and the ranchers who come out of a storm cheapest all follow the same basic playbook. Here it is, hour by hour.
 
 ## Hour One: Find Your Cattle Before You Worry About the Fence
 
@@ -76,7 +76,7 @@ Take wide shots that show the full damaged stretch, close-ups of broken posts an
 
 Then call your agent and report the claim within a day or two. Ask specifically what your policy covers on fencing, because coverage varies a lot. Some policies pay replacement cost, some pay depreciated value, and some cap fence payouts at a number that won't touch a long rebuild. FEMA's guidance at [ready.gov/severe-weather](https://www.ready.gov/severe-weather) recommends documenting all storm damage before cleanup for exactly this reason.
 
-A written repair estimate from a contractor gives the adjuster a real number to work with instead of a guess. We provide free written estimates, and after big storms we prioritize them for folks with open claims. Reach us through the [contact form](/#contact) and mention you've got an insurance claim going.
+A written repair estimate from a contractor gives the adjuster a real number to work with instead of a guess. We provide free written estimates, and after big storms we prioritize them for folks with open claims. Reach us through the [contact form](#contact) and mention you've got an insurance claim going.
 
 ## What Storm Damaged Fence Repair Costs in Central Texas
 
@@ -117,7 +117,7 @@ Plenty of storm damage is a Saturday morning fix for a handy rancher. Some of it
 
 There's no shame in the second list. We carry the hydraulic post drivers, wire stretchers, and skid steer with a grapple that turn a dangerous two-weekend job into an afternoon. We're licensed and insured, so if something goes wrong on the job, it's on our policy, not yours.
 
-Storm season in Central Texas isn't going anywhere. If your fence took a hit, or you just want an honest assessment of what'll survive the next blow, call [(509) 351-8404](tel:+15093518404) or hit the [contact form](/#contact) for a free written estimate. Cattle-out and storm emergencies get answered 24/7, because cows don't check the clock before they walk through a gap.
+Storm season in Central Texas isn't going anywhere. If your fence took a hit, or you just want an honest assessment of what'll survive the next blow, call [(509) 351-8404](tel:+15093518404) or hit the [contact form](#contact) for a free written estimate. Cattle-out and storm emergencies get answered 24/7, because cows don't check the clock before they walk through a gap.
 
 ## Frequently Asked Questions
 

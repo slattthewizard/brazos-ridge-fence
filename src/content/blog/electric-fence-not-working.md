@@ -6,7 +6,7 @@ metaDescription: "Electric fence not working? Walk the line with this simple tro
 primaryKeyword: "electric fence not working"
 secondaryKeywords: "electric fence troubleshooting, electric fence has no power, electric fence voltage low, why is my electric fence not shocking, electric fence charger not working"
 publishedDate: "2026-08-07"
-tag: "Pump Repair"
+tag: "Fence Repair"
 subtitle: "Your fence tester reads 900 volts on a wire that should be pushing 7,000. Or worse, the cows are standing in the neighbor's coastal field and the hot wire didn't so much as tickle them on the way..."
 canonical: "https://brazosridgefence.com/blog/electric-fence-not-working/"
 faq:
@@ -25,7 +25,7 @@ An electric fence not working is one of the most common calls we get at Brazos R
 
 This guide walks the whole troubleshooting process in the order a pro would, charger outward. We chase electric fence problems every week across McLennan, Bosque, and Falls counties, so this advice is built for Central Texas: dry summers, cracked clay, hog damage, and grass that eats voltage alive by June.
 
-If you get to the end and the fence still won't hold voltage, or you'd rather skip the walking and hand it to somebody who does this daily, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and written, and we answer the emergency line 24/7 when cattle are out.
+If you get to the end and the fence still won't hold voltage, or you'd rather skip the walking and hand it to somebody who does this daily, call us at [(509) 351-8404](tel:+15093518404). Estimates are free and written, and we answer the [emergency line](/fence-repair-waco/) 24/7 when cattle are out.
 
 ## Start at the Charger: Is Your Electric Fence Energizer Working?
 
@@ -102,7 +102,7 @@ Two notes on targets. Goats and sheep need more voltage than cattle because wool
 
 For deeper reading on energizer sizing and fence design, Texas A&M AgriLife Extension publishes solid, research-based fencing guidance for our exact soil and climate at [agrilifeextension.tamu.edu](https://agrilifeextension.tamu.edu/), and the USDA Natural Resources Conservation Service covers grazing fence standards at [nrcs.usda.gov](https://www.nrcs.usda.gov/).
 
-Found your problem and just need parts? Great, that's the outcome we hope for. Still stumped, or staring at a half-mile of fence that needs more than a patch? [Request a free written estimate](/#contact) and we'll put real numbers on it.
+Found your problem and just need parts? Great, that's the outcome we hope for. Still stumped, or staring at a half-mile of fence that needs more than a patch? [Request a free written estimate](#contact) and we'll put real numbers on it.
 
 ## When to Stop Troubleshooting and Call a Pro
 

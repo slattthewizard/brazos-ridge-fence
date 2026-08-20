@@ -6,7 +6,7 @@ metaDescription: "Gate dragging or won't latch? Learn how to fix a sagging gate 
 primaryKeyword: "how to fix a sagging gate"
 secondaryKeywords: "fix sagging ranch gate, sagging gate repair, gate won't latch, gate dragging on ground, fix a leaning gate post"
 publishedDate: "2026-08-17"
-tag: "Pump Repair"
+tag: "Fence Repair"
 subtitle: "You know the move. Lift the gate with your hip, drag it through the dirt, then fight the chain for ten seconds before it finally catches."
 canonical: "https://brazosridgefence.com/blog/fix-sagging-ranch-gate/"
 faq:
@@ -39,7 +39,7 @@ So before you touch a wrench, figure out which of these is your actual problem:
 
 Stand back 20 feet and look at the gate closed. If the post is straight but the latch end droops, it's hinges or the gate. If the whole post tilts, that's your answer, and it's a bigger job.
 
-If you'd rather have somebody else sort it out, that's what we're here for. [Request a free written estimate](/#contact) or call us at [(509) 351-8404](tel:+15093518404) and we'll take a look, usually within a couple of days.
+If you'd rather have somebody else sort it out, that's what we're here for. [Request a free written estimate](#contact) or [call us](/fence-repair-waco/) at [(509) 351-8404](tel:+15093518404) and we'll take a look, usually within a couple of days.
 
 ## How to Fix a Sagging Gate at the Hinges First
 

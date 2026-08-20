@@ -6,7 +6,7 @@ metaDescription: "Wood fence posts rotting at the ground line? Learn what causes
 primaryKeyword: "fence post rot"
 secondaryKeywords: "rotten fence posts, fence posts rotting at ground level, wood fence post rot repair, replace rotted fence post, fence post rot prevention"
 publishedDate: "2026-08-11"
-tag: "Pump Repair"
+tag: "Fence Repair"
 subtitle: "Grab a ten-year-old wood post on your place and give it a hard shove. If it wobbles, creaks, or snaps clean off at the dirt, you just found the most common fence failure in Central Texas."
 canonical: "https://brazosridgefence.com/blog/fence-post-rot/"
 faq:
@@ -38,7 +38,7 @@ Two other culprits speed things up around here:
 - **Grass and brush against the post.** Vegetation traps humidity at the ground line and keeps the wood from drying between rains.
 - **Soil that holds water.** Our blackland clay swells up tight around posts and holds moisture for weeks. If you're fencing in that gumbo east of I-35, read our guide on [setting fence posts in clay soil](/blog/fence-posts-in-clay-soil/) before you dig.
 
-If you'd rather have a professional eye look over a fence that's starting to lean, [request a free written estimate](/#contact) and we'll walk the line with you. No charge, no pressure.
+If you'd rather have a professional eye look over a fence that's starting to lean, [request a free written estimate](#contact) and we'll walk the line with you. No charge, no pressure.
 
 ### What Makes Rot Worse in Central Texas Pastures
 
@@ -127,7 +127,7 @@ For budgeting, here's what we see on real jobs in McLennan, Bosque, and Falls co
 
 At some point, replacement beats repair. If more than a quarter to a third of the posts in a run are soft, you'll spend less per year of fence life rebuilding the stretch than chasing failures one post at a time. Our [ranch fence cost guide](/ranch-fence-cost/) breaks down full rebuild pricing per foot and per mile so you can compare honestly.
 
-Not sure which side of that line your fence is on? [Ask for a free written estimate](/#contact) or call [(509) 351-8404](tel:+15093518404). We'll probe the posts, count the bad ones, and give you numbers for both the repair and the rebuild so you can decide with real figures in hand. We're licensed, insured, and we fence Central Texas dirt every working day.
+Not sure which side of that line your fence is on? [Ask for a free written estimate](#contact) or call [(509) 351-8404](tel:+15093518404). We'll probe the posts, count the bad ones, and give you numbers for both the repair and the rebuild so you can decide with real figures in hand. We're licensed, insured, and we fence Central Texas dirt every working day.
 
 ## Frequently Asked Questions
 

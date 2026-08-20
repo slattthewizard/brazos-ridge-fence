@@ -1,0 +1,275 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
+import { site } from '../../config/site';
+
+const canonical = `${site.url}/fence-repair-waco/`;
+const description = `Fence repair in Waco and Central Texas. Storm damage, downed wire, leaning posts and cattle-out emergencies answered 24/7. Free written estimates. Call ${site.phoneDisplay}.`;
+
+const faqs = [
+  {
+    question: 'How fast can you get out for an emergency fence repair?',
+    answer:
+      'If cattle are out on a road we treat it as a priority call and usually have a crew rolling the same day, most often within a few hours inside McLennan County. The first trip is a temporary patch that holds stock, then we come back and build the permanent repair once the ground and the weather allow it.',
+  },
+  {
+    question: 'What does fence repair cost in the Waco area?',
+    answer:
+      'Most repair calls land between $400 and $2,500 depending on how much fence is down and what it takes to get to it. Splicing wire and resetting a few posts sits at the low end, while a washed-out water gap, a replaced corner brace, or a stretch flattened by a fallen tree runs higher. We put a written number on it before we start.',
+  },
+  {
+    question: 'Do you charge extra for after-hours emergency calls?',
+    answer:
+      'Yes. After-hours and weekend emergency calls carry a $150 to $250 trip fee on top of the repair, depending on how far out you are. That fee covers getting a crew and a truck moving at 2 a.m. The repair itself is quoted the same way it would be during the week.',
+  },
+  {
+    question: 'Should I repair this fence or replace the whole line?',
+    answer:
+      'It comes down to the posts and the wire class. If the corners are sound and the wire still has galvanizing left, repair is almost always the better buy. Once you are resetting more than about a third of the posts, or the wire is rusting through in several places, you are paying repair prices twice, and a rebuild costs less over the next twenty years.',
+  },
+  {
+    question: 'Can you repair a fence that was damaged by feral hogs?',
+    answer:
+      'Yes, and it is one of our most common calls. Hogs push up the bottom wire and work a gap wider every night. We repair the breach, then add a barbed bottom strand or a run of net wire at ground line so the same spot does not open back up next month.',
+  },
+  {
+    question: 'Do you work with insurance on storm-damaged fence?',
+    answer:
+      'We write estimates in the itemized format adjusters expect, with footage, materials, and labor separated out, so you can hand it straight to your carrier. We do not bill insurance directly, but a clear written estimate is usually what gets a fence claim moving.',
+  },
+];
+
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  name: 'Fence Repair and Emergency Service in Waco, TX',
+  serviceType: 'Fence Repair',
+  description,
+  url: canonical,
+  provider: { '@id': `${site.url}/#organization` },
+  areaServed: [
+    { '@type': 'City', name: 'Waco', addressRegion: 'TX' },
+    { '@type': 'AdministrativeArea', name: 'McLennan County, TX' },
+    { '@type': 'AdministrativeArea', name: 'Bosque County, TX' },
+    { '@type': 'AdministrativeArea', name: 'Falls County, TX' },
+  ],
+  hoursAvailable: {
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+    opens: '00:00',
+    closes: '23:59',
+    description: 'Emergency line for storm damage and cattle-out calls',
+  },
+};
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: 'Fence Repair in Waco, TX', item: canonical },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
+---
+
+<Layout
+  title="Fence Repair Waco TX | 24/7 Emergency | Brazos Ridge Fence"
+  description={description}
+  canonical={canonical}
+>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <style is:global>
+    .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+    .rich ul { padding-left: 20px; margin: 0 0 16px; }
+    .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+    .rich strong { color: #2E2A25; }
+    .rich a { color: #C68A2E; font-weight: 600; text-decoration: none; }
+    .rich a:hover { text-decoration: underline; }
+  </style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">Fence Repair</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Emergency Service</span>
+      <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">Fence Repair in Waco, TX</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Storm damage, downed wire, leaning posts, and cattle out on the road. We answer the emergency line around the clock and patch the break before it costs you a wreck.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img src="/images/tile-4.webp" srcset="/images/tile-4-800.webp 800w, /images/tile-4.webp 1200w" sizes="100vw" alt="Ranch fence line flattened by a fallen tree after a Central Texas storm" width="700" height="560" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich">
+  <p>Fence repair around Waco is rarely something you planned for. A live oak comes down across the north line, a bull decides the neighbor's grass looks better, or a spring flood takes out a water gap and forty feet of wire with it. Brazos Ridge Fence Co. repairs farm and ranch fence across McLennan, Bosque, and Falls counties, and we answer the phone at 2 a.m. because that is usually when the call comes.</p>
+  <p>Most repair calls run <strong>$400 to $2,500</strong> depending on how much fence is down and how hard it is to reach. We quote it in writing before we start, the same way we do a new build. If the line is far enough gone that repair stops making sense, we will tell you that too, and price a rebuild against our <a href="/ranch-fence-cost/">ranch fence cost guide</a> so you can see both numbers side by side.</p>
+</div></div></section>
+
+<section style="padding:0 24px 64px;"><div style="max-width:1100px;margin:0 auto;">
+  <span class="kicker">What We Fix</span>
+  <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 28px;">Repairs We Run Every Week</h2>
+  <div class="feat-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;">
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Storm and Tree Damage</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">We cut and clear the timber off the line, replace the crushed posts, and restretch the wire. Where a tree took out a corner, the brace gets rebuilt properly rather than propped back up.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Cattle-Out Emergencies</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Loose stock on a highway is a liability problem before it is a fence problem. We patch the break first so the herd holds, then schedule the permanent fix once everything is back inside.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Sagging and Slack Wire</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Slack wire usually means a brace has moved, not that the wire stretched. We find the assembly that gave, reset it, and retension the run so it stays tight instead of sagging again by fall.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Leaning and Rotten Posts</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Blackland clay heaves posts and ground-line rot eats wood from the inside. We pull the failures, set replacements deep in concrete, and leave the sound posts alone so you are not paying for a full rebuild.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Washed-Out Water Gaps</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Creek crossings take the worst of a flash flood. We rebuild them as breakaway gaps so the next high water carries off a panel you can rehang in an hour, not a whole stretch of fence.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Hog Damage at Ground Line</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Feral hogs work the bottom wire until there is a gap. We close the breach and add a barbed bottom strand so the same spot does not reopen the following month.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Dragging and Sticking Gates</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">A gate that will not latch is almost always a leaning hinge post. We reset the post, rehang the gate square, and add a brace or wheel where the span calls for it.</p>
+    </div>
+    <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+      <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">Corner and H-Brace Failures</h3>
+      <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">When a corner pulls, every run tied to it goes slack. We rebuild the <a href="/blog/h-brace-fence-corners/">H-brace assembly</a> to spec so the repair holds the next twenty years of tension.</p>
+    </div>
+  </div>
+</div></section>
+<style>
+  @media (max-width: 860px) { .feat-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">What Fence Repair Costs Around Waco</h2>
+    <div class="rich">
+      <p>Repair pricing depends on three things: how much fence is down, what it takes to reach it, and whether the posts and wire that are still standing are worth saving. Here is roughly where our calls land.</p>
+      <ul>
+        <li><strong>Splice and retension a run</strong> — $400 to $900. Broken wire, a few clips, and a stretch to pull it back tight.</li>
+        <li><strong>Reset or replace posts</strong> — $45 to $120 per post installed, more in shallow limestone where we bring a rock bit.</li>
+        <li><strong>Rebuild a corner or H-brace</strong> — $600 to $1,400 depending on post size and whether it is set in concrete.</li>
+        <li><strong>Storm and tree clearing plus repair</strong> — $900 to $2,500 for a typical downed-timber stretch, including cutting the tree off the line.</li>
+        <li><strong>Rebuild a washed-out water gap</strong> — $700 to $1,800 depending on the width of the crossing.</li>
+        <li><strong>After-hours emergency trip fee</strong> — $150 to $250 on top of the repair, based on distance.</li>
+      </ul>
+      <p>Those are real ranges from real calls, not a teaser number. We still walk the damage before quoting, because a hundred feet of downed wire in an open pasture and a hundred feet in a cedar-choked bottom are not the same job.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Repair or Replace? How We Tell the Difference</h2>
+    <div class="rich">
+      <p>Plenty of the fence we look at is worth repairing, and we will say so even though a rebuild is the bigger invoice. The call comes down to what is left.</p>
+      <p><strong>Repair makes sense</strong> when the corners and braces are sound, the wire still has galvanizing on it, and the damage is confined to one stretch. A fence with good bones and one bad section is a cheap fix that buys you another decade.</p>
+      <p><strong>Replacement makes sense</strong> when you are resetting more than about a third of the posts, when the wire is rusting through in several places along the line, or when the original build used <a href="/blog/class-3-galvanized-wire/">Class 1 wire</a> that has simply reached the end of its life. At that point repairs stack up faster than the payments on a new fence.</p>
+      <p>If a fence has been patched three times in five years, the patches are not the problem. Something structural is moving, and we would rather find it than sell you a fourth patch.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">What to Do Before We Get There</h2>
+    <div class="rich">
+      <p>If cattle are out, call the sheriff's non-emergency line before you call us, especially if stock is anywhere near a highway. Under Texas law a loose animal on a road is your liability, and getting a deputy out to slow traffic matters more than the fence in that first hour. Our guide on <a href="/blog/cattle-on-road-liability-texas/">cattle on road liability in Texas</a> covers where you actually stand.</p>
+      <p>After that, a few things make our first trip faster. Photograph the damage before anything gets moved, both wide and close up, because that is what an insurance adjuster will want. Note roughly how many feet are down and whether a vehicle can reach the spot. If you can safely close a gate to hold stock in a smaller trap, do it.</p>
+      <p>Do not try to restretch a broken high-tensile wire by hand. Wire under tension carries real energy and a snapped strand recoils hard enough to cause serious injury. Stabilize the gap with panels if you have them and leave the tension work to a crew with the right tools.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Fence Repair Crews Serving Waco and Central Texas</h2>
+    <div class="rich">
+      <p>We run repair calls out of Waco across McLennan, Bosque, and Falls counties, including <a href="/fence-builder-china-spring/">China Spring</a>, <a href="/fence-builder-crawford/">Crawford</a>, <a href="/fence-builder-mcgregor/">McGregor</a>, <a href="/fence-builder-valley-mills/">Valley Mills</a>, <a href="/fence-builder-lorena/">Lorena</a>, and <a href="/fence-builder-west/">West</a>. Storm work tends to come in waves, so if a line of weather has just moved through, call early rather than waiting for the weekend.</p>
+      <p>Repair calls also turn into new fence often enough that we treat them the same way: a walked line, a written number, and no pressure to sign anything on the spot. Call {site.phoneDisplay} any hour, or email <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:72px 24px;background:#F5EDDF;">
+  <div style="max-width:860px;margin:0 auto;">
+    <span class="kicker">FAQ</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      {faqs.map((f) => (
+        <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+          <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 10px;">{f.question}</h3>
+          <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">{f.answer}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<section style="padding:64px 24px;background:#fff;">
+  <div style="max-width:860px;margin:0 auto;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Guides From Our Fence Crew</h2>
+    <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 20px;">The same troubleshooting we walk customers through on the phone:</p>
+    <ul style="list-style:none;padding:0;margin:0;">
+      <li style="margin-bottom:12px;"><a href="/blog/storm-damaged-fence-repair/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">Storm Damaged Fence Repair: What to Do in the First 24 Hours</a></li>
+      <li style="margin-bottom:12px;"><a href="/blog/cattle-getting-out-of-fence/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">Cattle Keep Getting Out of Fence? 7 Problems to Check First</a></li>
+      <li style="margin-bottom:12px;"><a href="/blog/fix-sagging-barbed-wire-fence/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">How to Fix a Sagging Barbed Wire Fence and Keep It Tight</a></li>
+      <li style="margin-bottom:12px;"><a href="/blog/leaning-fence-posts/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">Why Fence Posts Lean and How to Straighten Them for Good</a></li>
+      <li style="margin-bottom:12px;"><a href="/blog/fix-sagging-ranch-gate/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">How to Fix a Sagging Gate That Drags or Won't Latch</a></li>
+      <li style="margin-bottom:12px;"><a href="/blog/cattle-on-road-liability-texas/" style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">Cattle on Road Liability in Texas: Who Pays When Your Herd Gets Out?</a></li>
+    </ul>
+  </div>
+</section>
+
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Oswald',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">Fence Down Right Now? Call Us.</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Emergency calls answered around the clock. Free written estimates on every repair.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+<ContactSection
+  heading="Tell Us What Happened to the Fence."
+  kicker="Emergency Repair"
+  blurb={`Most repair calls run $400 to $2,500 depending on how much fence is down. Send us the details and we will get you a written number. If stock is out right now, call ${site.phoneDisplay} instead of filling out a form.`}
+/>
+
+</Layout>

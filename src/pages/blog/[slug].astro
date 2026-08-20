@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -154,7 +155,7 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
       <p style="font-size:18px;line-height:1.7;color:rgba(246,243,237,0.8);max-width:600px;margin-bottom:28px;">{post.data.subtitle}</p>
     )}
     <div style="display:flex;flex-wrap:wrap;gap:16px;">
-      <a href="/#contact" class="btn-primary-blog" style="background:#F6F3ED;color:#0E4D6E;border-color:#F6F3ED;font-weight:700;">Get a Free Estimate</a>
+      <a href="#contact" class="btn-primary-blog" style="background:#F6F3ED;color:#0E4D6E;border-color:#F6F3ED;font-weight:700;">Get a Free Estimate</a>
       <a href="tel:+15093518404" class="btn-primary-blog" style="background:transparent;border-color:rgba(246,243,237,0.5);color:#F6F3ED;">Call (509) 351-8404</a>
     </div>
   </div>
@@ -173,7 +174,7 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
         <div style="background:#F6F3ED;border:1px solid #e3ded4;border-radius:8px;padding:28px;margin-bottom:24px;">
           <h3 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;font-size:20px;color:#0E4D6E;margin-bottom:12px;">Fence Down? Planning a Build?</h3>
           <p style="font-size:14px;line-height:1.7;color:#555;margin-bottom:20px;">We'll walk your line, talk through options, and give you a clear written estimate priced by the foot before any work starts.</p>
-          <a href="/#contact" class="btn-primary-blog" style="width:100%;justify-content:center;margin-bottom:12px;">Request Estimate</a>
+          <a href="#contact" class="btn-primary-blog" style="width:100%;justify-content:center;margin-bottom:12px;">Request Estimate</a>
           <a href="tel:+15093518404" class="btn-copper-blog" style="width:100%;justify-content:center;">Call (509) 351-8404</a>
         </div>
 
@@ -211,9 +212,11 @@ const faqSchema = faq.length > 0 ? JSON.stringify({
   <h2 style="font-family:'Zilla Slab',Georgia,serif;font-size:clamp(26px,4vw,40px);font-weight:700;color:#F6F3ED;margin-bottom:16px;">Fence Trouble in Central Texas?</h2>
   <p style="font-size:16px;color:rgba(246,243,237,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Get a free, no-obligation written estimate from a crew that builds fence for a living. Emergency cattle-out calls answered 24/7.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
-    <a href="/#contact" class="btn-primary-blog" style="background:#F6F3ED;color:#0E4D6E;border-color:#F6F3ED;font-weight:700;">Get Free Estimate</a>
+    <a href="#contact" class="btn-primary-blog" style="background:#F6F3ED;color:#0E4D6E;border-color:#F6F3ED;font-weight:700;">Get Free Estimate</a>
     <a href="tel:+15093518404" class="btn-primary-blog" style="background:transparent;border-color:rgba(246,243,237,0.5);color:#F6F3ED;">Call (509) 351-8404</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

@@ -6,7 +6,7 @@ metaDescription: "Blackland clay swells, shrinks, and heaves fence posts out of 
 primaryKeyword: "fence posts in clay soil"
 secondaryKeywords: "setting fence posts in blackland clay, fence post depth in clay, concrete fence posts expansive soil, leaning fence posts clay, blackland prairie fencing"
 publishedDate: "2026-08-13"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "Ever set a corner post plumb and tight in March, then come back in August to find it leaning like it had a rough night? That's not bad luck."
 canonical: "https://brazosridgefence.com/blog/fence-posts-in-clay-soil/"
 faq:
@@ -29,7 +29,7 @@ If you'd rather skip the digging altogether, [call us at (509) 351-8404](tel:+15
 
 ## Why Fence Posts in Clay Soil Lean, Heave, and Snap
 
-Blackland clay is what soil scientists call expansive. It's loaded with clay minerals that soak up water and swell, then give that water back in a drought and shrink. The ground around your post isn't sitting still. It's breathing, slowly, a few inches at a time.
+Blackland clay is what soil scientists call expansive. It's loaded with clay minerals that soak up water and swell, then give that water back in a [drought](/blog/drought-fence-problems/) and shrink. The ground around your post isn't sitting still. It's breathing, slowly, a few inches at a time.
 
 Here's what that does to a fence:
 
@@ -77,7 +77,7 @@ A few rules of thumb behind those numbers:
 
 Post spacing matters too. In clay we'd rather see posts at 10 to 12 feet than stretched to 15, because when one post heaves, its neighbors carry the load. Our [fence post spacing](/blog/fence-post-spacing/) article breaks that down by fence type.
 
-Not sure what your soil needs? [Request a free written estimate](/#contact) and we'll bring the auger out and show you exactly what your dirt looks like at 4 feet.
+Not sure what your soil needs? [Request a free written estimate](#contact) and we'll bring the auger out and show you exactly what your dirt looks like at 4 feet.
 
 ## Concrete, Gravel, or Tamped Earth: What Actually Holds
 
@@ -122,7 +122,7 @@ And know when to stop DIYing. Call a professional when:
 - **Cattle are getting out.** That's a liability problem, not just a fence problem. In most of McLennan County you're under stock law, and a cow on the highway is your cow. Our emergency line runs 24/7 for exactly this.
 - **You're near utilities.** Call 811 before any digging, every time. It's free and it's the law.
 
-We're licensed, insured, and we set posts in this dirt every working day. [Call (509) 351-8404](tel:+15093518404) or [request your free written estimate](/#contact) and we'll spec the right depth, post, and footing for your exact soil.
+We're licensed, insured, and we set posts in this dirt every working day. [Call (509) 351-8404](tel:+15093518404) or [request your free written estimate](#contact) and we'll spec the right depth, post, and footing for your exact soil.
 
 ## Frequently Asked Questions
 

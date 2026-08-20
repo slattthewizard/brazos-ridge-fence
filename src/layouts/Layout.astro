@@ -16,6 +16,18 @@ const {
   ogDescription,
   ogImage = 'https://brazosridgefence.com/images/og-image.webp',
 } = Astro.props;
+
+import { site, organizationSchema } from '../config/site';
+
+const orgSchema = organizationSchema();
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${site.url}/#website`,
+  url: site.url,
+  name: site.name,
+  publisher: { '@id': `${site.url}/#organization` },
+};
 ---
 
 <!DOCTYPE html>
@@ -46,11 +58,11 @@ const {
   <meta name="twitter:description" content={ogDescription ?? description} />
   <meta name="twitter:image" content={ogImage} />
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap"></noscript>
+  <!-- Fonts: self-hosted (latin + latin-ext variable subsets, ~188KB total).
+       No third-party connection on the critical path. -->
+  <link rel="preload" href="/fonts/oswald-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/fonts/fonts.css">
 
   <!-- Shared base styles -->
   <style is:global>
@@ -200,6 +212,10 @@ const {
     ::-webkit-scrollbar-thumb { background: #C68A2E; border-radius: 3px; }
   </style>
 
+  <!-- Sitewide entity schema (single source: src/config/site.ts) -->
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+
   <!-- Page-specific head content (schema, extra styles) -->
   <slot name="head" />
 
@@ -215,9 +231,9 @@ const {
       Storm-Damage Fence Repair — Fast Response
     </span>
     <span style="color:rgba(255,255,255,0.92);font-size:12.5px;font-weight:600;" class="strip-extra">Serving Waco &amp; Central Texas</span>
-    <a href="tel:+15093518404" style="color:#fff;font-size:12.5px;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:6px;">
+    <a href={site.phoneHref} style="color:#fff;font-size:12.5px;font-weight:800;text-decoration:none;display:flex;align-items:center;gap:6px;">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-      (509) 351-8404
+      {site.phoneDisplay}
     </a>
   </div>
 </div>
@@ -252,6 +268,7 @@ const {
           <a href="/pipe-fence-waco/" class="dropdown-link">Cattle & Pipe Fencing</a>
           <a href="/ranch-entrance-gates-waco/" class="dropdown-link">Ranch Entrances & Custom Gates</a>
           <a href="/barbed-wire-fence-waco/" class="dropdown-link">Barbed Wire & Field Fencing</a>
+          <a href="/fence-repair-waco/" class="dropdown-link">Fence Repair &amp; Emergency Service</a>
         </div>
       </div>
       <div style="position:relative;">
@@ -266,6 +283,12 @@ const {
           <a href="/fence-builder-valley-mills/" class="dropdown-link">Valley Mills</a>
           <a href="/fence-builder-lorena/" class="dropdown-link">Lorena</a>
           <a href="/fence-builder-west/" class="dropdown-link">West</a>
+          <a href="/fence-builder-hewitt/" class="dropdown-link">Hewitt</a>
+          <a href="/fence-builder-woodway/" class="dropdown-link">Woodway</a>
+          <a href="/fence-builder-robinson/" class="dropdown-link">Robinson</a>
+          <a href="/fence-builder-clifton/" class="dropdown-link">Clifton</a>
+          <a href="/fence-builder-meridian/" class="dropdown-link">Meridian</a>
+          <a href="/fence-builder-marlin/" class="dropdown-link">Marlin</a>
         </div>
       </div>
       <a href="/ranch-fence-cost/" class="nav-link">Cost Guide</a>
@@ -275,7 +298,7 @@ const {
 
     <!-- CTA -->
     <div class="desktop-cta" style="display:none;align-items:center;gap:12px;">
-      <a href="/#contact" class="btn-green" style="padding:12px 26px;font-size:13.5px;">Request Service</a>
+      <a href="/contact/" class="btn-green" style="padding:12px 26px;font-size:13.5px;">Request Service</a>
     </div>
 
     <!-- Mobile hamburger -->
@@ -290,11 +313,11 @@ const {
       <a href="/game-fence-installation-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Game & High Fence Installation</a>
       <a href="/pipe-fence-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cattle & Pipe Fencing</a>
       <a href="/ranch-entrance-gates-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Ranch Entrances & Custom Gates</a>
-      <a href="/barbed-wire-fence-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Emergency Service</a>
+      <a href="/fence-repair-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Fence Repair &amp; Emergency</a>
       <a href="/ranch-fence-cost/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cost Guide</a>
       <a href="/about/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">About</a>
       <a href="/blog/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Blog</a>
-      <a href="/#contact" class="btn-green" style="width:fit-content;font-size:13px;padding:11px 24px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Request Service</a>
+      <a href="/contact/" class="btn-green" style="width:fit-content;font-size:13px;padding:11px 24px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Request Service</a>
     </nav>
   </div>
 </header>
@@ -312,8 +335,8 @@ const {
         <p style="font-size:14px;color:rgba(255,255,255,0.85);margin:0;">Free written estimates for Waco &amp; Central Texas.</p>
       </div>
       <div style="display:flex;gap:14px;flex-wrap:wrap;">
-        <a href="tel:+15093518404" class="btn-white-outline">Call (509) 351-8404</a>
-        <a href="/#contact" class="btn-green">Request Service</a>
+        <a href={site.phoneHref} class="btn-white-outline">Call {site.phoneDisplay}</a>
+        <a href="/contact/" class="btn-green">Request Service</a>
       </div>
     </div>
   </div>
@@ -333,6 +356,7 @@ const {
           <li><a href="/pipe-fence-waco/" class="footer-link">Cattle & Pipe Fencing</a></li>
           <li><a href="/ranch-entrance-gates-waco/" class="footer-link">Ranch Entrances & Custom Gates</a></li>
           <li><a href="/barbed-wire-fence-waco/" class="footer-link">Barbed Wire & Field Fencing</a></li>
+          <li><a href="/fence-repair-waco/" class="footer-link">Fence Repair & Emergency Service</a></li>
           <li><a href="/ranch-fence-cost/" class="footer-link">Ranch Fence Cost Guide</a></li>
         </ul>
       </div>
@@ -346,6 +370,12 @@ const {
           <li><a href="/fence-builder-valley-mills/" class="footer-link">Valley Mills</a></li>
           <li><a href="/fence-builder-lorena/" class="footer-link">Lorena</a></li>
           <li><a href="/fence-builder-west/" class="footer-link">West</a></li>
+          <li><a href="/fence-builder-hewitt/" class="footer-link">Hewitt</a></li>
+          <li><a href="/fence-builder-woodway/" class="footer-link">Woodway</a></li>
+          <li><a href="/fence-builder-robinson/" class="footer-link">Robinson</a></li>
+          <li><a href="/fence-builder-clifton/" class="footer-link">Clifton</a></li>
+          <li><a href="/fence-builder-meridian/" class="footer-link">Meridian</a></li>
+          <li><a href="/fence-builder-marlin/" class="footer-link">Marlin</a></li>
         </ul>
       </div>
       <!-- Contact -->
@@ -354,11 +384,11 @@ const {
         <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            <a href="tel:+15093518404" class="footer-link">(509) 351-8404</a>
+            <a href={site.phoneHref} class="footer-link">{site.phoneDisplay}</a>
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
-            <a href="mailto:info@brazosridgefence.com" class="footer-link">info@brazosridgefence.com</a>
+            <a href={`mailto:${site.email}`} class="footer-link">{site.email}</a>
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
@@ -366,7 +396,7 @@ const {
           </li>
           <li style="display:flex;align-items:flex-start;gap:10px;">
             <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#7FC4E8;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-            <span style="font-size:14px;">Mon–Sat 7am–6pm<br>24/7 Emergency Line</span>
+            <span style="font-size:14px;">{site.hoursDisplay}<br>{site.emergencyDisplay}</span>
           </li>
         </ul>
       </div>
@@ -375,6 +405,7 @@ const {
     <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;font-size:13px;color:rgba(255,255,255,0.65);">
       <span>© 2026 Brazos Ridge Fence Co. All rights reserved. Serving Waco &amp; Central Texas.</span>
       <div style="display:flex;gap:20px;">
+        <a href="/contact/" class="footer-link">Contact</a>
         <a href="/privacy/" class="footer-link">Privacy Policy</a>
         <a href="/terms/" class="footer-link">Terms of Service</a>
       </div>
@@ -437,9 +468,9 @@ const {
 
 <div class="wwp-bar-mobile" id="wwpMobileBar" role="complementary" aria-label="Emergency call bar" aria-hidden="true">
   <div class="wwp-bar-label">Fence down? Cattle out? Call now<span>24/7 Emergency · Fast Response</span></div>
-  <a href="tel:+15093518404" class="wwp-bar-cta" aria-label="Call Brazos Ridge Fence Co. at (509) 351-8404">
+  <a href={site.phoneHref} class="wwp-bar-cta" aria-label={`Call ${site.name} at ${site.phoneDisplay}`}>
     <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
-    (509) 351-8404
+    {site.phoneDisplay}
   </a>
   <button class="wwp-bar-dismiss" id="wwpMobileBarDismiss" aria-label="Dismiss call bar" type="button">×</button>
 </div>

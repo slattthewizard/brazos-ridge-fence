@@ -37,7 +37,7 @@ Here's what the common pipe fence styles run installed in Central Texas right no
 
 A quick gut check on totals. At $20 a foot, a quarter mile (1,320 feet) of pipe fence runs about $26,400. A 300 foot road frontage at the same rate is $6,000. Pipe fence isn't cheap, but it's the last fence most people ever build on that line.
 
-If you want a number for your specific place instead of a range, that's what we're here for. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We'll walk the line with you and price it foot by foot, no pressure and no rounding up.
+If you want a number for your specific place instead of a range, that's what we're here for. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](#contact). We'll walk the line with you and price it foot by foot, no pressure and no rounding up.
 
 ## What Drives Pipe Fencing Cost Up or Down
 
@@ -79,7 +79,7 @@ Ranges are helpful, but real jobs are better. Here are three from the past year,
 
 Notice the spread: $15, $17, and $18 a foot for three different jobs, all fairly priced. Style and materials set the number, not the zip code.
 
-Want to know where your project lands? [Get a free written estimate](/#contact) and we'll give you a firm per-foot price on paper, broken out so you can see exactly what you're paying for.
+Want to know where your project lands? [Get a free written estimate](#contact) and we'll give you a firm per-foot price on paper, broken out so you can see exactly what you're paying for.
 
 ## Where the Money Actually Goes: Materials vs Labor
 

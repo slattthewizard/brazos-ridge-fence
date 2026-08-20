@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
 ---
 
 <Layout
@@ -8,7 +9,7 @@ import Layout from '../../layouts/Layout.astro';
   canonical="https://brazosridgefence.com/fence-builder-valley-mills/"
 >
 <Fragment slot="head">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in Valley Mills, TX", "description": "Ranch fencing in Valley Mills, TX. Barbed wire, pipe, and game fence for Bosque County cattle and hay operations. Free written estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-valley-mills/", "provider": {"@type": ["GeneralContractor", "LocalBusiness"], "@id": "https://brazosridgefence.com/#organization", "name": "Brazos Ridge Fence Co.", "url": "https://brazosridgefence.com", "logo": {"@type": "ImageObject", "url": "https://brazosridgefence.com/images/og-image.webp"}, "priceRange": "$$", "telephone": "(509) 351-8404", "email": "info@brazosridgefence.com", "address": {"@type": "PostalAddress", "addressLocality": "Waco", "addressRegion": "TX", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 31.5493, "longitude": -97.1467}, "areaServed": [{"@type": "City", "name": "Waco", "addressRegion": "TX"}, {"@type": "City", "name": "China Spring", "addressRegion": "TX"}, {"@type": "City", "name": "Crawford", "addressRegion": "TX"}, {"@type": "City", "name": "McGregor", "addressRegion": "TX"}, {"@type": "City", "name": "Valley Mills", "addressRegion": "TX"}, {"@type": "City", "name": "Lorena", "addressRegion": "TX"}, {"@type": "City", "name": "West", "addressRegion": "TX"}]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Ranch Fencing Service in Valley Mills, TX", "description": "Ranch fencing in Valley Mills, TX. Barbed wire, pipe, and game fence for Bosque County cattle and hay operations. Free written estimates. Call (509) 351-8404.", "url": "https://brazosridgefence.com/fence-builder-valley-mills/", "provider": {"@id": "https://brazosridgefence.com/#organization"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://brazosridgefence.com/"}, {"@type": "ListItem", "position": 2, "name": "Ranch Fencing in Valley Mills, TX", "item": "https://brazosridgefence.com/fence-builder-valley-mills/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do you build fence on both sides of the Bosque County line?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Valley Mills straddles the line between Bosque and McLennan counties, and we work both sides every week. Same crews, same pricing, whether your place is in the river bottom east of town or up in the hills toward Clifton."}}, {"@type": "Question", "name": "How do you handle fence across the North Bosque River and its creeks?", "acceptedAnswer": {"@type": "Answer", "text": "We build dedicated water gaps at every crossing. They're designed to give way in a flood so the main fence stays standing, and they're cheap and quick to rebuild afterward. It's the only sensible way to fence river-bottom pasture around Valley Mills."}}, {"@type": "Question", "name": "What does barbed wire fence cost per foot near Valley Mills?", "acceptedAnswer": {"@type": "Answer", "text": "Most 5-strand barbed wire jobs around Valley Mills run $2.50 to $5.50 per foot. Rocky ground west of town and heavy cedar on the line push the price up, while clean, flat blackland runs cheaper. We give you a free written estimate with exact footage and materials before any work starts."}}, {"@type": "Question", "name": "Can you fix fence fast if my cattle get out?", "acceptedAnswer": {"@type": "Answer", "text": "Call our 24/7 line at (509) 351-8404 and we'll get a crew moving. First priority is a patch that holds your stock overnight and keeps them off Highway 6 and FM 217. Then we come back and quote the permanent fix in daylight."}}]}</script>
 <style is:global>
@@ -36,7 +37,7 @@ import Layout from '../../layouts/Layout.astro';
       <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">We build barbed wire, pipe, and game fence for cattle and hay operations along the North Bosque River. Free written estimates on both sides of the Bosque County line.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;">
         <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-        <a href="/#contact" class="btn-outline-white">Get a Free Estimate</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
       </div>
     </div>
     <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
@@ -120,8 +121,10 @@ import Layout from '../../layouts/Layout.astro';
   <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
   <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
     <a href="tel:+15093518404" class="btn-cream">Call Now — (509) 351-8404</a>
-    <a href="/#contact" class="btn-outline-white">Get Free Estimate</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
   </div>
 </section>
+
+<ContactSection />
 
 </Layout>

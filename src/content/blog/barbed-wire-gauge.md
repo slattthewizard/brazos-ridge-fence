@@ -6,7 +6,7 @@ metaDescription: "12.5 or 15.5 gauge barbed wire? See breaking strength, cost pe
 primaryKeyword: "barbed wire gauge"
 secondaryKeywords: "12.5 gauge barbed wire, 15.5 gauge barbed wire, high tensile barbed wire, barbed wire thickness, wire gauge for cattle fence"
 publishedDate: "2026-07-26"
-tag: "Well Care"
+tag: "Materials"
 subtitle: "Pick up two rolls of barbed wire at the farm store outside Waco and you'll notice something strange. One roll weighs about 80 pounds. The other weighs closer to 47."
 canonical: "https://brazosridgefence.com/blog/barbed-wire-gauge/"
 faq:
@@ -87,7 +87,7 @@ The Hoffman place in Crawford went the other way. They had us build a half mile 
 
 Same two gauges. Opposite outcomes. The difference was matching the wire to the site and installing it the way that wire demands.
 
-If you'd rather skip the guesswork, [request a free written estimate](/#contact) and we'll spec the right gauge for your ground, your stock, and your budget.
+If you'd rather skip the guesswork, [request a free written estimate](#contact) and we'll spec the right gauge for your ground, your stock, and your budget.
 
 ## What Each Barbed Wire Gauge Costs Per Foot and Per Mile
 

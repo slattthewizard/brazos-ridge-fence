@@ -88,7 +88,7 @@ Numbers on a chart are one thing. Here's what actual jobs look like.
 
 **Ray in Valley Mills: 400 feet of pipe fence, $1,750.** Storm-felled oak took out a stretch of old pipe fence near his pens. Every post was set in concrete, so the crew torched posts at grade, ground the stubs, and hauled 3,800 pounds of steel to the recycler in Waco. The scrap credit knocked about $150 off his bill. Pipe tear-out is never cheap, but the steel at least pays you back a little.
 
-If any of those sound like your place, [request a free written estimate](/#contact) and we'll give you both numbers: removal alone, and removal bundled with a new fence.
+If any of those sound like your place, [request a free written estimate](#contact) and we'll give you both numbers: removal alone, and removal bundled with a new fence.
 
 ## Disposal, Haul-Off, and What You Can't Just Dump
 

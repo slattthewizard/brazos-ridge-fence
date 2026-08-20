@@ -6,7 +6,7 @@ metaDescription: "Feral hogs tearing up your fence? Learn why hogs wreck ranch f
 primaryKeyword: "feral hog fence damage"
 secondaryKeywords: "hog proof fence, feral hogs destroying fence, hog damage to fences, stop hogs from rooting under fence, hog fencing Texas"
 publishedDate: "2026-08-16"
-tag: "Well Care"
+tag: "Fence Repair"
 subtitle: "A sounder of feral hogs can undo a quarter mile of fence in one night. Not over a season. One night. If you ranch anywhere in McLennan, Bosque, or Falls County, you already know the drill."
 canonical: "https://brazosridgefence.com/blog/feral-hog-fence-damage/"
 faq:
@@ -43,7 +43,7 @@ If you're finding fresh rooting along your line right now and stock is getting o
 
 ## What feral hog fence damage looks like, and what it costs you
 
-The fence repair is usually the cheap part. It's everything that follows the hole that hurts.
+The [fence repair](/fence-repair-waco/) is usually the cheap part. It's everything that follows the hole that hurts.
 
 Dale Kunkel runs about 60 cow-calf pairs on 300 acres outside Crawford, with a half mile of fence along a Middle Bosque creek bottom. Hogs tunneled under his net wire at a water gap in March. Before he found the breach, his cows had pushed through the widened hole and scattered across a county road. He spent $1,850 with us rebuilding 400 feet of bottom wire and the water gap, but he figures the real cost was closer to $4,000 once he counted a vet bill for a cut-up heifer and two lost days rounding up cattle. Loose cattle on a road are also a liability problem, which we've covered before in our post on [cattle getting out of the fence](/blog/cattle-getting-out-of-fence/).
 
@@ -92,7 +92,7 @@ Here's what we're quoting in the Waco area as of mid-2026. These are installed p
 | Fixed knot + electric offset | $5.25 to $7.50 | Yes, highest deterrence | Heavy pressure river bottoms |
 | Heavy hog panels on t-posts | $7.00 to $9.00 | Yes | Pens, gardens, short runs |
 
-For a quick gut check on a bigger project, a half mile of fixed knot hog fence lands somewhere around $12,000 to $17,000 installed. That sounds like real money until you stack it against a few years of rooted hay fields, patch labor, and cattle on the highway. If you want exact numbers for your place, our [barbed wire fence page](/barbed-wire-fence-waco/) covers strand options and pricing, and you can [request a free written estimate](/#contact) with your acreage and we'll walk the line with you.
+For a quick gut check on a bigger project, a half mile of fixed knot hog fence lands somewhere around $12,000 to $17,000 installed. That sounds like real money until you stack it against a few years of rooted hay fields, patch labor, and cattle on the highway. If you want exact numbers for your place, our [barbed wire fence page](/barbed-wire-fence-waco/) covers strand options and pricing, and you can [request a free written estimate](#contact) with your acreage and we'll walk the line with you.
 
 ## When to stop patching and call a pro
 
@@ -110,7 +110,7 @@ There's also a safety piece. Feral hogs can be aggressive, especially sows with 
 
 Marcus Teel, who runs goats on 40 acres near Valley Mills, patched the same creek-side stretch of hinge joint fence six times in one year. He kept receipts: about $640 in wire, clips, and posts, plus most of a weekend each time, and the hogs still opened it back up before Thanksgiving. We rebuilt that 500-foot stretch in fixed knot with a hot offset for $2,900 last December. As of July, it hasn't been breached once.
 
-If you're at that point, we'd rather look at it now than after the next breach. Brazos Ridge Fence is licensed and insured, we serve Waco and all of McLennan, Bosque, and Falls counties, and we keep a 24/7 emergency line for cattle-out situations. Call [(509) 351-8404](tel:+15093518404) any time, or [send us the details](/#contact) and we'll get you a free written estimate.
+If you're at that point, we'd rather look at it now than after the next breach. Brazos Ridge Fence is licensed and insured, we serve Waco and all of McLennan, Bosque, and Falls counties, and we keep a 24/7 emergency line for cattle-out situations. Call [(509) 351-8404](tel:+15093518404) any time, or [send us the details](#contact) and we'll get you a free written estimate.
 
 ## Frequently Asked Questions
 

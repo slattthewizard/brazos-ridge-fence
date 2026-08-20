@@ -6,7 +6,7 @@ metaDescription: "Comparing fixed knot vs hinge joint fence for your Central Tex
 primaryKeyword: "fixed knot vs hinge joint fence"
 secondaryKeywords: "fixed knot fence, hinge joint fence, fixed knot wire vs hinge joint wire, net wire fence types, woven wire fence comparison"
 publishedDate: "2026-08-18"
-tag: "Pump Repair"
+tag: "Materials"
 subtitle: "Two net wire fences can look identical from the county road, yet one will still be standing tight in 30 years while the other sags out in 12."
 canonical: "https://brazosridgefence.com/blog/fixed-knot-vs-hinge-joint/"
 faq:
@@ -73,7 +73,7 @@ Read that lifespan row twice. A hinge joint fence at $3.50 a foot that lasts 15 
 
 The post spacing line is where fixed knot claws back its higher wire price. On a mile of fence, going from 10-foot to 16-foot spacing cuts out roughly 200 posts. At $8 to $15 per t-post or line post installed, that's $1,600 to $3,000 saved per mile before you've hung any wire.
 
-Every place prices out a little different, which is why we do free written estimates instead of guessing over the phone. [Request yours here](/#contact) and we'll put real numbers on your actual fence lines, usually within a week.
+Every place prices out a little different, which is why we do free written estimates instead of guessing over the phone. [Request yours here](#contact) and we'll put real numbers on your actual fence lines, usually within a week.
 
 ## Which Net Fence Lasts Longer on Central Texas Ground?
 
@@ -103,7 +103,7 @@ A word on DIY: stretching high tensile fixed knot wire is a different animal tha
 
 One last gut check, from a job in China Spring: a landowner named Pete priced his own materials for 1,200 feet of fixed knot, figured $2,100 in wire and posts, and started building. Two pulled-over corners and one trip to urgent care for a wire whip across the forearm later, he called us. We rebuilt the corners, restretched the wire, and finished the run for $4,400 on top of what he'd already spent. He'd have been at roughly $5,900 total if we'd built it from scratch. DIY can save money, but only if the corners and the stretch are done right the first time.
 
-Whatever direction you're leaning, we'll give you a straight answer and a written number. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact). We're licensed and insured, and if a storm or a cow wreck takes a fence down tonight, our emergency line answers 24/7.
+Whatever direction you're leaning, we'll give you a straight answer and a written number. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](#contact). We're licensed and insured, and if a storm or a cow wreck takes a fence down tonight, our emergency line answers 24/7.
 
 ## Frequently Asked Questions
 

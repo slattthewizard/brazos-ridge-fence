@@ -1,0 +1,171 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
+import { site } from '../../config/site';
+import { locations } from '../../data/locations';
+
+export async function getStaticPaths() {
+  const { locations } = await import('../../data/locations');
+  return Object.keys(locations).map((city) => ({ params: { city } }));
+}
+
+const { city } = Astro.params;
+const loc = locations[city as string];
+
+const canonical = `${site.url}/fence-builder-${city}/`;
+
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  name: `Ranch Fencing Service in ${loc.city}, TX`,
+  serviceType: 'Fence Installation',
+  description: loc.metaDescription,
+  url: canonical,
+  provider: { '@id': `${site.url}/#organization` },
+  areaServed: [
+    { '@type': 'City', name: loc.city, addressRegion: 'TX' },
+    { '@type': 'AdministrativeArea', name: `${loc.county}, TX` },
+  ],
+};
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: `Ranch Fencing in ${loc.city}, TX`, item: canonical },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: loc.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
+---
+
+<Layout title={loc.metaTitle} description={loc.metaDescription} canonical={canonical}>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <style is:global>
+    .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+    .rich ul { padding-left: 20px; margin: 0 0 16px; }
+    .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+    .rich strong { color: #2E2A25; }
+    .rich a { color: #C68A2E; font-weight: 600; text-decoration: none; }
+    .rich a:hover { text-decoration: underline; }
+  </style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">{loc.city}</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Service Area</span>
+      <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">{loc.title}</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">{loc.heroSubtitle}</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img
+        src={`/images/${loc.image}.webp`}
+        srcset={`/images/${loc.image}-800.webp 800w, /images/${loc.image}.webp 1200w`}
+        sizes="100vw"
+        alt={`Ranch fencing near ${loc.city}, ${loc.county}, Texas`}
+        width="800" height="533"
+        style="width:100%;height:100%;object-fit:cover;display:block;"
+        loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich">
+  {loc.intro.map((p) => <p set:html={p} />)}
+</div></div></section>
+
+<section style="padding:0 24px 64px;"><div style="max-width:1100px;margin:0 auto;">
+  <span class="kicker">What We Do in {loc.city}</span>
+  <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 28px;">Services for {loc.city} Properties</h2>
+  <div class="feat-grid" style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px;">
+    {loc.cards.map((c) => (
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">{c.heading}</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;" set:html={c.body} />
+      </div>
+    ))}
+  </div>
+</div></section>
+<style>
+  @media (max-width: 860px) { .feat-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">{loc.groundHeading}</h2>
+    <div class="rich">{loc.ground.map((p) => <p set:html={p} />)}</div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">{loc.costHeading}</h2>
+    <div class="rich">{loc.cost.map((p) => <p set:html={p} />)}</div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">{loc.areaHeading}</h2>
+    <div class="rich">{loc.area.map((p) => <p set:html={p} />)}</div>
+  </div>
+</section>
+
+<section style="padding:72px 24px;background:#F5EDDF;">
+  <div style="max-width:860px;margin:0 auto;">
+    <span class="kicker">FAQ</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      {loc.faqs.map((f) => (
+        <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+          <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 10px;">{f.question}</h3>
+          <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">{f.answer}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Oswald',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">{loc.ctaHeading}</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+<ContactSection
+  heading={`Get a Written Price for Your ${loc.city} Place.`}
+  kicker="Free Estimate"
+/>
+
+</Layout>

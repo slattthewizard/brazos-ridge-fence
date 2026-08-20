@@ -34,7 +34,7 @@ Here's how that per foot number breaks apart:
 
 Cheap quotes exist. If somebody offers you high fence at $3.00 per foot installed, ask hard questions. That price usually means hinge joint wire instead of fixed knot, light gauge wire, posts set too shallow, or corners without proper bracing. On a fence that's supposed to hold deer for 25 years, those shortcuts show up in year three.
 
-If you want a real number for your specific place, not an internet range, we'll walk your fence line and put it in writing for free. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). Our [game fence installation crew in Waco](/game-fence-installation-waco/) builds high fence year round, so we quote from current material prices, not last year's.
+If you want a real number for your specific place, not an internet range, we'll walk your fence line and put it in writing for free. Call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](#contact). Our [game fence installation crew in Waco](/game-fence-installation-waco/) builds high fence year round, so we quote from current material prices, not last year's.
 
 ## Game Fence Prices Per Acre and Per Mile
 
@@ -90,7 +90,7 @@ Numbers on a page are one thing. Here's what game fence cost looked like on thre
 
 **Danny Kolar, outside West, 40 acres.** Danny wasn't after deer. He was tired of hogs destroying his coastal field and his neighbor's cattle walking through a 60 year old fence. He fenced one full mile with 8 foot fixed knot plus a pinned apron on the north side where the hogs travel. Total was $33,900, and he added a $3,200 tall entrance gate later that fall. His comment a year in: the hay he stopped losing to hogs covers the payment.
 
-Every one of these started with a free walk of the fence line. If you're within an hour of Waco, [we'll do the same for you](/#contact), no pressure and no rounded-up guesswork.
+Every one of these started with a free walk of the fence line. If you're within an hour of Waco, [we'll do the same for you](#contact), no pressure and no rounded-up guesswork.
 
 ## How to Budget for a Game Fence Without Getting Burned
 

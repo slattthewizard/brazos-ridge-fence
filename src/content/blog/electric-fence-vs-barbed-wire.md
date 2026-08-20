@@ -45,7 +45,7 @@ But barbed wire is a physical barrier that works 24 hours a day whether or not a
 
 Danny Vaculin, who runs stockers on leased coastal ground outside West, is a good example of electric done right. He picked up an 80 acre lease last spring and needed about a mile and a half of cross fence fast. A five strand barbed job would've run him around $22,000, which makes no sense on a three year lease. We built him two strand high tensile electric with a solar energizer for about $9,600. His steers respected it within a week, and when the lease ends he can pull most of it and take it with him.
 
-If you're trying to figure out which side of that table your project lands on, call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](/#contact). We'll walk the line with you and give you numbers for both options, in writing.
+If you're trying to figure out which side of that table your project lands on, call us at [(509) 351-8404](tel:+15093518404) or [request a free written estimate](#contact). We'll walk the line with you and give you numbers for both options, in writing.
 
 ## How Each One Controls Cattle
 
@@ -99,7 +99,7 @@ Budget-wise, that combo means spending the real money once, on the perimeter, th
 
 One safety note before you run wire yourself: never power any fence with a homemade or plug-in charger that isn't a listed, low-impedance fence energizer. People have been killed by improvised fence chargers. And if a storm drops a tree across your fence and cattle are already out, that's not a DIY afternoon. Our emergency line at [(509) 351-8404](tel:+15093518404) answers 24/7 for exactly that situation, and we're licensed and insured for the work.
 
-If you're weighing electric against barbed for a specific pasture, the cheapest mistake to avoid is building the wrong fence in the wrong spot. [Reach out for a free written estimate](/#contact) and we'll price both options side by side for your ground, your cattle, and your budget.
+If you're weighing electric against barbed for a specific pasture, the cheapest mistake to avoid is building the wrong fence in the wrong spot. [Reach out for a free written estimate](#contact) and we'll price both options side by side for your ground, your cattle, and your budget.
 
 ## Frequently Asked Questions
 

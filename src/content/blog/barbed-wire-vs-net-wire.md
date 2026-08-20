@@ -6,7 +6,7 @@ metaDescription: "Barbed wire vs net wire fence compared for Central Texas ranch
 primaryKeyword: "barbed wire vs net wire fence"
 secondaryKeywords: "net wire vs barbed wire, barbed wire vs woven wire fence, net wire fence cost, barbed wire fence for cattle, field fence vs barbed wire"
 publishedDate: "2026-07-27"
-tag: "Well Care"
+tag: "Materials"
 subtitle: "One fence runs about $2 a foot installed and holds cattle just fine. The other runs closer to $4 a foot and holds almost anything with four legs."
 canonical: "https://brazosridgefence.com/blog/barbed-wire-vs-net-wire/"
 faq:
@@ -93,7 +93,7 @@ Roy Kubacak runs cows on about 300 acres west of West. When he priced fencing th
 
 One legal note worth knowing: much of rural Texas is still open range under [Texas Agriculture Code Chapter 143](https://statutes.capitol.texas.gov/Docs/AG/htm/AG.143.htm), but counties and highways carry stock law exceptions, and a fence that doesn't hold your animals can still put liability on you when they reach a roadway. Good road frontage fence isn't just about keeping livestock in. It's about keeping you out of court.
 
-If you're pricing a mixed setup like Roy's, [request a free written estimate](/#contact) and we'll price each stretch separately so you can see exactly where net wire earns its keep and where barbed wire saves you thousands.
+If you're pricing a mixed setup like Roy's, [request a free written estimate](#contact) and we'll price each stretch separately so you can see exactly where net wire earns its keep and where barbed wire saves you thousands.
 
 ## How to Decide: Five Questions Before You Buy Wire
 

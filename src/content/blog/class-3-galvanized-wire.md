@@ -6,7 +6,7 @@ metaDescription: "Class 3 galvanized fence wire lasts 2 to 3 times longer than C
 primaryKeyword: "class 3 galvanized fence wire"
 secondaryKeywords: "class 1 vs class 3 galvanized wire, class 3 barbed wire, galvanized wire coating classes, zinc coating on fence wire, class 3 galvanized barbed wire"
 publishedDate: "2026-07-31"
-tag: "Well Care"
+tag: "Materials"
 subtitle: "Two rolls of barbed wire sit side by side on the shelf at the farm store. Same gauge, same twist, same shine, and one costs about thirty bucks more."
 canonical: "https://brazosridgefence.com/blog/class-3-galvanized-wire/"
 faq:
@@ -97,7 +97,7 @@ When Class 1 still makes sense:
 
 For perimeter fence, highway frontage, or anything holding bulls, we spec Class 3 galvanized barbed wire as our standard on [barbed wire fence installs in the Waco area](/barbed-wire-fence-waco/). Same logic applies to net wire and to the woven wire we hang on [game fence projects](/game-fence-installation-waco/), where the fence is taller, costs more per foot, and is even more painful to rebuild.
 
-Want a side-by-side quote with both wire classes priced out for your place? [Request a free written estimate](/#contact) and we'll break the numbers down foot by foot.
+Want a side-by-side quote with both wire classes priced out for your place? [Request a free written estimate](#contact) and we'll break the numbers down foot by foot.
 
 ## How to Tell What Class of Wire You're Buying
 

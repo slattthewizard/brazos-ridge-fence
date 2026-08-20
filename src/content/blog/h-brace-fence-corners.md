@@ -6,7 +6,7 @@ metaDescription: "Learn why fence corners fail without a proper H brace, what a 
 primaryKeyword: "h brace fence"
 secondaryKeywords: "h brace fence corner, fence corner brace, how to build an h brace, h brace cost, fence bracing"
 publishedDate: "2026-08-19"
-tag: "Well Care"
+tag: "Ranch Fencing"
 subtitle: "Here's a number that surprises most landowners: a single strand of barbed wire stretched tight to fence tension pulls on your corner post with around 200 to 250 pounds of force."
 canonical: "https://brazosridgefence.com/blog/h-brace-fence-corners/"
 faq:
@@ -35,7 +35,7 @@ The magic is in how the parts share the load. The wire tries to tip the corner p
 
 Done right, a wood H brace fence assembly holds 3,000 pounds of pull or more. That's enough to keep five strands of barbed wire or a full run of net wire banjo tight for decades.
 
-If your corners are already leaning, get eyes on them before you restretch anything. [Request a free written estimate](/#contact) and we'll tell you straight whether your braces can be saved or need to be rebuilt.
+If your corners are already leaning, get eyes on them before you restretch anything. [Request a free written estimate](#contact) and we'll tell you straight whether your braces can be saved or need to be rebuilt.
 
 ## Why Fence Corners Fail Without a Brace
 
@@ -59,7 +59,7 @@ There's a right way to build an H brace, and there are a dozen wrong ways that l
 
 **The brace wire.** Run a double loop of 9 gauge smooth galvanized wire from the bottom of the corner post to the top of the brace post, then twist it tight with a stick or an in-line strainer. Direction is the part people get backwards. The wire runs low on the corner, high on the brace post, so it pulls the corner post down and back against the pull of the fence.
 
-**Doubling up.** For pulls longer than about 650 feet, for net wire, or for [high-tensile game fence](/game-fence-installation-waco/), we build a double H brace, which is two H assemblies in a row sharing three posts. On heavy gate corners, a welded [pipe fence](/pipe-fence-waco/) corner is the no-maintenance option, since steel doesn't rot and doesn't care how wet the spring gets.
+**Doubling up.** For pulls longer than about 650 feet, for net wire, or for [high-tensile game fence](/game-fence-installation-waco/), we build a double H brace, which is two H assemblies in a row sharing three posts. On heavy [gate](/blog/fix-sagging-ranch-gate/) corners, a welded [pipe fence](/pipe-fence-waco/) corner is the no-maintenance option, since steel doesn't rot and doesn't care how wet the spring gets.
 
 One more thing worth saying: brace post spacing and line post spacing are different jobs. Your line posts just hold wire up and stock off. Your braces hold the whole fence tight. Our guide on [fence post spacing](/blog/fence-post-spacing/) covers how the two work together.
 
@@ -104,7 +104,7 @@ Plenty of handy landowners can build a solid H brace, and if you've got a tracto
 
 Call a professional when any of these are true. You're anchoring a long pull or high-tensile wire, where a brace failure releases a lot of stored energy fast. You're in rock and can't get to depth. You've got multiple failed corners, because that usually means the whole fence needs tension work, not just new posts. Or the fence is currently down and stock are loose, because that's an emergency, not a weekend project. Stretching wire against a fresh brace is also where most DIY injuries happen, so if you've never used a fence stretcher under real tension, have someone show you before you learn the hard way.
 
-We build and repair braces across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between. Estimates are free, in writing, and we'll tell you if your existing corners are worth saving. [Get your free estimate here](/#contact) or call [(509) 351-8404](tel:+15093518404). For storm damage or cattle out on a road, that line answers 24/7.
+We build and repair braces across Waco, China Spring, Crawford, McGregor, Valley Mills, Lorena, West, and everywhere in between. Estimates are free, in writing, and we'll tell you if your existing corners are worth saving. [Get your free estimate here](#contact) or call [(509) 351-8404](tel:+15093518404). For storm damage or cattle out on a road, that line answers 24/7.
 
 ## Frequently Asked Questions
 
