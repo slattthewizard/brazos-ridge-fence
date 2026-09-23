@@ -59,7 +59,7 @@ export const locations: Record<string, Location> = {
       },
       {
         heading: 'Horse-Safe Fencing',
-        body: 'Barbed wire and horses are a bad mix on a small trap where a spooked animal has nowhere to go. We build pipe, no-climb net wire, and pipe-top combinations that hold a horse without cutting it.',
+        body: 'Barbed wire and horses are a bad mix on a small trap where a spooked animal has nowhere to go. We build pipe, no-climb net wire, and pipe-top combinations that <a href="/horse-fence-waco/">hold a horse without cutting it</a>.',
       },
       {
         heading: 'Pipe Fence and Entrances',
@@ -209,11 +209,11 @@ export const locations: Record<string, Location> = {
       },
       {
         heading: 'Brush Clearing',
-        body: 'Bottomland grows mesquite, hackberry, and greenbrier faster than anywhere else in the county. We clear the line before we build and price the clearing separately so you can see it.',
+        body: 'Bottomland grows mesquite, hackberry, and greenbrier faster than anywhere else in the county. We <a href="/fence-line-clearing-waco/">clear the line</a> before we build and price the clearing separately so you can see it.',
       },
       {
         heading: 'Working Pens and Corrals',
-        body: 'Welded pipe pens that hold up on shipping day. We lay out the crowd pen and alley so one person can work cattle without a crew standing around.',
+        body: 'Welded pipe pens that hold up on shipping day. We lay out the <a href="/corrals-working-pens-waco/">crowd pen and alley</a> so one person can work cattle without a crew standing around.',
       },
     ],
     groundHeading: 'Fencing the Blackland and the Bottoms',
@@ -274,7 +274,7 @@ export const locations: Record<string, Location> = {
     cards: [
       {
         heading: 'Net Wire for Sheep and Goats',
-        body: 'Goats are the hardest animal in Texas to keep behind a fence. Fixed knot net wire with tight spacing at the bottom is the answer, not more strands of barbed wire. Our <a href="/blog/fence-for-goats-and-sheep/">goat and sheep fencing guide</a> covers spacing and cost.',
+        body: 'Goats are the hardest animal in Texas to keep behind a fence. <a href="/goat-sheep-fence-waco/">Fixed knot net wire</a> with tight spacing at the bottom is the answer, not more strands of barbed wire. Our <a href="/blog/fence-for-goats-and-sheep/">goat and sheep fencing guide</a> covers spacing and cost.',
       },
       {
         heading: 'High Game Fence',
@@ -282,11 +282,11 @@ export const locations: Record<string, Location> = {
       },
       {
         heading: 'Cedar Clearing',
-        body: 'Ashe juniper takes a fence line back fast out here. We clear the line ahead of the build and price the clearing as its own item so you can see what it costs.',
+        body: 'Ashe juniper takes a fence line back fast out here. We <a href="/fence-line-clearing-waco/">clear the line</a> ahead of the build and price the clearing as its own item so you can see what it costs.',
       },
       {
         heading: 'Pipe Fence and Corrals',
-        body: 'Welded pipe for pens, corrals, and road frontage. On shallow rock, pipe set in concrete often outperforms wood posts that cannot get depth.',
+        body: 'Welded pipe for <a href="/corrals-working-pens-waco/">pens and corrals</a> plus road frontage. On shallow rock, pipe set in concrete often outperforms wood posts that cannot get depth.',
       },
     ],
     groundHeading: 'Building Fence on Bosque County Limestone',
@@ -359,7 +359,7 @@ export const locations: Record<string, Location> = {
       },
       {
         heading: 'Cedar and Brush Clearing',
-        body: 'Ashe juniper is the standing crop out here whether you want it or not. We clear the fence line first, priced separately, so the fence runs straight and stays reachable.',
+        body: 'Ashe juniper is the standing crop out here whether you want it or not. We <a href="/fence-line-clearing-waco/">clear the fence line</a> first, priced separately, so the fence runs straight and stays reachable.',
       },
     ],
     groundHeading: 'Fencing the Meridian Hills',
@@ -428,7 +428,7 @@ export const locations: Record<string, Location> = {
       },
       {
         heading: 'Working Pens and Corrals',
-        body: 'Welded pipe pens sized for the herd and the trailer, laid out so one person can pen and load without help on shipping day.',
+        body: 'Welded <a href="/corrals-working-pens-waco/">pipe pens</a> sized for the herd and the trailer, laid out so one person can pen and load without help on shipping day.',
       },
       {
         heading: 'Hay Meadow Fencing',

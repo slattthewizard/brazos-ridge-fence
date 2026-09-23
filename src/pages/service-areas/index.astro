@@ -1,0 +1,212 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
+import { site, services, serviceAreas } from '../../config/site';
+
+const canonical = `${site.url}/service-areas/`;
+const title = 'Fence Builder Service Areas Around Waco, TX | Brazos Ridge';
+const description =
+  'Where we build ranch fence: Waco and twelve towns across McLennan, Bosque, and Falls counties. Local ground conditions and real pricing on every page.';
+
+/** Grouped by county, in the order the counties appear in serviceAreas. */
+const counties = [...new Set(serviceAreas.map((a) => a.county))].map((county) => ({
+  county,
+  towns: serviceAreas.filter((a) => a.county === county),
+}));
+
+const countyNotes: Record<string, string> = {
+  'McLennan County':
+    'Houston Black clay for the most part, which is good dirt for grass and hard dirt for posts. It swells wet and cracks open dry, and every one of those cracks works a shallow-set post a little looser. We set corners deep and tamp in lifts here rather than trusting a shovel of concrete at the top.',
+  'Bosque County':
+    'West of the Bosque River the blackland gives way to limestone, cedar, and hill ground. Post holes get drilled instead of augered, clearing is often half the job, and the deer leases up this way are where most of our game fence goes.',
+  'Falls County':
+    'Blackland and Brazos bottom. Deep clay, long straight perimeters on row-crop and cattle ground, and water gaps that have to be built to be rehung rather than built to hold, because the bottoms will take them out sooner or later.',
+};
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: 'Service Areas', item: canonical },
+  ],
+};
+
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Service Areas',
+  itemListElement: serviceAreas.map((a, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: `Fence Builder in ${a.name}, TX`,
+    url: `${site.url}/${a.slug}/`,
+  })),
+};
+
+const collectionPage = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': canonical,
+  url: canonical,
+  name: 'Fence Builder Service Areas Around Waco, Texas',
+  description,
+  isPartOf: { '@id': `${site.url}/#website` },
+  about: { '@id': `${site.url}/#organization` },
+};
+
+const faqs = [
+  {
+    question: 'How far from Waco will you travel to build fence?',
+    answer:
+      'About an hour in any direction, which covers McLennan, Bosque, and Falls counties. That is not a hard boundary so much as the distance a crew and a trailer of pipe can cover without the drive eating the day. If you are just outside it, call anyway and we will tell you straight whether the job pencils.',
+  },
+  {
+    question: 'Do you charge extra for towns farther from Waco?',
+    answer:
+      'Not as a separate line item. Drive time is baked into the per-foot price, and on a long job it barely moves the number. On a very small repair a long way out, we may bundle it with other work in that direction rather than make a special trip, and we will tell you that when you call.',
+  },
+  {
+    question: 'My town is not on your list. Do you still build there?',
+    answer:
+      'Often, yes. The towns listed have their own pages because they are where we work most, not because they are the only places we go. Moody, Mart, Riesel, Lott, Rosebud, Morgan, and Walnut Springs are all inside the same three counties and all inside our range. Call and ask.',
+  },
+  {
+    question: 'Does the ground really change that much across three counties?',
+    answer:
+      'It changes enough to change the bid. A post hole in Marlin blackland and a post hole in a Meridian limestone hillside are different jobs with different equipment, and a crew that prices them the same is guessing on one of them. That is why each town page talks about the dirt.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer },
+  })),
+};
+---
+
+<Layout title={title} description={description} canonical={canonical}>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(collectionPage)} />
+  <script type="application/ld+json" set:html={JSON.stringify(itemList)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <style is:global>
+    .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+    .rich ul { padding-left: 20px; margin: 0 0 16px; }
+    .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+    .rich strong { color: #2E2A25; }
+    .rich a { color: #C68A2E; font-weight: 600; text-decoration: none; }
+    .rich a:hover { text-decoration: underline; }
+  </style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">Service Areas</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Service Areas</span>
+      <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">Where We Build Fence Around Waco</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Twelve towns across McLennan, Bosque, and Falls counties, plus Waco itself. The ground changes on the way out of town, and so does the bid.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img src="/images/city-2.webp" srcset="/images/city-2-800.webp 800w, /images/city-2.webp 1200w" sizes="100vw" alt="Ranch country around Waco, McLennan County, Texas" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich">
+  <p>Brazos Ridge Fence Co. works out of Waco and builds within about an hour of it. That range covers three counties that do not look much alike once you are out of the city: the blackland prairie of McLennan and Falls, and the limestone hills of Bosque west of the river.</p>
+  <p>That difference is not scenery, it is the bid. Setting a corner post in Houston Black clay near Marlin and drilling one into a rock ledge outside Meridian are two different jobs, and a crew that quotes them at the same number is guessing on one of them. Every town page below covers the local dirt, the local terrain, and what fence actually costs there. All ten of our <a href="/services/">fencing services</a> are available in every one of them.</p>
+</div></div></section>
+
+{counties.map((c) => (
+  <section style="padding:0 24px 56px;">
+    <div style="max-width:1100px;margin:0 auto;">
+      <span class="kicker">{c.towns.length} {c.towns.length === 1 ? 'Town' : 'Towns'}</span>
+      <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 14px;">{c.county}</h2>
+      <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 24px;max-width:760px;">{countyNotes[c.county]}</p>
+      <div class="area-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+        {c.towns.map((a) => (
+          <a href={`/${a.slug}/`} class="area-card" style="display:block;background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:24px;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.05);transition:transform 0.15s, box-shadow 0.2s;">
+            <h3 style="font-family:'Oswald',sans-serif;font-size:19px;font-weight:800;color:#2A2724;margin:0 0 8px;">{a.name}, TX</h3>
+            <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 14px;">{a.blurb}</p>
+            <span style="font-family:'Oswald',sans-serif;font-size:12.5px;font-weight:800;letter-spacing:0.06em;text-transform:uppercase;color:#A6491F;">Fencing in {a.name} &rarr;</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+))}
+<style>
+  .area-card:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(42,39,36,0.12) !important; }
+  @media (max-width: 1000px) { .area-grid { grid-template-columns: repeat(2,1fr) !important; } }
+  @media (max-width: 700px) { .area-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Waco and the Rest of the Range</h2>
+    <div class="rich">
+      <p>Waco itself is the middle of the circle. Most of our work inside the city limits is acreage on the edges rather than town lots, plus the <a href="/pipe-fence-waco/">pipe frontage fence</a> and <a href="/ranch-entrance-gates-waco/">entrances</a> people put on places along the paved roads out toward China Spring, Crawford, and Lorena.</p>
+      <p>Beyond the twelve towns listed above, we regularly build in Moody, Mart, Riesel, Axtell, Elm Mott, Ross, Bruceville-Eddy, Lott, Rosebud, Chilton, Morgan, Iredell, Walnut Springs, Cranfills Gap, and the country in between. Those places do not have their own pages yet, which does not mean we will not drive there. If you are inside McLennan, Bosque, or Falls county, call and we will come walk it.</p>
+      <p>For an emergency, distance matters less than you would think. We run a 24/7 line for <a href="/fence-repair-waco/">fence repair</a>, and a cattle-out call at the far edge of the county still gets answered by a person, not a machine.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 24px 64px;"><div style="max-width:1100px;margin:0 auto;">
+  <span class="kicker">Available Everywhere We Work</span>
+  <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 24px;">Every Service, in Every Town Above</h2>
+  <div style="display:flex;flex-wrap:wrap;gap:10px;">
+    {services.map((s) => (
+      <a href={`/${s.slug}/`} style="display:inline-block;padding:9px 16px;background:#fff;border:1px solid #e3ded4;border-radius:999px;font-size:14px;font-weight:600;color:#2A2724;text-decoration:none;">{s.name}</a>
+    ))}
+  </div>
+</div></section>
+
+<section style="padding:72px 24px;background:#F5EDDF;">
+  <div style="max-width:860px;margin:0 auto;">
+    <span class="kicker">FAQ</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      {faqs.map((f) => (
+        <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+          <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 10px;">{f.question}</h3>
+          <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">{f.answer}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Oswald',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">Tell Us Where the Place Is. We Will Come Walk It.</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+<ContactSection heading="Free Written Estimates Across Three Counties." kicker="Free Estimate" />
+
+</Layout>

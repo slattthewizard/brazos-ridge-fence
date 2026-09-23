@@ -1,0 +1,173 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContactSection from '../../components/ContactSection.astro';
+import { site, services, serviceAreas } from '../../config/site';
+
+const canonical = `${site.url}/services/`;
+const title = 'Ranch Fencing Services in Waco, TX | Brazos Ridge Fence Co.';
+const description =
+  'Every fence we build around Waco: game fence, pipe, net wire, horse and goat fencing, corrals, entrances, barbed wire, and clearing. Real prices on each page.';
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: 'Services', item: canonical },
+  ],
+};
+
+const itemList = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Ranch Fencing Services',
+  itemListElement: services.map((s, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: s.name,
+    url: `${site.url}/${s.slug}/`,
+  })),
+};
+
+const collectionPage = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': canonical,
+  url: canonical,
+  name: 'Ranch Fencing Services in Waco and Central Texas',
+  description,
+  isPartOf: { '@id': `${site.url}/#website` },
+  about: { '@id': `${site.url}/#organization` },
+};
+---
+
+<Layout title={title} description={description} canonical={canonical}>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(collectionPage)} />
+  <script type="application/ld+json" set:html={JSON.stringify(itemList)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <style is:global>
+    .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+    .rich ul { padding-left: 20px; margin: 0 0 16px; }
+    .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+    .rich strong { color: #2E2A25; }
+    .rich a { color: #C68A2E; font-weight: 600; text-decoration: none; }
+    .rich a:hover { text-decoration: underline; }
+  </style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">Services</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Our Services</span>
+      <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">Ranch Fencing Services in Waco and Central Texas</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">Ten things we build, from an 8-foot high fence around a deer pasture to a water gap that quits washing out. Every page below carries a real per-foot price range, not a "call for pricing" button.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img src="/images/hero-panorama.webp" srcset="/images/hero-panorama-800.webp 800w, /images/hero-panorama.webp 1200w" sizes="100vw" alt="Ranch fencing built by Brazos Ridge Fence Co. near Waco, Texas" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich">
+  <p>Brazos Ridge Fence Co. builds farm and ranch fence across McLennan, Bosque, and Falls counties. Not privacy fence, not chain link, not a backyard in a subdivision. What we do is the fence that has to hold something, survive Central Texas clay and limestone, and still be standing when the place changes hands.</p>
+  <p>The ten services below cover almost every call we get. If you already know what you need, go straight to that page. If you are not sure whether your place calls for <a href="/net-wire-fence-waco/">net wire</a>, <a href="/barbed-wire-fence-waco/">barbed wire</a>, or <a href="/pipe-fence-waco/">pipe</a>, the honest answer depends on what you are keeping in and what your ground is like. Start with the <a href="/ranch-fence-cost/">ranch fence cost guide</a>, then call and we will walk the line with you.</p>
+</div></div></section>
+
+<section style="padding:0 24px 72px;"><div style="max-width:1180px;margin:0 auto;">
+  <span class="kicker">What We Build</span>
+  <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 28px;">Every Service, With Real Numbers</h2>
+  <div class="svc-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:22px;">
+    {services.map((s) => (
+      <a href={`/${s.slug}/`} class="svc-card" style="display:flex;flex-direction:column;background:#fff;border:1px solid #e3ded4;border-radius:12px;overflow:hidden;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.05);transition:transform 0.15s, box-shadow 0.2s;">
+        <img src={`/images/${s.image}.webp`} srcset={`/images/${s.image}-800.webp 800w, /images/${s.image}.webp 1200w`} sizes="(max-width: 1000px) 100vw, 370px" alt={`${s.name} in Waco, TX`} width="380" height="214" style="width:100%;height:180px;object-fit:cover;display:block;" loading="lazy">
+        <div style="padding:22px 24px 26px;display:flex;flex-direction:column;flex:1;">
+          <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 10px;">{s.name}</h3>
+          <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 16px;flex:1;">{s.blurb}</p>
+          <span style="font-family:'Oswald',sans-serif;font-size:13px;font-weight:800;letter-spacing:0.06em;text-transform:uppercase;color:#A6491F;">See prices and details &rarr;</span>
+        </div>
+      </a>
+    ))}
+  </div>
+</div></section>
+<style>
+  .svc-card:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(42,39,36,0.12) !important; }
+  @media (max-width: 1000px) { .svc-grid { grid-template-columns: repeat(2,1fr) !important; } }
+  @media (max-width: 700px) { .svc-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">How to Pick the Right Fence</h2>
+    <div class="rich">
+      <p>Most people call knowing the animal but not the fence. That is the right order, because the animal decides almost everything else.</p>
+      <ul>
+        <li><strong>Cattle on open pasture.</strong> Five-strand <a href="/barbed-wire-fence-waco/">barbed wire</a> is still the cheapest fence that does the job, at $2.50 to $5.50 per foot.</li>
+        <li><strong>Horses.</strong> Barbed wire and horses are a bad combination in a small trap. <a href="/horse-fence-waco/">No-climb mesh or pipe</a> costs more up front and saves vet bills later.</li>
+        <li><strong>Goats and hair sheep.</strong> Anything with a gap they can get a head through will eventually hold a stuck goat. <a href="/goat-sheep-fence-waco/">Four-inch mesh</a> is the answer.</li>
+        <li><strong>Deer and exotics.</strong> Eight feet or it does not count. See <a href="/game-fence-installation-waco/">game and high fence</a>.</li>
+        <li><strong>Frontage and headquarters.</strong> <a href="/pipe-fence-waco/">Pipe</a> and a built <a href="/ranch-entrance-gates-waco/">entrance</a> are what people see of your place from the road.</li>
+        <li><strong>Working cattle by yourself.</strong> A fence does not sort cattle. A <a href="/corrals-working-pens-waco/">corral and working pen</a> does.</li>
+      </ul>
+      <p>Two things on the list are not fence at all. <a href="/fence-line-clearing-waco/">Fence line clearing</a> is the cedar and mesquite work that has to happen before a post goes in, and it is priced separately because it varies far more than the fence does. <a href="/fence-repair-waco/">Fence repair</a> is the around-the-clock call when a tree comes through the line or the cattle are already on the county road.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:0 24px;">
+  <div style="max-width:860px;margin:0 auto 56px;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">What Every Job Includes</h2>
+    <div class="rich">
+      <p>The same four things, whether you are fencing five acres or five hundred:</p>
+      <ul>
+        <li><strong>A walked line.</strong> We measure your actual fence line, not a satellite photo. Corners, creek crossings, and rock all move the number.</li>
+        <li><strong>A written per-foot price.</strong> Clearing, gates, and braces are broken out as their own line items, so you can see what you are paying for and phase the job if you want to.</li>
+        <li><strong>Corners set to carry the load.</strong> H-braces and pipe corners in concrete. A mile of stretched wire pulls thousands of pounds, and weak corners are why cheap fences lean inside three years.</li>
+        <li><strong>One crew accountable for the whole perimeter.</strong> When the high fence, the pipe frontage, and the entrance are all ours, the heights match and the braces tie together.</li>
+      </ul>
+      <p>We run a 24/7 line for storm damage and cattle-out calls, and the estimate is free whether you hire us or not.</p>
+    </div>
+  </div>
+</section>
+
+<section style="padding:56px 24px 72px;background:#F5EDDF;">
+  <div style="max-width:1100px;margin:0 auto;">
+    <span class="kicker">Where We Work</span>
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 12px;">All Ten Services, Across Three Counties</h2>
+    <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 24px;max-width:720px;">We build within about an hour of Waco, covering McLennan, Bosque, and Falls counties. Every town below has its own page with local ground conditions and pricing.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:26px;">
+      {serviceAreas.map((a) => (
+        <a href={`/${a.slug}/`} style="display:inline-block;padding:9px 16px;background:#fff;border:1px solid #e3ded4;border-radius:999px;font-size:14px;font-weight:600;color:#2A2724;text-decoration:none;">{a.name}</a>
+      ))}
+    </div>
+    <a href="/service-areas/" class="btn-blue">See All Service Areas</a>
+  </div>
+</section>
+
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Oswald',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">Tell Us What You Are Keeping In. We Will Price the Fence.</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+<ContactSection heading="One Call Covers Every Fence on the Place." kicker="Free Estimate" />
+
+</Layout>

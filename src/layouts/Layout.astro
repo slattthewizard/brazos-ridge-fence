@@ -17,7 +17,7 @@ const {
   ogImage = 'https://brazosridgefence.com/images/og-image.webp',
 } = Astro.props;
 
-import { site, organizationSchema } from '../config/site';
+import { site, services, serviceAreas, organizationSchema } from '../config/site';
 
 const orgSchema = organizationSchema();
 const websiteSchema = {
@@ -35,7 +35,9 @@ const websiteSchema = {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="48x48">
+  <link rel="icon" href="/favicon.png" type="image/png" sizes="64x64">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <title>{title}</title>
   <meta name="google-site-verification" content="B4MmjGuP82HwlP3KrmiSwHyHUJz9d1Mq2aY8wSFU-J0" />
   <meta name="description" content={description} />
@@ -246,10 +248,7 @@ const websiteSchema = {
   <div style="max-width:1220px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:76px;">
     <!-- Logo -->
     <a href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;" aria-label="Brazos Ridge Fence Co. home">
-      <svg width="40" height="40" viewBox="0 0 36 36" fill="none" aria-hidden="true">
-        <circle cx="18" cy="18" r="17" fill="#C68A2E"/>
-        <text x="18" y="24" text-anchor="middle" font-family="Oswald, sans-serif" font-size="17" font-weight="800" fill="#fff">B</text>
-      </svg>
+      <img src="/images/logo-mark-96.png" alt="" width="40" height="40" style="border-radius:50%;" aria-hidden="true" />
       <span style="display:flex;flex-direction:column;line-height:1.05;">
         <span style="font-family:'Oswald',sans-serif;font-weight:800;font-size:20px;color:#2A2724;letter-spacing:-0.01em;">Brazos Ridge Fence Co.</span>
         <span style="font-size:10px;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:#A6491F;">Farm &amp; Ranch Fencing</span>
@@ -263,12 +262,9 @@ const websiteSchema = {
           Services
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
         </button>
-        <div class="svc-dropdown" style="position:absolute;top:calc(100% + 6px);left:0;min-width:260px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(42,39,36,0.16);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;overflow:hidden;">
-          <a href="/game-fence-installation-waco/" class="dropdown-link">Game & High Fence Installation</a>
-          <a href="/pipe-fence-waco/" class="dropdown-link">Cattle & Pipe Fencing</a>
-          <a href="/ranch-entrance-gates-waco/" class="dropdown-link">Ranch Entrances & Custom Gates</a>
-          <a href="/barbed-wire-fence-waco/" class="dropdown-link">Barbed Wire & Field Fencing</a>
-          <a href="/fence-repair-waco/" class="dropdown-link">Fence Repair &amp; Emergency Service</a>
+        <div class="svc-dropdown" style="position:absolute;top:calc(100% + 6px);left:0;min-width:280px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(42,39,36,0.16);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;overflow:hidden;">
+          {services.map((s) => <a href={`/${s.slug}/`} class="dropdown-link">{s.name}</a>)}
+          <a href="/services/" class="dropdown-link" style="border-top:1px solid #e3ded4;font-weight:700;color:#A6491F;">All Services</a>
         </div>
       </div>
       <div style="position:relative;">
@@ -277,18 +273,8 @@ const websiteSchema = {
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
         </button>
         <div class="areas-dropdown" style="position:absolute;top:calc(100% + 6px);left:0;min-width:230px;background:#fff;border-radius:14px;box-shadow:0 8px 30px rgba(42,39,36,0.16);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;overflow:hidden;">
-          <a href="/fence-builder-china-spring/" class="dropdown-link">China Spring</a>
-          <a href="/fence-builder-crawford/" class="dropdown-link">Crawford</a>
-          <a href="/fence-builder-mcgregor/" class="dropdown-link">McGregor</a>
-          <a href="/fence-builder-valley-mills/" class="dropdown-link">Valley Mills</a>
-          <a href="/fence-builder-lorena/" class="dropdown-link">Lorena</a>
-          <a href="/fence-builder-west/" class="dropdown-link">West</a>
-          <a href="/fence-builder-hewitt/" class="dropdown-link">Hewitt</a>
-          <a href="/fence-builder-woodway/" class="dropdown-link">Woodway</a>
-          <a href="/fence-builder-robinson/" class="dropdown-link">Robinson</a>
-          <a href="/fence-builder-clifton/" class="dropdown-link">Clifton</a>
-          <a href="/fence-builder-meridian/" class="dropdown-link">Meridian</a>
-          <a href="/fence-builder-marlin/" class="dropdown-link">Marlin</a>
+          {serviceAreas.map((a) => <a href={`/${a.slug}/`} class="dropdown-link">{a.name}</a>)}
+          <a href="/service-areas/" class="dropdown-link" style="border-top:1px solid #e3ded4;font-weight:700;color:#A6491F;">All Service Areas</a>
         </div>
       </div>
       <a href="/ranch-fence-cost/" class="nav-link">Cost Guide</a>
@@ -310,10 +296,11 @@ const websiteSchema = {
   <!-- Mobile Nav -->
   <div id="mobile-menu" style="border-top:1px solid #E2EBF1;background:#fff;">
     <nav style="display:flex;flex-direction:column;padding:16px 24px;gap:14px;">
-      <a href="/game-fence-installation-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Game & High Fence Installation</a>
-      <a href="/pipe-fence-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cattle & Pipe Fencing</a>
-      <a href="/ranch-entrance-gates-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Ranch Entrances & Custom Gates</a>
-      <a href="/fence-repair-waco/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Fence Repair &amp; Emergency</a>
+      <a href="/services/" class="nav-link" style="font-weight:800;color:#A6491F;" onclick="document.getElementById('mobile-menu').classList.remove('open')">All Services</a>
+      {services.map((s) => (
+        <a href={`/${s.slug}/`} class="nav-link" style="padding-left:12px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">{s.name}</a>
+      ))}
+      <a href="/service-areas/" class="nav-link" style="font-weight:800;color:#A6491F;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Service Areas</a>
       <a href="/ranch-fence-cost/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cost Guide</a>
       <a href="/about/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">About</a>
       <a href="/blog/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Blog</a>
@@ -345,37 +332,22 @@ const websiteSchema = {
     <div class="footer-grid" style="display:grid;grid-template-columns:2fr 1fr 1fr 1.5fr;gap:48px;padding-bottom:44px;border-bottom:1px solid rgba(255,255,255,0.12);">
       <!-- Brand -->
       <div>
-        <p style="font-family:'Oswald',sans-serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 12px;">Brazos Ridge Fence Co.</p>
+        <p style="display:flex;align-items:center;gap:10px;font-family:'Oswald',sans-serif;font-size:20px;font-weight:800;color:#fff;margin:0 0 12px;"><img src="/images/logo-mark-96.png" alt="" width="32" height="32" style="border-radius:50%;" aria-hidden="true" />Brazos Ridge Fence Co.</p>
         <p style="font-size:14px;line-height:1.8;max-width:300px;margin-bottom:20px;">Farm and ranch fencing for Waco and Central Texas. Game fence, pipe fence, barbed wire, and custom ranch entrances built to last.</p>
       </div>
       <!-- Services -->
       <div>
-        <p style="font-family:'Oswald',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;">Services</p>
+        <p style="font-family:'Oswald',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;"><a href="/services/" class="footer-link" style="color:#fff;font-size:15px;">Services</a></p>
         <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
-          <li><a href="/game-fence-installation-waco/" class="footer-link">Game & High Fence Installation</a></li>
-          <li><a href="/pipe-fence-waco/" class="footer-link">Cattle & Pipe Fencing</a></li>
-          <li><a href="/ranch-entrance-gates-waco/" class="footer-link">Ranch Entrances & Custom Gates</a></li>
-          <li><a href="/barbed-wire-fence-waco/" class="footer-link">Barbed Wire & Field Fencing</a></li>
-          <li><a href="/fence-repair-waco/" class="footer-link">Fence Repair & Emergency Service</a></li>
+          {services.map((s) => <li><a href={`/${s.slug}/`} class="footer-link">{s.name}</a></li>)}
           <li><a href="/ranch-fence-cost/" class="footer-link">Ranch Fence Cost Guide</a></li>
         </ul>
       </div>
       <!-- Service Areas -->
       <div>
-        <p style="font-family:'Oswald',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;">Service Areas</p>
+        <p style="font-family:'Oswald',sans-serif;font-size:15px;font-weight:800;color:#fff;margin-bottom:16px;letter-spacing:0.04em;text-transform:uppercase;"><a href="/service-areas/" class="footer-link" style="color:#fff;font-size:15px;">Service Areas</a></p>
         <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
-          <li><a href="/fence-builder-china-spring/" class="footer-link">China Spring</a></li>
-          <li><a href="/fence-builder-crawford/" class="footer-link">Crawford</a></li>
-          <li><a href="/fence-builder-mcgregor/" class="footer-link">McGregor</a></li>
-          <li><a href="/fence-builder-valley-mills/" class="footer-link">Valley Mills</a></li>
-          <li><a href="/fence-builder-lorena/" class="footer-link">Lorena</a></li>
-          <li><a href="/fence-builder-west/" class="footer-link">West</a></li>
-          <li><a href="/fence-builder-hewitt/" class="footer-link">Hewitt</a></li>
-          <li><a href="/fence-builder-woodway/" class="footer-link">Woodway</a></li>
-          <li><a href="/fence-builder-robinson/" class="footer-link">Robinson</a></li>
-          <li><a href="/fence-builder-clifton/" class="footer-link">Clifton</a></li>
-          <li><a href="/fence-builder-meridian/" class="footer-link">Meridian</a></li>
-          <li><a href="/fence-builder-marlin/" class="footer-link">Marlin</a></li>
+          {serviceAreas.map((a) => <li><a href={`/${a.slug}/`} class="footer-link">{a.name}</a></li>)}
         </ul>
       </div>
       <!-- Contact -->

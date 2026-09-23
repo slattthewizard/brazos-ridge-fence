@@ -1,0 +1,182 @@
+---
+/**
+ * Renders one service page from a ServiceContent entry in data/services-content.ts.
+ *
+ * Deliberately mirrors the markup of the five hand-authored service pages
+ * (/game-fence-installation-waco/ and friends) so the two generations look
+ * identical on the page. The difference is that these read the phone number
+ * and business identity from config/site.ts instead of carrying it as literal
+ * text, so a NAP change never has to touch them.
+ */
+import Layout from '../layouts/Layout.astro';
+import ContactSection from './ContactSection.astro';
+import { site } from '../config/site';
+import type { ServiceContent } from '../data/services-content';
+
+export interface Props {
+  service: ServiceContent;
+}
+
+const { service: s } = Astro.props;
+const canonical = `${site.url}/${s.slug}/`;
+
+const serviceSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Service',
+  name: s.h1,
+  serviceType: s.serviceType,
+  description: s.metaDescription,
+  url: canonical,
+  provider: { '@id': `${site.url}/#organization` },
+  areaServed: [
+    { '@type': 'City', name: 'Waco', addressRegion: 'TX' },
+    { '@type': 'AdministrativeArea', name: 'McLennan County, TX' },
+    { '@type': 'AdministrativeArea', name: 'Bosque County, TX' },
+    { '@type': 'AdministrativeArea', name: 'Falls County, TX' },
+  ],
+};
+
+const breadcrumb = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${site.url}/` },
+    { '@type': 'ListItem', position: 2, name: 'Services', item: `${site.url}/services/` },
+    { '@type': 'ListItem', position: 3, name: s.h1, item: canonical },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: s.faqs.map((f) => ({
+    '@type': 'Question',
+    // FAQ answers may carry inline links; schema.org answers are plain text.
+    name: f.question,
+    acceptedAnswer: { '@type': 'Answer', text: f.answer.replace(/<[^>]+>/g, '') },
+  })),
+};
+---
+
+<Layout title={s.metaTitle} description={s.metaDescription} canonical={canonical}>
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify(serviceSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  <style is:global>
+    .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+    .rich ul { padding-left: 20px; margin: 0 0 16px; }
+    .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
+    .rich strong { color: #2E2A25; }
+    .rich a { color: #C68A2E; font-weight: 600; text-decoration: none; }
+    .rich a:hover { text-decoration: underline; }
+  </style>
+</Fragment>
+
+<nav aria-label="Breadcrumb" style="max-width:1180px;margin:0 auto;padding:16px 24px;">
+  <ol style="list-style:none;padding:0;margin:0;display:flex;gap:8px;flex-wrap:wrap;font-size:13px;color:#888;">
+    <li><a href="/" style="color:#C68A2E;text-decoration:none;">Home</a></li>
+    <li>/</li>
+    <li><a href="/services/" style="color:#C68A2E;text-decoration:none;">Services</a></li>
+    <li>/</li>
+    <li style="color:#2E2A25;">{s.h1}</li>
+  </ol>
+</nav>
+
+<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
+  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+    <div>
+      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Our Services</span>
+      <h1 style="font-family:'Oswald',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">{s.h1}</h1>
+      <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.85);max-width:540px;margin:0 0 28px;">{s.heroSubtitle}</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+        <a href="#contact" class="btn-outline-white">Get a Free Estimate</a>
+      </div>
+    </div>
+    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
+      <img
+        src={`/images/${s.image}.webp`}
+        srcset={`/images/${s.image}-800.webp 800w, /images/${s.image}.webp 1200w`}
+        sizes="100vw"
+        alt={s.h1}
+        width="800" height="533"
+        style="width:100%;height:100%;object-fit:cover;display:block;"
+        loading="eager" fetchpriority="high">
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+</style>
+
+<section style="padding:72px 24px 40px;"><div style="max-width:860px;margin:0 auto;"><div class="rich">
+  {s.intro.map((p) => <p set:html={p} />)}
+</div></div></section>
+
+<section style="padding:0 24px 64px;"><div style="max-width:1100px;margin:0 auto;">
+  <span class="kicker">What We Handle</span>
+  <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 28px;">What's Included in Every Job</h2>
+  <div class="feat-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;">
+    {s.cards.map((c) => (
+      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
+        <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 8px;">{c.heading}</h3>
+        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;" set:html={c.body} />
+      </div>
+    ))}
+  </div>
+</div></section>
+<style>
+  @media (max-width: 1000px) { .feat-grid { grid-template-columns: repeat(2,1fr) !important; } }
+  @media (max-width: 700px) { .feat-grid { grid-template-columns: 1fr !important; } }
+</style>
+
+{s.sections.map((sec) => (
+  <section style="padding:0 24px;">
+    <div style="max-width:860px;margin:0 auto 56px;">
+      <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">{sec.heading}</h2>
+      <div class="rich">{sec.body.map((p) => <p set:html={p} />)}</div>
+    </div>
+  </section>
+))}
+
+<section style="padding:72px 24px;background:#F5EDDF;">
+  <div style="max-width:860px;margin:0 auto;">
+    <span class="kicker">FAQ</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
+    <div style="display:flex;flex-direction:column;gap:16px;">
+      {s.faqs.map((f) => (
+        <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
+          <h3 style="font-family:'Oswald',sans-serif;font-size:18px;font-weight:800;color:#2A2724;margin:0 0 10px;">{f.question}</h3>
+          <p style="font-size:15px;line-height:1.75;color:#555;margin:0;" set:html={f.answer} />
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
+
+<section style="padding:64px 24px;background:#fff;">
+  <div style="max-width:860px;margin:0 auto;">
+    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">Guides From Our Fence Crew</h2>
+    <p style="font-size:16px;line-height:1.8;color:#555;margin:0 0 20px;">Real prices and honest how-to advice from the same crew that will build your fence:</p>
+    <ul style="list-style:none;padding:0;margin:0 0 28px;">
+      {s.guides.map((g) => (
+        <li style="margin-bottom:12px;"><a href={g.href} style="color:#A6491F;font-weight:600;text-decoration:none;font-size:16px;">{g.label}</a></li>
+      ))}
+    </ul>
+    <p style="font-size:16px;line-height:1.8;color:#555;margin:0;">See the rest of what we build on the <a href="/services/" style="color:#C68A2E;font-weight:600;text-decoration:none;">services page</a>, or find your town on the <a href="/service-areas/" style="color:#C68A2E;font-weight:600;text-decoration:none;">service areas page</a>.</p>
+  </div>
+</section>
+
+<section style="background:linear-gradient(135deg, #0E4D6E 0%, #16648C 50%, #0E4D6E 100%);padding:64px 24px;text-align:center;">
+  <h2 style="font-family:'Oswald',sans-serif;font-size:clamp(26px,4vw,40px);font-weight:800;color:#fff;margin-bottom:16px;">{s.ctaHeading}</h2>
+  <p style="font-size:16px;color:rgba(255,255,255,0.8);margin-bottom:28px;max-width:520px;margin-left:auto;margin-right:auto;">Free written estimates. Emergency calls answered around the clock.</p>
+  <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+    <a href={site.phoneHref} class="btn-cream">Call Now — {site.phoneDisplay}</a>
+    <a href="#contact" class="btn-outline-white">Get Free Estimate</a>
+  </div>
+</section>
+
+<ContactSection heading={s.contactHeading} kicker="Free Estimate" />
+
+</Layout>

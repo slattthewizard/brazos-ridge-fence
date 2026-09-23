@@ -4,3 +4,7 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://brazosridgefence.com/sitemap-index.xml
+
+# AI assistant content index
+# llms.txt: https://brazosridgefence.com/llms.txt
+# llms-full.txt: https://brazosridgefence.com/llms-full.txt
