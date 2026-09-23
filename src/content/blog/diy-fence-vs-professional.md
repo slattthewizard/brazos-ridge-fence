@@ -2,7 +2,7 @@
 title: "DIY Fence vs Professional: An Honest Ranch Fencing Breakdown"
 navTitle: "DIY Fence vs Professional: An"
 metaTitle: "DIY Fence vs Professional: Honest Ranch Fencing Costs"
-metaDescription: "DIY fence vs professional for Texas ranch fencing: real per-foot costs, tool math, and when to call a Waco pro. Free written estimates: (509) 351-8404."
+metaDescription: "DIY fence vs professional for Texas ranch fencing: real per-foot costs, tool math, and when to call a Waco pro. Free written estimates: (254) 870-8898."
 primaryKeyword: "diy fence vs professional"
 secondaryKeywords: "diy ranch fencing, build your own barbed wire fence, professional fence installation cost, hire a fence contractor, diy fence installation"
 publishedDate: "2026-08-04"
@@ -25,7 +25,7 @@ We install fence for a living, so you'd expect us to tell you to hire a pro ever
 
 But we've also rebuilt enough failed DIY fence between China Spring and Lorena to know where the wheels come off. This article lays out the real numbers for both routes so you can decide with your eyes open.
 
-Want a number to compare against before you commit either way? Call (509) 351-8404 or [request a free written estimate](#contact). It costs nothing, and it gives your DIY budget an honest benchmark.
+Want a number to compare against before you commit either way? Call (254) 870-8898 or [request a free written estimate](#contact). It costs nothing, and it gives your DIY budget an honest benchmark.
 
 ## The real math on a DIY barbed wire fence
 
@@ -109,7 +109,7 @@ What's your realistic schedule? If the fence needs to be up before you turn catt
 
 If you land on hiring it out, get your quote in writing and make sure it specifies wire class, post type and spacing, and brace construction. If you land on DIY, spend your money on good corners and good wire, and start with our [cost to fence 10 acres](/blog/cost-to-fence-10-acres/) breakdown so your budget survives contact with reality.
 
-Either way, we're glad to look at your project. Call [(509) 351-8404](tel:+15093518404) or [send us the details online](#contact) and we'll get you a free written estimate. If it's a job you should do yourself, we'll tell you that too. We'd rather earn the pipe fence job next year than talk you out of a garden fence you can handle this weekend.
+Either way, we're glad to look at your project. Call [(254) 870-8898](tel:+12548708898) or [send us the details online](#contact) and we'll get you a free written estimate. If it's a job you should do yourself, we'll tell you that too. We'd rather earn the pipe fence job next year than talk you out of a garden fence you can handle this weekend.
 
 ## Frequently Asked Questions
 

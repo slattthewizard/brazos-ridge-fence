@@ -25,7 +25,7 @@ Picking the safest fence for horses is really a question about injury risk. Ever
 
 We build ranch fence around Waco, in McLennan, Bosque and Falls counties, and we build plenty of barbed wire for cattle people. We do not put horses behind it. What follows is how the common fence types rank on risk, what each costs per foot installed, and where the money is worth spending on a horse place.
 
-If you already have horses standing behind old wire and it worries you, do not wait on an article. Call [(509) 351-8404](tel:+15093518404) and we will come walk the line with you. On-site estimates are free.
+If you already have horses standing behind old wire and it worries you, do not wait on an article. Call [(254) 870-8898](tel:+12548708898) and we will come walk the line with you. On-site estimates are free.
 
 ## The Four Ways a Fence Injures a Horse
 
@@ -101,7 +101,7 @@ Ground conditions drive both cost and safety here. A limestone hill section near
 
 Our clay does its own damage. It shrinks in drought, opens cracks around posts, then swells when the rain comes back, and a fence that was tight in May can be loose in September. On horse fence that matters more than on cattle fence, because a sagging top rail or a slack mesh is exactly what a leg goes over or through.
 
-Walk your fence line twice a year with a pair of fencing pliers and look for three things: slack in the mesh, wire ends that have worked loose, and posts that have started to lean. Anything you can move with one hand, a horse can move with its chest. Full price bands for every fence type we build are on the [ranch fence cost](/ranch-fence-cost/) page, and if you want a number for your own place, call [(509) 351-8404](tel:+15093518404) and we will come look at it.
+Walk your fence line twice a year with a pair of fencing pliers and look for three things: slack in the mesh, wire ends that have worked loose, and posts that have started to lean. Anything you can move with one hand, a horse can move with its chest. Full price bands for every fence type we build are on the [ranch fence cost](/ranch-fence-cost/) page, and if you want a number for your own place, call [(254) 870-8898](tel:+12548708898) and we will come look at it.
 
 ## Frequently Asked Questions
 

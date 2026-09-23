@@ -11,7 +11,7 @@ A three-rail fence looks finished the day the last board goes up. What it looks 
 
 We get asked about wood and vinyl rail fence most weeks, usually by somebody who just bought 10 or 20 acres and wants the front pasture to look like the places along the FM road. That is a fair thing to want. It is also the fence type where the gap between the bid and the twenty-year cost is widest, so it is worth understanding before you sign anything.
 
-This article compares the two honestly, including where each one fails in blackland clay and limestone, and what we actually build for horse people in McLennan, Bosque, and Falls counties. If you would rather skip to real numbers on your own place, call [(509) 351-8404](tel:+15093518404) and we will walk the line with you. On-site estimates are free.
+This article compares the two honestly, including where each one fails in blackland clay and limestone, and what we actually build for horse people in McLennan, Bosque, and Falls counties. If you would rather skip to real numbers on your own place, call [(254) 870-8898](tel:+12548708898) and we will walk the line with you. On-site estimates are free.
 
 ## The Real Numbers Behind a Three-Rail Horse Fence
 
@@ -45,7 +45,7 @@ The safety picture is genuinely mixed. Most vinyl rail systems are designed so t
 
 Vinyl also does not fix your post problem. Most vinyl posts are hollow, and the fence still depends on how deep and how well those posts are set. In blackland clay, that is the whole ballgame.
 
-Ready for a number on your own place? Call [(509) 351-8404](tel:+15093518404) or [get in touch here](/#contact) and we will come look at the ground before we quote anything.
+Ready for a number on your own place? Call [(254) 870-8898](tel:+12548708898) or [get in touch here](/#contact) and we will come look at the ground before we quote anything.
 
 ## Wood vs Vinyl 3 Rail Horse Fence Side by Side
 
@@ -82,7 +82,7 @@ Rail alone still has its place. Around a house, along a drive, on a dry lot wher
 
 What we will not do is tell you the material choice matters more than the ground it sits in. It does not. Two identical fences, one on flat clay pasture and one on a limestone slope, will not cost the same and will not age the same.
 
-If you are weighing wood against vinyl on your own place, the useful next step is not another article. Call [(509) 351-8404](tel:+15093518404) and we will walk the line with you, look at the soil, count the corners and gates, and put a number in writing. No charge for the visit.
+If you are weighing wood against vinyl on your own place, the useful next step is not another article. Call [(254) 870-8898](tel:+12548708898) and we will walk the line with you, look at the soil, count the corners and gates, and put a number in writing. No charge for the visit.
 
 ## Frequently Asked Questions
 

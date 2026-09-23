@@ -23,7 +23,7 @@ A horse can put a front hoof through a loose field fence at midnight and turn a 
 
 The question is not whether it works. It works. The question is whether it is worth the extra dollars per foot on your place, or whether your horses would be just as safe behind something cheaper.
 
-This article gives you the real per-foot range in McLennan, Bosque and Falls counties, three jobs we have priced and what moved the numbers, and an honest read on where no-climb is overkill. If you would rather skip to a number for your own fence line, call [(509) 351-8404](tel:+15093518404) and we will come walk it with you. On-site estimates are free.
+This article gives you the real per-foot range in McLennan, Bosque and Falls counties, three jobs we have priced and what moved the numbers, and an honest read on where no-climb is overkill. If you would rather skip to a number for your own fence line, call [(254) 870-8898](tel:+12548708898) and we will come walk it with you. On-site estimates are free.
 
 ## What No Climb Horse Fence Costs Per Foot Around Waco
 
@@ -66,7 +66,7 @@ The per-foot range only tells you so much. Here is how it actually lands on real
 
 **A 40-acre place west of Crawford with a split approach.** Pipe on the two working pens and the 300 feet of road frontage where the horses crowd the gate, no-climb on the rest of the perimeter. At $12 to $28 per foot, the pipe sections alone can run from about $5,000 to $12,000 depending on pipe size and rail count, so putting pipe everywhere was never on the table. Concentrating it where the horses push and where traffic goes past is how most people around here get the safety they want without doubling the budget. Our [pipe fence](/pipe-fence-waco/) page covers that comparison in more depth.
 
-If you want a number for your own place rather than somebody else's, call [(509) 351-8404](tel:+15093518404). We will walk the line with you and price what is actually there.
+If you want a number for your own place rather than somebody else's, call [(254) 870-8898](tel:+12548708898). We will walk the line with you and price what is actually there.
 
 ## When a No-Climb Horse Fence Is Worth the Money
 
@@ -108,7 +108,7 @@ Two horse places a mile apart can get bids that differ by 30 percent on the same
 
 **Water crossings.** Any creek or draw needs a water gap built so it fails safely in a flood instead of taking out 200 feet of good fence with it.
 
-None of that gets settled over the phone. Call [(509) 351-8404](tel:+15093518404) or [ask for a free on-site estimate](/#contact), and we will walk your fence line, look at what is in the ground, and give you a number you can build a budget around. We cover McLennan, Bosque and Falls counties.
+None of that gets settled over the phone. Call [(254) 870-8898](tel:+12548708898) or [ask for a free on-site estimate](/#contact), and we will walk your fence line, look at what is in the ground, and give you a number you can build a budget around. We cover McLennan, Bosque and Falls counties.
 
 ## Frequently Asked Questions
 

@@ -25,7 +25,7 @@ Neither one shows up the week the fence goes in. They show up the first dry July
 
 Material matters, and we will get to cost per foot. But layout is the part you live with for twenty years, and the part almost nobody puts on paper first.
 
-Walk your place with a builder before you buy a single roll of wire. We will come out, walk the line with you, and give you a free on-site estimate. Call now at [(509) 351-8404](tel:+15093518404).
+Walk your place with a builder before you buy a single roll of wire. We will come out, walk the line with you, and give you a free on-site estimate. Call now at [(254) 870-8898](tel:+12548708898).
 
 ## How Many Acres Per Horse Actually Works Around Waco
 
@@ -128,7 +128,7 @@ Third, the perimeter along a road. A horse loose on a farm-to-market road at nig
 
 Last, the back paddock line where horses drift rather than run. That line can be lighter, and honestly it can wait a year if the budget says so. We would rather build half your place right than all of it thin. Details on what we install are on our [horse fence page](/horse-fence-waco/) and in our guide to [no-climb horse fence](/blog/no-climb-horse-fence/).
 
-When you are ready to put it on the ground, call now at [(509) 351-8404](tel:+15093518404). We will walk the fence line with you, talk through the paddock layout, and give you a free on-site estimate before any number gets quoted.
+When you are ready to put it on the ground, call now at [(254) 870-8898](tel:+12548708898). We will walk the fence line with you, talk through the paddock layout, and give you a free on-site estimate before any number gets quoted.
 
 ## Frequently Asked Questions
 

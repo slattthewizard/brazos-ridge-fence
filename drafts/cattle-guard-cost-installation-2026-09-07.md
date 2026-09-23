@@ -26,7 +26,7 @@ Here is what moves a bid up or down on a cattle guard:
 - **Foundation type.** Poured footings on site versus a precast concrete box changes the equipment, the cure time, and the schedule.
 - **Wings and fence tie-in.** Every guard needs deflector wings and a braced connection to the fence, or stock simply walks around the end of it.
 
-If you want a real figure for your own entrance instead of a range, call **[(509) 351-8404](tel:+15093518404)** and we will come walk it with you. On-site estimates are free, and we would rather look at the ground than guess.
+If you want a real figure for your own entrance instead of a range, call **[(254) 870-8898](tel:+12548708898)** and we will come walk it with you. On-site estimates are free, and we would rather look at the ground than guess.
 
 | Width across the road | Where it usually goes | Span driven over | Rating we would set | Where it lands in the $3,500 to $8,000 installed range |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ The install is a dirt-and-concrete job with a steel delivery in the middle, usua
 
 As a general materials-only estimate, a bare 8-by-12-foot H-20 steel guard runs somewhere around $1,600 to $2,800 and weighs enough that you are not setting it with a tractor loader. That is not our quote. It moves with steel pricing and freight, and it does not include a shovel of the work above.
 
-Ready for a number on your own entrance? Call **[(509) 351-8404](tel:+15093518404)** or [ask for a free on-site estimate](/#contact) and we will walk the drive, check the drainage, and put it in writing.
+Ready for a number on your own entrance? Call **[(254) 870-8898](tel:+12548708898)** or [ask for a free on-site estimate](/#contact) and we will walk the drive, check the drainage, and put it in writing.
 
 ## What a Cattle Guard Will Not Hold
 

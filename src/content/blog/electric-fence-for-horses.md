@@ -35,7 +35,7 @@ Here is the split we recommend on almost every horse place we walk. Physical fen
 
 For the perimeter itself, no-climb woven mesh with a visible top rail is the common answer here, and horse-grade 2x4 mesh sits at the upper end of our net wire and field fence band of $3.50 to $8 per foot. Welded pipe runs $12 to $28 per foot and is what most folks put around pens and road frontage. Our [horse fence page](/horse-fence-waco/) covers both, and the [no-climb horse fence](/blog/no-climb-horse-fence/) writeup gets into mesh specs.
 
-If you are trying to decide how much of a place needs physical fence and how much can be hot wire, that is a fence line conversation, not a phone conversation. Call [(509) 351-8404](tel:+15093518404) and we will walk it with you. On-site estimates are free.
+If you are trying to decide how much of a place needs physical fence and how much can be hot wire, that is a fence line conversation, not a phone conversation. Call [(254) 870-8898](tel:+12548708898) and we will walk it with you. On-site estimates are free.
 
 ## Wire, Tape, Rope or Braid: Picking the Conductor
 
@@ -109,7 +109,7 @@ The way we think about it is simple. Spend the money on the perimeter, particula
 
 If the current fence is old barbed wire and horses are already behind it, hot wire is a stopgap and not a fix. Compare the options in [best fence for horses](/blog/best-fence-for-horses/) and [electric fence vs barbed wire](/blog/electric-fence-vs-barbed-wire/), then decide which sections need real wire and which can wait.
 
-Call [(509) 351-8404](tel:+15093518404) or [ask for an on-site estimate](/#contact), and we will walk the line with you, look at the soil and the road frontage, and put numbers on paper before anything gets built. We build across McLennan, Bosque and Falls counties, and repairs are on our [fence repair page](/fence-repair-waco/).
+Call [(254) 870-8898](tel:+12548708898) or [ask for an on-site estimate](/#contact), and we will walk the line with you, look at the soil and the road frontage, and put numbers on paper before anything gets built. We build across McLennan, Bosque and Falls counties, and repairs are on our [fence repair page](/fence-repair-waco/).
 
 ## Frequently Asked Questions
 

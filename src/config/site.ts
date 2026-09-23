@@ -23,9 +23,9 @@ export const site = {
   //     node scripts/set-phone.mjs "(254) 555-0142"
   //
   // which rewrites this file and all ~190 literal mentions together.
-  phoneDisplay: '(509) 351-8404',
-  phoneHref: 'tel:+15093518404',
-  phoneE164: '+1-509-351-8404',
+  phoneDisplay: '(254) 870-8898',
+  phoneHref: 'tel:+12548708898',
+  phoneE164: '+1-254-870-8898',
 
   email: 'info@brazosridgefence.com',
 

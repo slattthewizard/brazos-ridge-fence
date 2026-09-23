@@ -25,7 +25,7 @@ Extension programs have been saying this in print for decades. Penn State Extens
 
 So when we talk about the cheapest option, we mean the cheapest fence that clears those three tests. Go under that line and the money shows up later, usually at the vet.
 
-If you already have horses standing behind old wire and you are trying to work out what it takes to fix it, call [(509) 351-8404](tel:+15093518404). Walking the line is free and takes about an hour, and you'll get a number before anybody talks you into a fence you don't need.
+If you already have horses standing behind old wire and you are trying to work out what it takes to fix it, call [(254) 870-8898](tel:+12548708898). Walking the line is free and takes about an hour, and you'll get a number before anybody talks you into a fence you don't need.
 
 ## The Cheapest Horse Fencing Options, Priced Per Foot
 
@@ -73,7 +73,7 @@ Numbers land better than adjectives, so here are three situations we price regul
 
 **A 5-acre place with 300 feet of road frontage near West.** Welded pipe across the front at $12 to $28 per foot depending on whether it's new pipe or used drill stem, then no-climb mesh on the three sides nobody sees from the road. Splitting the job that way costs a fraction of piping the whole perimeter and puts the strongest fence where a loose horse would do the most damage. If pipe is on your list, the [pipe fence page](/pipe-fence-waco/) has the sizing and the per-foot detail.
 
-Want your own line priced instead of somebody else's? Call [(509) 351-8404](tel:+15093518404) or [ask for an on-site estimate](/#contact) and we will walk it with you before any number gets quoted.
+Want your own line priced instead of somebody else's? Call [(254) 870-8898](tel:+12548708898) or [ask for an on-site estimate](/#contact) and we will walk it with you before any number gets quoted.
 
 ## Where to Spend First When the Budget Is Tight
 

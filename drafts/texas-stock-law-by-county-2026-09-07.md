@@ -21,7 +21,7 @@ Then the Legislature gave local voters a way out of that. Under Chapter 143 of t
 
 Most of the settled counties in Central Texas closed the range on cattle generations ago. That does not mean yours did, and it does not mean it covers every animal. You can read the statute yourself on the [Texas Legislature's site](https://statutes.capitol.texas.gov/Docs/AG/htm/AG.143.htm), which is a short read and worth twenty minutes if you run stock.
 
-If your perimeter would not stop a determined cow today, the legal question is secondary. Call [(509) 351-8404](tel:+15093518404) and we will walk the line with you and put a free written estimate in your hand.
+If your perimeter would not stop a determined cow today, the legal question is secondary. Call [(254) 870-8898](tel:+12548708898) and we will walk the line with you and put a free written estimate in your hand.
 
 ## Texas Stock Laws by County Are Not Something You Can Download
 
@@ -87,7 +87,7 @@ A 12-acre horse place outside Lorena runs about 2,900 feet of perimeter. The own
 
 Then there is the limestone north of Valley Mills. On a hill section where every post has to be drilled instead of augered, the same five-strand barbed wire that prices near the bottom of the band on blackland pasture moves toward the top of it, five dollars a foot and up. On one 1,400-foot ridge line that difference was several thousand dollars, and no legal answer about the stock law made the rock any softer. Our [barbed wire fence page](/barbed-wire-fence-waco/) covers spacing and bracing for that kind of ground.
 
-Want a real number for your place instead of a range? Call [(509) 351-8404](tel:+15093518404) or reach us through the [contact form](/#contact) and we will come walk it. The estimate is free and we do not quote before we have seen the line.
+Want a real number for your place instead of a range? Call [(254) 870-8898](tel:+12548708898) or reach us through the [contact form](/#contact) and we will come walk it. The estimate is free and we do not quote before we have seen the line.
 
 ## What We Tell People to Do About It
 
@@ -113,4 +113,4 @@ Both, depending on where you stand. The statewide default is open range, and cou
 
 ### What fence do I need if my county is closed range?
 
-The law does not specify a fence type. It says keep your animals in, so build what your stock actually respects: five-strand barbed wire at $2.50 to $5.50 a foot for cattle on pasture, net wire at $3.50 to $8 for small stock and horses, pipe at $12 to $28 where the pressure is highest. Call us at (509) 351-8404 for a free on-site estimate and we will tell you which sections need it first.
+The law does not specify a fence type. It says keep your animals in, so build what your stock actually respects: five-strand barbed wire at $2.50 to $5.50 a foot for cattle on pasture, net wire at $3.50 to $8 for small stock and horses, pipe at $12 to $28 where the pressure is highest. Call us at (254) 870-8898 for a free on-site estimate and we will tell you which sections need it first.
