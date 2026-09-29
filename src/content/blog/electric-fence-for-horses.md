@@ -6,7 +6,7 @@ metaDescription: "How an electric horse fence really performs in Central Texas: 
 primaryKeyword: "electric horse fence"
 secondaryKeywords: "electric fence for horses, horse fence charger, polytape horse fence, electric fence grounding, electric fence for horse pasture"
 publishedDate: "2026-09-09"
-tag: "Well Care"
+tag: "Livestock"
 subtitle: "A horse walked through a single strand of poly tape at eleven at night in August, and the owner spent the next two hours walking a county road ditch with a flashlight."
 canonical: "https://brazosridgefence.com/blog/electric-fence-for-horses/"
 faq:

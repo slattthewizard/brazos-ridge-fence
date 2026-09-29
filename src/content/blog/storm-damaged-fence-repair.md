@@ -6,7 +6,7 @@ metaDescription: "Storm damaged fence repair starts the minute the wind dies dow
 primaryKeyword: "storm damaged fence repair"
 secondaryKeywords: "fence storm damage, storm fence repair cost, wind damaged fence, emergency fence repair, fallen tree on fence"
 publishedDate: "2026-08-22"
-tag: "Pump Repair"
+tag: "Fence Repair"
 subtitle: "The wind finally dies down, you step outside, and there's a 60-foot live oak laying across 200 feet of your barbed wire."
 canonical: "https://brazosridgefence.com/blog/storm-damaged-fence-repair/"
 faq:

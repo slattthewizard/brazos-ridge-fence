@@ -6,7 +6,7 @@ metaDescription: "Choosing what size pipe for a pipe fence? We compare 2 3/8 and
 primaryKeyword: "what size pipe for pipe fence"
 secondaryKeywords: "pipe size for pipe fence, 2 3/8 vs 2 7/8 pipe fence, oilfield pipe fence size, pipe fence post size, best pipe size for cattle fence"
 publishedDate: "2026-08-25"
-tag: "Well Care"
+tag: "Materials"
 subtitle: "A half inch of steel can be the difference between a fence that shrugs off a 1,400 pound bull and one that folds like a lawn chair."
 canonical: "https://brazosridgefence.com/blog/what-size-pipe-for-pipe-fence/"
 faq:

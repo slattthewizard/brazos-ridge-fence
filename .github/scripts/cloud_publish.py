@@ -14,19 +14,19 @@ from pathlib import Path
 
 
 TAG_MAP = {
-    'repair': 'Pump Repair', 'fix': 'Pump Repair', 'troubleshoot': 'Pump Repair',
-    'replace': 'Pump Replacement', 'replacement': 'Pump Replacement', 'lifespan': 'Pump Replacement',
-    'pressure tank': 'Pressure Tanks', 'pressure switch': 'Pressure Tanks', 'bladder': 'Pressure Tanks',
-    'no water': 'Emergency', 'emergency': 'Emergency', 'stopped working': 'Emergency',
-    'cost': 'Cost Guide', 'price': 'Cost Guide', 'worth': 'Cost Guide',
-    'water quality': 'Water Quality', 'sediment': 'Water Quality', 'smell': 'Water Quality',
-    'taste': 'Water Quality', 'test': 'Water Quality', 'filter': 'Water Quality', 'softener': 'Water Quality',
-    'winter': 'Maintenance', 'maintenance': 'Maintenance', 'inspect': 'Maintenance',
-    'freeze': 'Maintenance', 'frozen': 'Maintenance',
-    'drill': 'Wells 101', 'depth': 'Wells 101', 'how deep': 'Wells 101', 'casing': 'Wells 101',
-    'permit': 'Regulations', 'law': 'Regulations', 'rights': 'Regulations', 'license': 'Regulations',
-    'buy': 'Buying a Home', 'real estate': 'Buying a Home', 'inspection when buying': 'Buying a Home',
-    'irrigation': 'Irrigation', 'orchard': 'Irrigation', 'sprinkler': 'Irrigation',
+    'insurance': 'Fence Repair', 'repair': 'Fence Repair', 'fix': 'Fence Repair', 'sagging': 'Fence Repair',
+    'splice': 'Fence Repair', 'storm': 'Fence Repair', 'damage': 'Fence Repair',
+    'cost': 'Cost Guide', 'price': 'Cost Guide', 'per acre': 'Cost Guide',
+    'law': 'Texas Law', 'legal': 'Texas Law', 'easement': 'Texas Law', 'survey': 'Texas Law',
+    'neighbor': 'Texas Law', 'property line': 'Texas Law', 'exemption': 'Texas Law', 'liability': 'Texas Law',
+    'contractor': 'Hiring a Contractor', 'quote': 'Hiring a Contractor',
+    'maintenance': 'Maintenance', 'paint': 'Maintenance', 'winter': 'Maintenance', 'inspect': 'Maintenance',
+    'horse': 'Livestock', 'cattle': 'Livestock', 'goat': 'Livestock', 'sheep': 'Livestock', 'bull': 'Livestock',
+    'deer': 'Livestock', 'axis': 'Livestock', 'aoudad': 'Livestock', 'hog': 'Livestock', 'coyote': 'Livestock',
+    'wildlife': 'Livestock', 'grazing': 'Livestock', 'round pen': 'Livestock', 'dry lot': 'Livestock',
+    'wire': 'Materials', 'post': 'Materials', 'brace': 'Materials', 'panel': 'Materials', 'gate': 'Materials',
+    'latch': 'Materials', 'staple': 'Materials', 'tool': 'Materials', 'strainer': 'Materials',
+    'charger': 'Materials', 'electric': 'Materials', 'pipe': 'Materials', 'cable': 'Materials',
 }
 
 
@@ -35,7 +35,7 @@ def guess_tag(title, keyword):
     for fragment, tag in TAG_MAP.items():
         if fragment in text:
             return tag
-    return 'Well Care'
+    return 'Ranch Fencing'
 
 
 def make_nav_title(title):

@@ -6,7 +6,7 @@ metaDescription: "Thinking about a used oilfield pipe fence? Real Central Texas 
 primaryKeyword: "used oilfield pipe fence"
 secondaryKeywords: "drill stem pipe fence, used pipe fencing, oilfield pipe for fence, drill stem fencing cost, used drill pipe for sale"
 publishedDate: "2026-08-24"
-tag: "Well Care"
+tag: "Materials"
 subtitle: "Drive any ranch road between Waco and Crawford and you'll see it. Rust-brown pipe fence running straight as a rifle shot, and most of that pipe pumped oil out of a West Texas well before it ever held..."
 canonical: "https://brazosridgefence.com/blog/used-oilfield-pipe-fence/"
 faq:

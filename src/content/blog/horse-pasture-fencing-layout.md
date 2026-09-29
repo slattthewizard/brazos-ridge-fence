@@ -6,7 +6,7 @@ metaDescription: "How to plan horse pasture fencing around Waco: paddock sizes, 
 primaryKeyword: "horse pasture fencing"
 secondaryKeywords: "horse paddock layout, acres per horse in Texas, horse turnout planning, no-climb horse fence cost, horse fence post spacing"
 publishedDate: "2026-09-14"
-tag: "Well Care"
+tag: "Livestock"
 subtitle: "The two most expensive mistakes we see in horse pasture fencing around Waco are both layout mistakes, not material mistakes. One is fencing the whole place as a single pasture."
 canonical: "https://brazosridgefence.com/blog/horse-pasture-fencing-layout/"
 faq:

@@ -6,7 +6,7 @@ metaDescription: "Texas high fence regulations surprise most landowners. Learn w
 primaryKeyword: "texas high fence regulations"
 secondaryKeywords: "texas high fence laws, high fence rules texas, texas deer fence requirements, high fence permit texas, exotic game fence regulations"
 publishedDate: "2026-08-23"
-tag: "Well Care"
+tag: "Texas Law"
 subtitle: "Texas has more high-fenced acreage than any other state in the country, and here's the part that surprises most landowners: the state never inspects the fence itself."
 canonical: "https://brazosridgefence.com/blog/texas-high-fence-rules/"
 faq:

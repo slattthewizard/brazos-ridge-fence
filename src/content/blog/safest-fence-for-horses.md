@@ -6,7 +6,7 @@ metaDescription: "Which fences cut, trap or spook a horse, ranked by injury risk
 primaryKeyword: "safest fence for horses"
 secondaryKeywords: "safest horse fencing, horse fence injury, safe fence for horses, horse fence options, no-climb horse fence"
 publishedDate: "2026-09-10"
-tag: "Well Care"
+tag: "Livestock"
 subtitle: "A horse can be grazing quietly at dusk and tangled in wire before full dark. The fence does not have to fail for that to happen. It only has to be the wrong fence for the animal standing behind it."
 canonical: "https://brazosridgefence.com/blog/safest-fence-for-horses/"
 faq:
