@@ -321,7 +321,8 @@
   },
   {
     "draft": "drafts/fence-survey-texas-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-05T21:42:45.613833Z"
   },
   {
     "draft": "drafts/cattle-working-pen-design-2026-09-29.md",
