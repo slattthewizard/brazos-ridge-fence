@@ -386,7 +386,8 @@
   },
   {
     "draft": "drafts/bull-fence-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-18T17:38:55.987589Z"
   },
   {
     "draft": "drafts/coyote-proof-fence-2026-09-29.md",
