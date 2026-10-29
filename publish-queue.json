@@ -441,7 +441,8 @@
   },
   {
     "draft": "drafts/electric-fence-grounding-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-29T19:56:04.926124Z"
   },
   {
     "draft": "drafts/electric-fence-voltage-2026-09-29.md",
