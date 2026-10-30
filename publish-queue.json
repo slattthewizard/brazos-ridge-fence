@@ -446,7 +446,8 @@
   },
   {
     "draft": "drafts/electric-fence-voltage-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-30T19:46:02.102586Z"
   },
   {
     "draft": "drafts/high-tensile-fence-2026-09-29.md",
