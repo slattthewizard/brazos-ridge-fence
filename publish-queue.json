@@ -486,7 +486,8 @@
   },
   {
     "draft": "drafts/livestock-gate-latches-2026-09-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-07T19:10:15.539713Z"
   },
   {
     "draft": "drafts/fence-corner-brace-types-2026-09-29.md",
