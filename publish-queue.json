@@ -561,7 +561,8 @@
   },
   {
     "draft": "drafts/how-deep-to-set-fence-posts-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-27T23:03:20.197256Z"
   },
   {
     "draft": "drafts/bump-gate-2026-11-23.md",
